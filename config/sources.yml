@@ -1,0 +1,125 @@
+# Sources surveillées par Agentic Radar.
+# Toutes les sources sont en lecture seule (API publiques / RSS / scraping léger).
+
+github:
+  # Trending repos filtrés par mots-clés agentiques.
+  trending:
+    languages: [python, typescript, rust, go, ""]   # "" = tous langages
+    timeframes: [daily, weekly]
+    min_stars_daily: 30
+    min_stars_weekly: 200
+
+  # Recherches GitHub thématiques (via `gh api search/repositories`).
+  searches:
+    - query: "topic:agent topic:llm pushed:>{since}"
+      label: agent-llm
+    - query: "topic:mcp pushed:>{since}"
+      label: mcp
+    - query: "topic:claude-code pushed:>{since}"
+      label: claude-code
+    - query: "topic:codex pushed:>{since}"
+      label: codex
+    - query: "topic:coding-agent pushed:>{since}"
+      label: coding-agent
+    - query: "topic:multi-agent pushed:>{since}"
+      label: multi-agent
+    - query: "topic:rag topic:agent pushed:>{since}"
+      label: rag-agent
+
+  # Awesome lists à suivre (commits récents = ajouts d'outils).
+  awesome_lists:
+    - e2b-dev/awesome-ai-agents
+    - kyrolabs/awesome-agents
+    - punkpeye/awesome-mcp-servers
+    - hesreallyhim/awesome-claude-code
+    - steven2358/awesome-generative-ai
+
+youtube:
+  # Channels surveillés via flux RSS officiels YouTube.
+  # channel_id se trouve dans le HTML de la page de la chaîne (meta itemprop="channelId").
+  channels:
+    - name: Anthropic
+      channel_id: UCrDwWp7EBBv4NwvScIpBDOA
+    - name: AI Engineer
+      channel_id: UCO2agezbBvyhcv4t3RH2HUw
+    - name: LangChain
+      channel_id: UCC-lyoTfSrcJzA1ab3APAgw
+    - name: AI Jason
+      channel_id: UCNk-PdbS8AlofgGUUtAClGw
+    - name: Fireship
+      channel_id: UCsBjURrPoezykLs9EqgamOA
+    - name: OpenAI
+      channel_id: UCXZCJLdBC09xxGZ6gcdrc6A
+    - name: Matthew Berman
+      channel_id: UCawZsQWqfGSbCI5yjkdVkTA
+    - name: Indy Dev Dan
+      channel_id: UC_x36zCEGilGpB1m-V4gmjg
+
+  # Mots-clés requis pour qu'une vidéo soit retenue après filtrage.
+  keep_keywords:
+    - agent
+    - coding agent
+    - claude code
+    - codex
+    - antigravity
+    - mcp
+    - multi-agent
+    - subagent
+    - llm
+    - rag
+    - orchestration
+
+reddit:
+  subreddits:
+    - LocalLLaMA
+    - ClaudeAI
+    - LLMDevs
+    - AI_Agents
+    - MachineLearning
+    - singularity
+  # Score minimum pour retenir un post.
+  min_score: 50
+  # Nombre de top posts à récupérer par sub.
+  per_sub_limit: 25
+
+hackernews:
+  # On scanne top + new pour les histoires liées à l'agentique / LLMs.
+  story_types: [top, new]
+  per_type_limit: 100
+  keep_keywords:
+    - agent
+    - llm
+    - claude
+    - gpt
+    - codex
+    - mcp
+    - anthropic
+    - openai
+    - gemini
+    - rag
+    - coding assistant
+    - autonomous
+
+blogs:
+  # Blogs engineering surveillés via RSS si disponible.
+  rss:
+    - name: Anthropic Engineering
+      url: https://www.anthropic.com/engineering/rss.xml
+    - name: OpenAI Blog
+      url: https://openai.com/blog/rss.xml
+    - name: Google AI Blog
+      url: https://blog.google/technology/ai/rss/
+    - name: LangChain Blog
+      url: https://blog.langchain.dev/rss/
+    - name: Simon Willison
+      url: https://simonwillison.net/atom/everything/
+    - name: Latent Space
+      url: https://www.latent.space/feed
+    - name: Hugging Face Blog
+      url: https://huggingface.co/blog/feed.xml
+
+twitter:
+  # Twitter/X est laissé désactivé par défaut (pas d'API publique gratuite stable).
+  # On peut compléter manuellement via /ingest <tweet-url>.
+  enabled: false
+  accounts: []

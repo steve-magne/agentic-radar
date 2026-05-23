@@ -1,0 +1,57 @@
+name: Daily Agentic Radar Collect
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # tous les jours à 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Set up Python
+        run: uv python install
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Authenticate gh CLI
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh auth status
+
+      - name: Run collectors
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DATE=$(date -u +%F)
+          mkdir -p content/raw/$DATE
+          uv run python scripts/collectors/github_trending.py --out content/raw/$DATE/github.json || true
+          uv run python scripts/collectors/youtube_feed.py --out content/raw/$DATE/youtube.json || true
+          uv run python scripts/collectors/reddit_feed.py --out content/raw/$DATE/reddit.json || true
+          uv run python scripts/collectors/hackernews.py --out content/raw/$DATE/hackernews.json || true
+          uv run python scripts/collectors/blogs_rss.py --out content/raw/$DATE/blogs.json || true
+
+      - name: Commit raw snapshot
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add content/raw/
+          git diff --quiet && git diff --staged --quiet || \
+            git commit -m "chore(radar): raw snapshot $(date -u +%F) [skip ci]" && git push
+        continue-on-error: true
+
+      # Note : l'analyse et la rédaction du blog sont déléguées à Claude Code
+      # (sub-agents content-analyzer / summarizer / blog-writer) via une
+      # scheduled task locale ou un déclenchement manuel via /digest.
+      # Ce workflow CI sert uniquement à garantir un snapshot brut quotidien
+      # dans le repo, même si la machine de l'utilisateur est éteinte.

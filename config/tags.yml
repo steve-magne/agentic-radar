@@ -1,0 +1,95 @@
+# Taxonomie de tags utilisée par content-analyzer.
+# Chaque entrée donne le tag canonique et des signaux (mots/phrases) qui le déclenchent.
+# Les sub-agents sont libres d'ajouter des tags ad-hoc, mais doivent privilégier ceux-ci.
+
+categories:
+  coding-agent:
+    signals: ["coding agent", "claude code", "codex", "antigravity", "cursor", "windsurf", "aider", "cline", "continue.dev"]
+    description: Agents IDE / CLI qui écrivent du code
+
+  multi-agent:
+    signals: ["multi-agent", "swarm", "agent crew", "crewai", "autogen", "agent team"]
+    description: Architectures impliquant plusieurs agents
+
+  subagents:
+    signals: ["subagent", "sub-agent", "delegate to", "agent.delegate"]
+    description: Délégation hiérarchique d'agents
+
+  mcp:
+    signals: ["mcp", "model context protocol", "mcp server", "mcp client"]
+    description: Model Context Protocol
+
+  a2a:
+    signals: ["a2a", "agent-to-agent", "agent2agent"]
+    description: Protocoles d'interopérabilité entre agents
+
+  orchestration:
+    signals: ["orchestrator", "workflow engine", "dag", "langgraph", "temporal", "prefect"]
+    description: Orchestration de tâches / workflows
+
+  memory:
+    signals: ["agent memory", "mem0", "long-term memory", "episodic memory", "vector memory"]
+    description: Mémoire à long terme pour agents
+
+  rag:
+    signals: ["rag", "retrieval-augmented", "vector store", "embedding", "graphrag"]
+    description: Retrieval-Augmented Generation
+
+  eval:
+    signals: ["eval", "evaluation", "benchmark", "swe-bench", "humaneval", "agent evaluation"]
+    description: Évaluation d'agents et LLMs
+
+  browser-use:
+    signals: ["browser use", "browser-use", "playwright agent", "web agent", "computer use"]
+    description: Agents qui contrôlent un navigateur
+
+  planning:
+    signals: ["planner", "plan-and-execute", "react", "tree of thoughts", "tot", "reasoning"]
+    description: Planification / raisonnement
+
+  github-automation:
+    signals: ["pr review", "github actions", "auto-pr", "code review bot"]
+    description: Automatisation autour de GitHub
+
+  llm-model:
+    signals: ["claude 4", "gpt-5", "o4", "gemini 3", "llama 4", "deepseek", "qwen", "kimi"]
+    description: Nouveau modèle LLM
+
+  ide-tool:
+    signals: ["vscode extension", "jetbrains plugin", "ide integration"]
+    description: Outils IDE
+
+  framework:
+    signals: ["langchain", "llamaindex", "haystack", "dspy", "pydantic-ai", "smolagents"]
+    description: Frameworks d'agents
+
+  protocol:
+    signals: ["protocol", "spec", "schema", "openapi"]
+    description: Spec / protocole
+
+  skill-plugin:
+    signals: ["claude skill", "agent skill", "plugin", "powerusers", "claude code plugin"]
+    description: Skills / plugins Claude Code
+
+complexity_levels:
+  intro: Concept introductif, sans prérequis fort
+  intermediate: Demande de la pratique avec un framework agent
+  advanced: Nécessite compréhension architecture distribuée / LLM internals
+  research: Article de recherche ou outil très expérimental
+
+importance_scoring:
+  # Heuristiques d'importance (le sub-agent content-analyzer s'en inspire).
+  - signal: officiel (anthropic, openai, google deepmind, meta ai)
+    weight: +3
+  - signal: nouveau protocole ou nouveau modèle phare
+    weight: +3
+  - signal: framework déjà très adopté (langchain, llamaindex)
+    weight: +2
+  - signal: repo trending GitHub avec >500 stars en <7 jours
+    weight: +2
+  - signal: discussion technique de fond (HN >200 points)
+    weight: +1
+  - signal: tutoriel introductif déjà bien couvert
+    weight: -1
+  - signal: démo marketing sans technique
+    weight: -2

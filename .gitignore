@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.uv/
+content/raw/**/errors.log
+/tmp/
+*.swp
+.idea/
+.vscode/
