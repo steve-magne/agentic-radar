@@ -1,0 +1,13 @@
+# Configuration de la tâche planifiée Claude Code.
+# Utilisée par le MCP scheduled-tasks pour déclencher /digest chaque jour.
+
+schedule:
+  name: agentic-radar-daily-digest
+  description: Collecte quotidienne et génération du digest agentique
+  # Tous les jours à 07:00 heure de Paris.
+  cron: "0 7 * * *"
+  timezone: Europe/Paris
+  prompt: |
+    Exécute /digest pour générer le digest agentique du jour.
+    Si /publish n'est pas inclus dans /digest, lance-le ensuite pour
+    publier le markdown final dans content/blog/.
