@@ -1,0 +1,42 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=D6XWu54oG4g",
+    "video_id": "D6XWu54oG4g",
+    "title": "Inside Cogent's three-agent architecture for autonomous defense | Geng Sng (Co-founder, Cogent)",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-05-22T14:00:13Z",
+    "description_preview": "Geng Sng is co-founder and CTO of Cogent, which builds autonomous agents that remediate vulnerabilities for enterprise security teams. Today, Cogent's agents process billions of security events per day, maintaining a live context graph of every asset and vulnerability across customer environments. In this conversation, Geng walks through Cogent's hot vs cold context split, the sub-agents that handle side quests, and the two graphs they run in parallel.\n\nWe also discuss:\n• Why defensive security "
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=9OQ5vaYbGV0",
+    "video_id": "9OQ5vaYbGV0",
+    "title": "Google’s AI endgame is here… everything you missed at I/O 2026",
+    "channel": "Fireship",
+    "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+    "published_at": "2026-05-22T16:38:42Z",
+    "description_preview": "Try using Emergent's specialized agents in parallel to build any full-stack application - https://app.emergent.sh/?utm_shift=redirect&amp;via=fireship\n\nAt Google I/O 2026, Sundar Pichai and Demis Hassabis set out the roadmap for Google's 'agentic Gemini era', with Gemini hiding inside every product like the microplastics in your bloodstream. But what else did they announce?\n\n#coding #programming #google #ai \n\n🔖 Topics Covered\n- Google I/O 2026 Announcements\n- Everything is an agent now\n- Google'"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=HaaKUFAOi84",
+    "video_id": "HaaKUFAOi84",
+    "title": "Workspace agents in ChatGPT: Admin and builder controls",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-05-22T22:48:37Z",
+    "description_preview": "Workspace agents in ChatGPT help teams turn repeatable workflows into shared agents that can pull in context, use tools, and move work forward on their own.\n\nIn this demo, you’ll see how admins and builders can set safeguards for workspace agents. Enterprise admins can centrally manage who can use, build, and publish agents, and define what agents are allowed to do. Builders can also configure when agents should ask for approval before taking specific actions, so agents work the way teams need t"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=oRsn3pyeXuw",
+    "video_id": "oRsn3pyeXuw",
+    "title": "Cisco Builds AI Defense with Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-05-22T13:59:47Z",
+    "description_preview": "AI Defense is Cisco's end-to-end AI security solution that protects against safety and security risks introduced by AI. Codex was used by Cisco's team to write the majority of AI Defense and nearly every new feature that Cisco is building. \n\n\"Features that would have taken several quarters to get into customers' hands dropped to weeks.\" - DJ Sampath \n\n➡️ Read how Cisco is making AI-native development a core part of how enterprise software gets built: https://lnkd.in/e4CWAtpf"
+  }
+]
