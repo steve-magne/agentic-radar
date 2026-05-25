@@ -1,0 +1,101 @@
+[
+  {
+    "source": "blog",
+    "blog": "Google AI Blog",
+    "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+    "published_at": "2026-05-22T18:00:00Z",
+    "summary_preview": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "datasette 1.0a30",
+    "url": "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
+    "published_at": "2026-05-24T23:52:37Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a30\">datasette 1.0a30</a></p>\n        <p>The big new feature in this alpha is a new customizable \"Jump to...\" menu, described in detail in <a href=\"https://datasette.io/blog/2026/jump-menu/\">The extensible \"Jump to\" menu in Datasette 1.0a30</a> on the Datasette blog. You can try it out by hitting <code>/</code> on <a href=\"https://latest.datasette.io/\">latest.datasette.io</a> - it looks like this:</p>\n<p><img alt=\"Animated demo - the Jump to menu appears, and as the user types it filters to specific databases and tables and debug options\" src=\"https://static.simonwillison.net/static/2026/menu.gif\" /></p>\n<p>The new <a href=\"https://docs.datasette.io/en/latest/plugin_hooks.html#jump-items-sql-datasette-actor-request\">jump_items_sql()</a> plugin hook allows plugins to add their own items to the set that's searched by the plugin.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "datasette-agent 0.1a4",
+    "url": "https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything",
+    "published_at": "2026-05-24T23:19:34Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.1a4\">datasette-agent 0.1a4</a></p>\n        <p>Taking advantage of the new <a href=\"https://docs.datasette.io/en/latest/javascript_plugins.html#javascript-plugins-makejumpsections\">makeJumpSections()</a> JavaScript plugin hook added in <a href=\"https://docs.datasette.io/en/latest/changelog.html#a30-2026-05-24\">Datasette 1.0a30</a>, <code>datasette-agent</code> now presents this \"Start a new agent chat\" interface as part of the Jump to menu, any time you hit <code>/</code>:</p>\n<p><img alt=\"Animated demo - this time the demo starts on agent.datasette.io and when the menu opens it has a new Start chat box below the search box - entering 'count entries' and hitting the button causes it to start an agent conversation that counts the number of entries and returns 3300.\" src=\"https://static.simonwillison.net/static/2026/menu-agent.gif\" /></p>\n<p>You can try this out by signing into <a href=\"https",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "datasette-fixtures 0.1a0",
+    "url": "https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything",
+    "published_at": "2026-05-24T21:38:32Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-fixtures/releases/tag/0.1a0\">datasette-fixtures 0.1a0</a></p>\n        <p>One of the smaller features in <a href=\"https://docs.datasette.io/en/latest/changelog.html#a30-2026-05-24\">Datasette 1.0a30</a> is this:</p>\n<blockquote>\n<p>New documented <a href=\"https://docs.datasette.io/en/latest/testing_plugins.html#datasette-fixtures-populate-fixture-database\">datasette.fixtures.populate_fixture_database(conn)</a> helper for creating the fixture database tables used by Datasette's own tests, intended for plugin test suites.</p>\n</blockquote>\n<p>This new plugin takes advantage of that API. You can try it out using <code>uvx</code> without even installing Datasette like this:</p>\n<pre>uvx --prerelease=allow \\\n  --with datasette-fixtures datasette \\\n  --get /fixtures/roadside_attractions.json</pre>\n<p>Which outputs:</p>\n<pre>{\n  <span class=\"pl-ent\">\"ok\"</span>: <span class=\"pl-c1\">true</span>,\n  <span class=\"pl-ent\">\"",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Armin Ronacher",
+    "url": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
+    "published_at": "2026-05-24T18:46:53Z",
+    "summary_preview": "<blockquote cite=\"https://lucumr.pocoo.org/2026/5/24/pi-oss/\"><p>The most frustrating failure mode right now is that people submit issues that are not in their own voice. They contain an observed problem somewhere, but it has been thrown into a clanker and the clanker reworded it and made a huge mess of it. Typically, it was prompted so badly that the conclusions produced are more often than not inaccurate but always full of confidence. The result is complete guesswork on root causes, fake-minimal repros, suggested implementation strategies, analogies to adjacent but often the wrong code, and long lists of error classes that might or might not matter. [...]</p>\n<p>So at least personally, I increasingly want issue reports to be condensed to what the human actually observed:</p>\n<ol>\n<li>I ran this command.</li>\n<li>I expected this to happen.</li>\n<li>This happened instead.</li>\n<li>Here is the exact error or log.</li>\n</ol></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://lucumr.po",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Mad House — Usborne Creepy Computer Games",
+    "url": "https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything",
+    "published_at": "2026-05-24T17:14:11Z",
+    "summary_preview": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/usborne-mad-house\">Mad House — Usborne Creepy Computer Games</a></p>\n        <p>Via <a href=\"https://news.ycombinator.com/item?id=48258194\">Hacker News</a> I learned that UK publisher Usborne published <a href=\"https://usborne.com/us/books/computer-and-coding-books\">free PDFs of their 1980s Computer Books</a>, some of which I remember working through on my Commodore 64 as a child.</p>\n<p>These were so great! Beautifully illustrated books with fun projects made up of code you could type into your own machine.</p>\n<p>I remember playing \"Mad House\" typed in from the 1983 book \"Creepy Computer Games\", so I fed that PDF <a href=\"https://claude.ai/share/7b4a5617-f586-4744-b082-1650cab607cb\">into Claude</a> and had it build an interactive version of that game in JavaScript and HTML:</p>\n<blockquote>\n<p><code>Build a vanilla JS artifact that exactly recreates the game Mad House from this book, make sure it's mobile friendly and",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "On the <dl>",
+    "url": "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
+    "published_at": "2026-05-23T20:24:48Z",
+    "summary_preview": "<p><strong><a href=\"https://benmyers.dev/blog/on-the-dl/\">On the &lt;dl&gt;</a></strong></p>\nI learned a few new-to-me things about the <code>&lt;dl&gt;</code> element from this article by Ben Meyer:</p>\n<ol>\n<li>A <code>&lt;dt&gt;</code> can be followed by <em>multiple</em> <code>&lt;dd&gt;</code></li>\n<li>You can optionally group the <code>&lt;dt&gt;</code> and <code>&lt;dd&gt;</code> elements in a <code>&lt;div&gt;</code> for styling - but only a <code>&lt;div&gt;</code>.</li>\n<li>You can label them using ARIA.</li>\n<li>They've been called \"description lists\", not \"definition lists\", since <a href=\"https://www.w3.org/TR/2008/WD-html5-20080122/#the-dl\">an HTML5 draft in 2008</a>.</li>\n</ol>\n<p>So this is valid:</p>\n<pre><span class=\"pl-kos\">&lt;</span><span class=\"pl-ent\">h2</span> <span class=\"pl-c1\">id</span>=\"<span class=\"pl-s\">credits</span>\"<span class=\"pl-kos\">&gt;</span>Credits<span class=\"pl-kos\">&lt;/</span><span class=\"pl-ent\">h2</span><span class=\"pl-kos\">&gt;</span>\n<span",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "The memory shortage is causing a repricing of consumer electronics",
+    "url": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
+    "published_at": "2026-05-22T22:01:31Z",
+    "summary_preview": "<p><strong><a href=\"https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone\">The memory shortage is causing a repricing of consumer electronics</a></strong></p>\nDavid Oks provides the clearest explanation I've seen yet of why consumer products that use memory are likely to get significantly more expensive over the next few years.</p>\n<p>The short version is that memory manufacturers - of which there are just three remaining large companies - have a fixed capacity in terms of how many wafers they can process at any one time. This fixed wafer capacity is then split between DDR - used in desktops and servers, LPDDR - used in mobile phones and low-energy devices, and HBM - used with GPUs.</p>\n<p>Until recently, HBM got just 2% of that wafer allocation. The enormous growth in AI data centers has pushed that up to an expected 20% by the end of 2026, and \"a single gigabyte of HBM consumes more than three times the wafer capacity that a gigabyte of DDR or LPDDR does\".</p>\n<p>Memory companie",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] All Model Labs are now Agent Labs",
+    "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+    "published_at": "2026-05-23T04:21:17Z",
+    "summary_preview": "a quiet day lets us tie together a few quotes as all model labs become agent labs",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "published_at": "2026-05-23T00:02:03Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+    "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+    "published_at": "2026-05-22T15:25:59Z",
+    "summary_preview": "",
+    "author": ""
+  }
+]
