@@ -1,0 +1,92 @@
+[
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "published_at": "2026-05-25T00:00:00Z",
+    "summary_preview": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Corey Quinn",
+    "url": "https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything",
+    "published_at": "2026-05-26T02:28:54Z",
+    "summary_preview": "<blockquote cite=\"https://twitter.com/quinnypig/status/2058960462256210268\"><p>I cannot believe I'm saying this, but getting the literal Pope to canonize your product's specific technical limitations as a spiritual treatise is the single greatest act of vendor lobbying I have ever seen.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://twitter.com/quinnypig/status/2058960462256210268\">Corey Quinn</a>, on Anthropic co-founder Christopher Olah's <a href=\"https://www.washingtonpost.com/world/2026/05/25/pope-elevates-ai-ethics-religious-imperative-with-first-encyclical/\">influence</a> on <em>Magnifica Humanitas</em></p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/ai-ethics\">ai-ethics</a>, <a href=\"https://simonwillison.net/tags/corey-quinn\">corey-quinn</a>, <a href=\"https://simonwillison.net/tags/anthropic\">anthropic</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Notes on Pope Leo XIV's encyclical on AI",
+    "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
+    "published_at": "2026-05-25T23:58:17Z",
+    "summary_preview": "<p>Dropped this morning by the Vatican: <a href=\"https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html\">Magnifica Humanitas of His Holiness Pope Leo XIV on Safeguarding the Human Person in the Time of Artificial Intelligence</a>. This is a <em>very interesting</em> document. It's some of the clearest writing I've seen on the ethics of integrating AI into modern society.</p>\n<p>Pope Leo XIV chose the name Leo in honor of Pope Leo XIII, who is known for his 1891 <em><a href=\"https://en.wikipedia.org/wiki/Rerum_novarum\">Rerum novarum</a></em> encyclical on \"Rights and Duties of Capital and Labor\".</p>\n<p><a href=\"https://www.vaticannews.va/en/church/news/2025-05/leo-xiii-s-times-and-our-own.html\">This story</a> on Vatican News further clarifies the significance of that decision:</p>\n<blockquote>\n<p>Meeting with the College of Cardinals for their first formal encounter after his election, Pope Leo XIV explained part of the reason for the choice o",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "datasette 1.0a30",
+    "url": "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
+    "published_at": "2026-05-24T23:52:37Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a30\">datasette 1.0a30</a></p>\n        <p>The big new feature in this alpha is a new customizable \"Jump to...\" menu, described in detail in <a href=\"https://datasette.io/blog/2026/jump-menu/\">The extensible \"Jump to\" menu in Datasette 1.0a30</a> on the Datasette blog. You can try it out by hitting <code>/</code> on <a href=\"https://latest.datasette.io/\">latest.datasette.io</a> - it looks like this:</p>\n<p><img alt=\"Animated demo - the Jump to menu appears, and as the user types it filters to specific databases and tables and debug options\" src=\"https://static.simonwillison.net/static/2026/menu.gif\" /></p>\n<p>The new <a href=\"https://docs.datasette.io/en/latest/plugin_hooks.html#jump-items-sql-datasette-actor-request\">jump_items_sql()</a> plugin hook allows plugins to add their own items to the set that's searched by the plugin.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "datasette-agent 0.1a4",
+    "url": "https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything",
+    "published_at": "2026-05-24T23:19:34Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.1a4\">datasette-agent 0.1a4</a></p>\n        <p>Taking advantage of the new <a href=\"https://docs.datasette.io/en/latest/javascript_plugins.html#javascript-plugins-makejumpsections\">makeJumpSections()</a> JavaScript plugin hook added in <a href=\"https://docs.datasette.io/en/latest/changelog.html#a30-2026-05-24\">Datasette 1.0a30</a>, <code>datasette-agent</code> now presents this \"Start a new agent chat\" interface as part of the Jump to menu, any time you hit <code>/</code>:</p>\n<p><img alt=\"Animated demo - this time the demo starts on agent.datasette.io and when the menu opens it has a new Start chat box below the search box - entering 'count entries' and hitting the button causes it to start an agent conversation that counts the number of entries and returns 3300.\" src=\"https://static.simonwillison.net/static/2026/menu-agent.gif\" /></p>\n<p>You can try this out by signing into <a href=\"https",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "datasette-fixtures 0.1a0",
+    "url": "https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything",
+    "published_at": "2026-05-24T21:38:32Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-fixtures/releases/tag/0.1a0\">datasette-fixtures 0.1a0</a></p>\n        <p>One of the smaller features in <a href=\"https://docs.datasette.io/en/latest/changelog.html#a30-2026-05-24\">Datasette 1.0a30</a> is this:</p>\n<blockquote>\n<p>New documented <a href=\"https://docs.datasette.io/en/latest/testing_plugins.html#datasette-fixtures-populate-fixture-database\">datasette.fixtures.populate_fixture_database(conn)</a> helper for creating the fixture database tables used by Datasette's own tests, intended for plugin test suites.</p>\n</blockquote>\n<p>This new plugin takes advantage of that API. You can try it out using <code>uvx</code> without even installing Datasette like this:</p>\n<pre>uvx --prerelease=allow \\\n  --with datasette-fixtures datasette \\\n  --get /fixtures/roadside_attractions.json</pre>\n<p>Which outputs:</p>\n<pre>{\n  <span class=\"pl-ent\">\"ok\"</span>: <span class=\"pl-c1\">true</span>,\n  <span class=\"pl-ent\">\"",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Armin Ronacher",
+    "url": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
+    "published_at": "2026-05-24T18:46:53Z",
+    "summary_preview": "<blockquote cite=\"https://lucumr.pocoo.org/2026/5/24/pi-oss/\"><p>The most frustrating failure mode right now is that people submit issues that are not in their own voice. They contain an observed problem somewhere, but it has been thrown into a clanker and the clanker reworded it and made a huge mess of it. Typically, it was prompted so badly that the conclusions produced are more often than not inaccurate but always full of confidence. The result is complete guesswork on root causes, fake-minimal repros, suggested implementation strategies, analogies to adjacent but often the wrong code, and long lists of error classes that might or might not matter. [...]</p>\n<p>So at least personally, I increasingly want issue reports to be condensed to what the human actually observed:</p>\n<ol>\n<li>I ran this command.</li>\n<li>I expected this to happen.</li>\n<li>This happened instead.</li>\n<li>Here is the exact error or log.</li>\n</ol></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://lucumr.po",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Mad House — Usborne Creepy Computer Games",
+    "url": "https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything",
+    "published_at": "2026-05-24T17:14:11Z",
+    "summary_preview": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/usborne-mad-house\">Mad House — Usborne Creepy Computer Games</a></p>\n        <p>Via <a href=\"https://news.ycombinator.com/item?id=48258194\">Hacker News</a> I learned that UK publisher Usborne published <a href=\"https://usborne.com/us/books/computer-and-coding-books\">free PDFs of their 1980s Computer Books</a>, some of which I remember working through on my Commodore 64 as a child.</p>\n<p>These were so great! Beautifully illustrated books with fun projects made up of code you could type into your own machine.</p>\n<p>I remember playing \"Mad House\" typed in from the 1983 book \"Creepy Computer Games\", so I fed that PDF <a href=\"https://claude.ai/share/7b4a5617-f586-4744-b082-1650cab607cb\">into Claude</a> and had it build an interactive version of that game in JavaScript and HTML:</p>\n<blockquote>\n<p><code>Build a vanilla JS artifact that exactly recreates the game Mad House from this book, make sure it's mobile friendly and",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "On the <dl>",
+    "url": "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
+    "published_at": "2026-05-23T20:24:48Z",
+    "summary_preview": "<p><strong><a href=\"https://benmyers.dev/blog/on-the-dl/\">On the &lt;dl&gt;</a></strong></p>\nI learned a few new-to-me things about the <code>&lt;dl&gt;</code> element from this article by Ben Meyer:</p>\n<ol>\n<li>A <code>&lt;dt&gt;</code> can be followed by <em>multiple</em> <code>&lt;dd&gt;</code></li>\n<li>You can optionally group the <code>&lt;dt&gt;</code> and <code>&lt;dd&gt;</code> elements in a <code>&lt;div&gt;</code> for styling - but only a <code>&lt;div&gt;</code>.</li>\n<li>You can label them using ARIA.</li>\n<li>They've been called \"description lists\", not \"definition lists\", since <a href=\"https://www.w3.org/TR/2008/WD-html5-20080122/#the-dl\">an HTML5 draft in 2008</a>.</li>\n</ol>\n<p>So this is valid:</p>\n<pre><span class=\"pl-kos\">&lt;</span><span class=\"pl-ent\">h2</span> <span class=\"pl-c1\">id</span>=\"<span class=\"pl-s\">credits</span>\"<span class=\"pl-kos\">&gt;</span>Credits<span class=\"pl-kos\">&lt;/</span><span class=\"pl-ent\">h2</span><span class=\"pl-kos\">&gt;</span>\n<span",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "url": "https://huggingface.co/blog/agent-glossary",
+    "published_at": "2026-05-25T00:00:00Z",
+    "summary_preview": "",
+    "author": ""
+  }
+]
