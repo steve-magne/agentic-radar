@@ -1,0 +1,32 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=-05qYgiH1OY",
+    "video_id": "-05qYgiH1OY",
+    "title": "Hot vs. cold context isn't about time — it's about whether it's being used | Max Agency #podcast",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-05-26T19:00:35Z",
+    "description_preview": "Gng Sng, Co-Founder and CTO of Cogent Security, reframes how to think about agent context. The real distinction isn't short vs. long — it's active vs. inactive. He walks through how Cogent's context engine builds small graphs that stay \"hot\" across long-running tasks and even agent handoffs, separate from their high-scale knowledge graph.\n\nThis clip is from Max Agency, a #podcast about how the best AI agents are actually being built. Hosted by Harrison Chase, CEO of LangChain, each episode goes "
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=qPuzWFvRajk",
+    "video_id": "qPuzWFvRajk",
+    "title": "10 weird OSS projects you need right now...",
+    "channel": "Fireship",
+    "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+    "published_at": "2026-05-26T17:53:11Z",
+    "description_preview": "Get $1,000 in Hyperagent inference credits: https://www.hyperagent.com/fireship \n\nApply to the Founding 500 to get $20k for your project: https://www.hyperagent.com\n\nIn today's video, we'll look at 10 new open source projects that are saving developers from prompt bro hell.\n\n#coding #programming #coding #oss #opensource \n\n🔖 Topics Covered\n\n- Ratty 3D Terminal https://ratty-term.org/\n- TheyLive Adblocker https://github.com/davmlaw/they_live_adblocker\n- TerminalPhone https://gitlab.com/here_forawh"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=2KcITKKJikA",
+    "video_id": "2KcITKKJikA",
+    "title": "Top #1 Opportunity for Senior Engineers: Agentic Engineering",
+    "channel": "Indy Dev Dan",
+    "channel_id": "UC_x36zCEGilGpB1m-V4gmjg",
+    "published_at": "2026-05-25T13:00:27Z",
+    "description_preview": "Two engineers. Same agent. Same 200K tokens. Wildly different results. 🔥\n\nThat gap IS the opportunity. Karpathy just named agentic engineering at the Sequoia AI Ascent, which means the window where you're early is already closing. By the end of 2026, this is the default. So here's my message to myself, and to you: stop vibe coding and start engineering the system that builds the system.\n\n🎥 VIDEO REFERENCES\n• Karpathy Sequoia AI Summit: https://www.youtube.com/watch?v=96jN2OCOfLs\n• Pi Coding Agen"
+  }
+]

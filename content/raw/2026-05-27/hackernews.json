@@ -1,0 +1,68 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48237012,
+    "title": "Use boring languages with LLMs",
+    "url": "https://jry.io/writing/use-boring-languages-with-llms/",
+    "hn_url": "https://news.ycombinator.com/item?id=48237012",
+    "score": 212,
+    "descendants": 153,
+    "by": "evakhoury",
+    "time": "2026-05-22T15:10:22Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48281226,
+    "title": "A sleep-like consolidation mechanism for LLMs",
+    "url": "https://arxiv.org/abs/2605.26099",
+    "hn_url": "https://news.ycombinator.com/item?id=48281226",
+    "score": 198,
+    "descendants": 132,
+    "by": "juxtapose",
+    "time": "2026-05-26T15:36:24Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48222600,
+    "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+    "url": "https://github.com/logannye/rosalind",
+    "hn_url": "https://news.ycombinator.com/item?id=48222600",
+    "score": 152,
+    "descendants": 37,
+    "by": "samuell",
+    "time": "2026-05-21T13:55:13Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48273147,
+    "title": "Performance of Rust Language [pdf]",
+    "url": "https://github.com/yugr/rust-slides/",
+    "hn_url": "https://news.ycombinator.com/item?id=48273147",
+    "score": 129,
+    "descendants": 95,
+    "by": "tanelpoder",
+    "time": "2026-05-25T23:37:31Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48272393,
+    "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
+    "url": "https://github.com/tantara/openbrief",
+    "hn_url": "https://news.ycombinator.com/item?id=48272393",
+    "score": 88,
+    "descendants": 17,
+    "by": "tantara",
+    "time": "2026-05-25T21:50:03Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48278407,
+    "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
+    "url": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
+    "hn_url": "https://news.ycombinator.com/item?id=48278407",
+    "score": 65,
+    "descendants": 22,
+    "by": "berlianta",
+    "time": "2026-05-26T11:46:10Z"
+  }
+]
