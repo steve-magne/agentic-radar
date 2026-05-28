@@ -1,0 +1,123 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48296794,
+    "title": "I think Anthropic and OpenAI have found product-market fit",
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "hn_url": "https://news.ycombinator.com/item?id=48296794",
+    "score": 813,
+    "descendants": 951,
+    "by": "simonw",
+    "time": "2026-05-27T16:39:13Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48291225,
+    "title": "All of human cooking compressed into 2 megabytes",
+    "url": "https://arxiv.org/abs/2605.22391",
+    "hn_url": "https://news.ycombinator.com/item?id=48291225",
+    "score": 405,
+    "descendants": 162,
+    "by": "josefchen",
+    "time": "2026-05-27T08:14:40Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48289950,
+    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+    "url": "https://arps18.github.io/posts/claude-code-mastery/",
+    "hn_url": "https://news.ycombinator.com/item?id=48289950",
+    "score": 394,
+    "descendants": 238,
+    "by": "arps18",
+    "time": "2026-05-27T05:13:39Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48291575,
+    "title": "Go: Support for Generic Methods",
+    "url": "https://github.com/golang/go/issues/77273",
+    "hn_url": "https://news.ycombinator.com/item?id=48291575",
+    "score": 239,
+    "descendants": 194,
+    "by": "f311a",
+    "time": "2026-05-27T09:02:59Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48297467,
+    "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+    "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
+    "hn_url": "https://news.ycombinator.com/item?id=48297467",
+    "score": 115,
+    "descendants": 52,
+    "by": "ChrisArchitect",
+    "time": "2026-05-27T17:24:25Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48289624,
+    "title": "Show HN: Posthorn, self-hosted mail gateway",
+    "url": "https://github.com/craigmccaskill/posthorn",
+    "hn_url": "https://news.ycombinator.com/item?id=48289624",
+    "score": 74,
+    "descendants": 54,
+    "by": "craigmccaskill",
+    "time": "2026-05-27T04:26:26Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48292718,
+    "title": "Ripgrep AI Policy",
+    "url": "https://github.com/BurntSushi/ripgrep/blob/master/AI_POLICY.md",
+    "hn_url": "https://news.ycombinator.com/item?id=48292718",
+    "score": 67,
+    "descendants": 9,
+    "by": "singiamtel",
+    "time": "2026-05-27T11:40:49Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48276429,
+    "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
+    "url": "https://arxiv.org/abs/2510.04950",
+    "hn_url": "https://news.ycombinator.com/item?id=48276429",
+    "score": 64,
+    "descendants": 62,
+    "by": "KnuthIsGod",
+    "time": "2026-05-26T07:43:22Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48293014,
+    "title": "XLIDE: VBA without excel",
+    "url": "https://github.com/WilliamSmithEdward/xlide_vscode",
+    "hn_url": "https://news.ycombinator.com/item?id=48293014",
+    "score": 63,
+    "descendants": 25,
+    "by": "sts153",
+    "time": "2026-05-27T12:08:18Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48292560,
+    "title": "Atomically precise mechanosynthesis of carbon structures on hydrogenated Silicon",
+    "url": "https://arxiv.org/abs/2605.27250",
+    "hn_url": "https://news.ycombinator.com/item?id=48292560",
+    "score": 55,
+    "descendants": 7,
+    "by": "gene-h",
+    "time": "2026-05-27T11:25:30Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48267432,
+    "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
+    "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
+    "hn_url": "https://news.ycombinator.com/item?id=48267432",
+    "score": 48,
+    "descendants": 54,
+    "by": "rajveerb",
+    "time": "2026-05-25T14:41:09Z"
+  }
+]

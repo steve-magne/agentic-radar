@@ -1,0 +1,173 @@
+[
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "url": "https://openai.com/index/cisco",
+    "published_at": "2026-05-27T11:00:00Z",
+    "summary_preview": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Building self-improving tax agents with Codex",
+    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "published_at": "2026-05-27T07:00:00Z",
+    "summary_preview": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Election information and safeguards in 2026",
+    "url": "https://openai.com/index/election-safeguards-2026",
+    "published_at": "2026-05-27T00:00:00Z",
+    "summary_preview": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
+    "published_at": "2026-05-27T00:00:00Z",
+    "summary_preview": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "sqlite AGENTS.md",
+    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
+    "published_at": "2026-05-27T23:44:37Z",
+    "summary_preview": "<p><strong><a href=\"https://github.com/sqlite/sqlite/blob/master/AGENTS.md\">sqlite AGENTS.md</a></strong></p>\nSQLite gained an AGENTS.md file <a href=\"https://github.com/sqlite/sqlite/commit/a1e5778889252d2609a59fd9b819d70392c5789e\">five days ago</a> - but it's not intended for their own development, it's presumably aimed at people who are pointing agents at the SQLite codebase. It includes:</p>\n<blockquote>\n<p>SQLite does not accept pull requests without prior agreement and/or accompanying legal paperwork that places the pull request in the public domain. However, the human SQLite developers will review a concise and well-written pull request as a proof-of-concept prior to reimplementing the changes themselves.</p>\n<p>SQLite does not accept agentic code. However the project will accept agentic bug reports that include a reproducible test case. Patches or pull requests demonstrating a possible fix, for documentation purposes, are welcomed.</p>\n</blockquote>\n<p>The <a href=\"https://gith",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "I think Anthropic and OpenAI have found product-market fit",
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything",
+    "published_at": "2026-05-27T16:38:35Z",
+    "summary_preview": "<p>Anthropic are <a href=\"https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/\">strongly rumored</a> to be about to have their first profitable quarter. Stories <a href=\"https://www.theinformation.com/newsletters/applied-ai/uber-cto-shows-claude-code-can-blow-ai-budgets\">are circulating</a> of companies surprised at how expensive their LLM bills are becoming from usage by their staff. I think this is because OpenAI and Anthropic have both found product-market fit.</p>\n\n<ul>\n  <li><a href=\"https://simonwillison.net/2026/May/27/product-market-fit/#enterprise-customers-are-now-paying-api-prices\">Enterprise customers are now paying API prices</a></li>\n  <li><a href=\"https://simonwillison.net/2026/May/27/product-market-fit/#i-think-they-ve-found-product-market-fit\">I think they've found product-market fit</a></li>\n  <li><a href=\"https://simonwillison.net/2026/May/27/product-market-fit/#and-they-re-ramping-up\">And they're ramping up</a></li>\n  <li>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Kyle Ferrana",
+    "url": "https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything",
+    "published_at": "2026-05-27T06:41:43Z",
+    "summary_preview": "<blockquote cite=\"https://twitter.com/kyletrainemoji/status/2059301102814953511\"><p>PICARD: Data, shields up</p>\n<p>DATA: Brilliant! Shields can reduce damage we sustain. Not immunity. Not hubris. Just prudence. It's not precaution—it's strategy.</p>\n<p>[camera shakes]</p>\n<p>WORF: HULL BREACHES ON NINE DECKS</p>\n<p>DATA: Here's what happened: you told me to raise shields, and I didn't</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://twitter.com/kyletrainemoji/status/2059301102814953511\">Kyle Ferrana</a>, @KyleTrainEmoji</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/ai-misuse\">ai-misuse</a>, <a href=\"https://simonwillison.net/tags/coding-agents\">coding-agents</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "The pressure",
+    "url": "https://simonwillison.net/2026/May/26/the-pressure/#atom-everything",
+    "published_at": "2026-05-26T23:48:45Z",
+    "summary_preview": "<p><strong><a href=\"https://daniel.haxx.se/blog/2026/05/26/the-pressure/\">The pressure</a></strong></p>\nDaniel Stenberg on the unprecedented level of pressure the <code>curl</code> team are facing right now thanks to the deluge of (credible) AI-assisted security issues being reported.</p>\n<blockquote>\n<p>The rate of incoming security reports is 4-5 times higher than it was in 2024 and double the speed of 2025 -- meaning that <strong>on average we now get more than one report per day</strong>. The quality is way higher than ever before. The reports are typically <em>very</em> detailed and long. [...]</p>\n<p>For the first time in my life, my wife voiced concerns about my work hours and my imbalanced work/life situation. I work more than I’ve done before, but the flood keeps coming. [...]</p>\n<p>This is a never-before seen or experienced pressure on the curl project and its security team members. An avalanche of high priority work that trumps all other things in the project that is primar",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Microsoft Copilot Cowork Exfiltrates Files",
+    "url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
+    "published_at": "2026-05-26T15:36:48Z",
+    "summary_preview": "<p><strong><a href=\"https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files\">Microsoft Copilot Cowork Exfiltrates Files</a></strong></p>\nThe biggest challenge in designing agentic systems continues to be preventing them from enabling attackers to exfiltrate data.</p>\n<p>In this case Microsoft Copilot Cowork (yes, that's <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/\">a real product name</a>) was allowing agents to send emails to the user's own inbox without approval... but those messages were then displayed in a way that could leak data to an attacker via rendered images:</p>\n<blockquote>\n<p>Because these messages can contain external images that trigger network requests to external websites, data can be exfiltrated when a user opens a compromised message sent by the agent.</p>\n</blockquote>\n<p>Since OneDrive can create pre-authenticated download links, a successful prompt injection could ca",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Paul Graham",
+    "url": "https://simonwillison.net/2026/May/26/paul-graham/#atom-everything",
+    "published_at": "2026-05-26T15:02:30Z",
+    "summary_preview": "<blockquote cite=\"https://twitter.com/paulg/status/2058844147092488401\"><p>A lot of the emails I get from founders are now written in a hard-hitting journalistic style. I know they're written by AI, because no founder ever wrote this way before. And once you realize something is written by AI, it's hard not to ignore it.</p>\n<p>I have never knowingly finished reading an email signed by a human but written by AI. It feels like being lied to, and who would stand for that?</p>\n<p>[<a href=\"https://twitter.com/paulg/status/2058863028523659390\">...</a>] It makes me think less of the author. It means they can't write well unaided (or feel they can't), and that they're trying to trick me. </p>\n<p>It's not impressive to use AI to write stuff for you; any teenager can do that.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://twitter.com/paulg/status/2058844147092488401\">Paul Graham</a></p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/writing\">writing</a>, <a href=\"https://simo",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Corey Quinn",
+    "url": "https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything",
+    "published_at": "2026-05-26T02:28:54Z",
+    "summary_preview": "<blockquote cite=\"https://twitter.com/quinnypig/status/2058960462256210268\"><p>I cannot believe I'm saying this, but getting the literal Pope to canonize your product's specific technical limitations as a spiritual treatise is the single greatest act of vendor lobbying I have ever seen.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://twitter.com/quinnypig/status/2058960462256210268\">Corey Quinn</a>, on Anthropic co-founder Christopher Olah's <a href=\"https://www.washingtonpost.com/world/2026/05/25/pope-elevates-ai-ethics-religious-imperative-with-first-encyclical/\">influence</a> on <em>Magnifica Humanitas</em></p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/ai-ethics\">ai-ethics</a>, <a href=\"https://simonwillison.net/tags/corey-quinn\">corey-quinn</a>, <a href=\"https://simonwillison.net/tags/anthropic\">anthropic</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Notes on Pope Leo XIV's encyclical on AI",
+    "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
+    "published_at": "2026-05-25T23:58:17Z",
+    "summary_preview": "<p>Dropped this morning by the Vatican: <a href=\"https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html\">Magnifica Humanitas of His Holiness Pope Leo XIV on Safeguarding the Human Person in the Time of Artificial Intelligence</a>. This is a <em>very interesting</em> document. It's some of the clearest writing I've seen on the ethics of integrating AI into modern society.</p>\n<p>Pope Leo XIV chose the name Leo in honor of Pope Leo XIII, who is known for his 1891 <em><a href=\"https://en.wikipedia.org/wiki/Rerum_novarum\">Rerum novarum</a></em> encyclical on \"Rights and Duties of Capital and Labor\".</p>\n<p><a href=\"https://www.vaticannews.va/en/church/news/2025-05/leo-xiii-s-times-and-our-own.html\">This story</a> on Vatican News further clarifies the significance of that decision:</p>\n<blockquote>\n<p>Meeting with the College of Cardinals for their first formal encounter after his election, Pope Leo XIV explained part of the reason for the choice o",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal",
+    "url": "https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything",
+    "published_at": "2026-05-25T23:08:00Z",
+    "summary_preview": "<p><img alt=\"California Brown Pelican\" src=\"https://static.inaturalist.org/photos/666934915/large.jpg\" /></p><p><img alt=\"California Brown Pelican\" src=\"https://static.inaturalist.org/photos/666934945/large.jpg\" /></p><p><img alt=\"Snowy Egret\" src=\"https://static.inaturalist.org/photos/666934484/large.jpg\" /></p><p><img alt=\"California Sea Lion\" src=\"https://static.inaturalist.org/photos/666935110/large.jpg\" /></p><p><img alt=\"Harbor Seal\" src=\"https://static.inaturalist.org/photos/666935468/large.jpg\" /></p><p>California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal, in San Mateo County, CA, US</p><p>We took our new <a href=\"https://www.orukayak.com/\">folding kayak</a> out in the harbor and saw sea lions and harbor seals chilling on the docks.</p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] Cognition raises $1B in $26B Series D",
+    "url": "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
+    "published_at": "2026-05-28T07:26:09Z",
+    "summary_preview": "coding is an uncapped TAM market",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "🔬ESMFold2: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
+    "url": "https://www.latent.space/p/esmfold2",
+    "published_at": "2026-05-27T17:46:16Z",
+    "summary_preview": "Datasets vs. inductive bias, world models, and programmable biology",
+    "author": "RJ Honicky"
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] New AI Infra decacorns: Fireworks, Baseten (with OpenRouter on the way)",
+    "url": "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
+    "published_at": "2026-05-27T03:33:53Z",
+    "summary_preview": "it's funding news, but it's good news.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+    "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "published_at": "2026-05-27T17:20:29Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Reachy Mini goes fully local",
+    "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "published_at": "2026-05-27T00:00:00Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "url": "https://huggingface.co/blog/delta-weight-sync",
+    "published_at": "2026-05-27T00:00:00Z",
+    "summary_preview": "",
+    "author": ""
+  }
+]
