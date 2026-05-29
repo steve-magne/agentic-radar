@@ -1,0 +1,62 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=sI4nyJ_uNV0",
+    "video_id": "sI4nyJ_uNV0",
+    "title": "LangChain Academy New Course: Introduction to LangSmith Deployment",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-05-28T16:33:55Z",
+    "description_preview": "Enroll for free: https://academy.langchain.com/courses/langsmith-deployment \n\nThis course is about one of the biggest challenges in building agents: taking something that works on your laptop and running it reliably for real users at scale.\n\nAgents aren’t like traditional web services. They’re stateful — they need to maintain context across time. And increasingly, they’re long-running. A research or coding agent might execute for hours, not seconds. That means you need infrastructure that can pe"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=yqmvlmxR1ts",
+    "video_id": "yqmvlmxR1ts",
+    "title": "How to manage context the right way with LangSmith's Context Hub",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-05-27T17:21:30Z",
+    "description_preview": "Context Hub gives your team and your agent a shared place to store, edit, version, and retrieve context from. It can be used for skills, AGENTS.md files, and any other markdown files.\n\nIn this video we go over why context is important, why Context Hub is a great place to store context, and how to use it in an agent.\n\nFollow on with the example here: https://github.com/langchain-samples/deepagents-with-langsmith/tree/main/agents/email_agent"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=fbn5EJagBmQ",
+    "video_id": "fbn5EJagBmQ",
+    "title": "How Cogent Security sandboxes AI agents that touch customer data | Max Agency #podcast",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-05-27T17:00:09Z",
+    "description_preview": "Gng Sng, Co-Founder and CTO of Cogent Security, breaks down how they approach defense in depth for AI agents. Their sandboxes run with read-only permissions by default, a policy engine handles access elevation, and any write action happens outside the box — fully secure and deterministic. The rule: agents should never be able to do something the system is disallowing.\n\nThis clip is from Max Agency, a #podcast about how the best AI agents are actually being built. Hosted by Harrison Chase, CEO of"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=MVvFDfxaeWg",
+    "video_id": "MVvFDfxaeWg",
+    "title": "How We Built LangSmith Engine | Interrupt 26",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-05-27T14:07:52Z",
+    "description_preview": "Until now, improving your agent has been a manual process of reading traces, looking for patterns, writing evals, and creating fixes. Now LangSmith Engine can run that cycle for you. It watches your production traces, clusters failures into named issues, diagnoses root causes against your code, and proposes fixes and eval coverage to keep regressions from coming back. You just review and merge improvements.\n\nAt LangChain's agent conference Interrupt, Ben Tannyhill and Vivek Trivedy introduced La"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=tK32trvj_b4",
+    "video_id": "tK32trvj_b4",
+    "title": "Build Hour: Agents SDK",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-05-28T20:09:34Z",
+    "description_preview": "Build with the next evolution of the Agents SDK. In this Build Hour, you’ll learn how to use the updated Agents SDK to build long-running agents with a model-native harness. Give agents the tools, memory, and execution environment they need to work across files and systems — while staying flexible enough to fit your own stack.\n\nIn this session, Steve Coffey (Member of Technical Staff) and Nish Singaraju (Product, Agents) will cover how to:\n• Build agents that can inspect files, run commands, edi"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=t3uBGhpii6w",
+    "video_id": "t3uBGhpii6w",
+    "title": "Anthropic just dropped Opus 4.8... (WOAH)",
+    "channel": "Matthew Berman",
+    "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+    "published_at": "2026-05-29T01:01:34Z",
+    "description_preview": "Tell your agents to use this: https://here.now/r/matthewberman\n\nCheck out Jonah's game! https://turbo-muse-r294.here.now/\n\nDownload The 25 OpenClaw Use Cases eBook 👇🏼\nhttps://bit.ly/4aBQwo1\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxD"
+  }
+]

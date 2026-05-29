@@ -1,0 +1,245 @@
+[
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "How Endava builds an agentic organization with Codex",
+    "url": "https://openai.com/index/endava",
+    "published_at": "2026-05-28T12:00:00Z",
+    "summary_preview": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "OpenAI’s Frontier Governance Framework",
+    "url": "https://openai.com/index/openai-frontier-governance-framework",
+    "published_at": "2026-05-28T00:00:00Z",
+    "summary_preview": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
+    "published_at": "2026-05-28T00:00:00Z",
+    "summary_preview": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "url": "https://openai.com/index/cisco",
+    "published_at": "2026-05-27T11:00:00Z",
+    "summary_preview": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Building self-improving tax agents with Codex",
+    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "published_at": "2026-05-27T07:00:00Z",
+    "summary_preview": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Election information and safeguards in 2026",
+    "url": "https://openai.com/index/election-safeguards-2026",
+    "published_at": "2026-05-27T00:00:00Z",
+    "summary_preview": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
+    "published_at": "2026-05-27T00:00:00Z",
+    "summary_preview": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Google AI Blog",
+    "title": "Catch up on 12 major I/O 2026 moments",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+    "published_at": "2026-05-28T15:00:00Z",
+    "summary_preview": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
+    "author": "Zahra Thompson"
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "datasette 1.0a31",
+    "url": "https://simonwillison.net/2026/May/29/datasette/#atom-everything",
+    "published_at": "2026-05-29T03:32:02Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a31\">datasette 1.0a31</a></p>\n        <p>Another significant alpha release, with two new headline features.</p>\n<blockquote>\n<p>Datasette now offers users with the necessary permissions the ability to both <strong>execute write queries</strong> against their database and to <strong>save stored queries</strong> (renamed from \"canned queries\") both privately and for use by other members of their Datasette instance.</p>\n</blockquote>\n<p>There's more detail in <a href=\"https://datasette.io/blog/2026/sql-write-queries/\">SQL write queries and stored queries in Datasette 1.0a31</a> on the Datasette blog, which now has <a href=\"https://datasette.io/blog/\">three posts introducing new features</a> since the blog launched two weeks ago.</p>\n<p>Here's an animated demo from <a href=\"https://datasette.io/blog/2026/sql-write-queries/\">the blog post</a> showing how the new execute query interface lets people get ",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Anthropic's run-rate revenue hits $47 billion",
+    "url": "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
+    "published_at": "2026-05-29T01:23:08Z",
+    "summary_preview": "<p>The most interesting thing about <a href=\"https://www.anthropic.com/news/series-h\">Anthropic's $65B Series H announcement</a> is this line (emphasis mine):</p>\n<blockquote>\n<p>Since our Series G in February, adoption has continued to grow across global enterprise customers, and our run-rate revenue crossed <strong>$47 billion</strong> earlier this month.</p>\n</blockquote>\n<p>Anthropic have made a bit of a habit of sharing their \"run-rate revenue\" in this kind of announcement, which is an annualized projection of their current revenue - typically calculated by taking the most recent month and multiplying by 12.</p>\n<p>Earlier this year:</p>\n<ul>\n<li>Apr 6, 2026 in <a href=\"https://www.anthropic.com/news/google-broadcom-partnership-compute\">Anthropic expands partnership with Google and Broadcom</a>: \"Our run-rate revenue has now surpassed <strong>$30 billion</strong>—up from approximately <strong>$9 billion</strong> at the end of 2025.\"</li>\n<li>Feb 12, 2026 in <a href=\"https://www.an",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Claude Opus 4.8: \"a modest but tangible improvement\"",
+    "url": "https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything",
+    "published_at": "2026-05-28T23:59:50Z",
+    "summary_preview": "<p>Anthropic shipped <a href=\"https://www.anthropic.com/news/claude-opus-4-8\">Claude Opus 4.8</a> today. My favourite thing about it is this note in the release announcement:</p>\n<blockquote>\n<p>Users will find Opus 4.8 to be a modest but tangible improvement on its predecessor. There’s still more to be done: we’re working on developing and releasing models that provide many of the same capabilities as Opus at a lower cost.</p>\n</blockquote>\n<p>It's so refreshing to see an AI lab honestly describe a release as a minor incremental improvement over the previous model!</p>\n<p>Honesty seems to be a theme. Here's my other favorite note from that announcement:</p>\n<blockquote>\n<p>One of the most prominent improvements in Opus 4.8 is its <em>honesty</em>. We train all our models to be honest---for instance, to avoid making claims that they can't support. But a general problem with AI models is that they sometimes jump to conclusions, confidently claiming to have made progress in their work de",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "llm-anthropic 0.25.1",
+    "url": "https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything",
+    "published_at": "2026-05-28T23:54:56Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.25.1\">llm-anthropic 0.25.1</a></p>\n        <blockquote>\n<ul>\n<li>New model: <a href=\"https://www.anthropic.com/news/claude-opus-4-8\">Claude Opus 4.8</a> (<code>claude-opus-4.8</code>).</li>\n<li>New <code>-o fast 1</code> option for <a href=\"https://platform.claude.com/docs/en/build-with-claude/fast-mode\">fast mode</a>, for organizations with that feature enabled on their account.</li>\n<li>Default max_tokens for each model now defaults to that model's maximum output rather than 8,192. <a href=\"https://github.com/simonw/llm-anthropic/issues/72\">#72</a></li>\n</ul>\n</blockquote>\n<p>See also my <a href=\"https://simonwillison.net/2026/May/28/claude-opus-4-8/\">notes on Opus 4.8</a> - I used this new release of <code>llm-anthropic</code> to generate the pelicans.</p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "markdown-svg-renderer",
+    "url": "https://simonwillison.net/2026/May/28/markdown-svg-renderer/#atom-everything",
+    "published_at": "2026-05-28T19:45:14Z",
+    "summary_preview": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/markdown-svg-renderer\">markdown-svg-renderer</a></p>\n        <p>A slightly customized Markdown rendering tool with special treatment for fenced code SVG blocks - it both renders the image and provides a tab for switching to the code view.</p>\n<p>You can paste in Markdown or give it a URL to a CORS-enabled Markdown file or Gist. <a href=\"https://tools.simonwillison.net/markdown-svg-renderer#url=https%3A%2F%2Fgist.github.com%2Fsimonw%2Ffea4f7546626d627862dc241a4e3a86a\">Here's an example</a> where it loads a Markdown file full of LLM pelican logs for <a href=\"https://simonwillison.net/2026/May/28/claude-opus-4-8/#and-some-pelicans\">Opus 4.8</a>.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/svg\">svg</a>, <a href=\"https://simonwillison.net/tags/tools\">tools</a>, <a href=\"https://simonwillison.net/tags/markdown\">markdown</a>, <a href=\"https://simonwillison.net/tags/cors\">cors</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "sqlite AGENTS.md",
+    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
+    "published_at": "2026-05-27T23:44:37Z",
+    "summary_preview": "<p><strong><a href=\"https://github.com/sqlite/sqlite/blob/master/AGENTS.md\">sqlite AGENTS.md</a></strong></p>\nSQLite gained an AGENTS.md file <a href=\"https://github.com/sqlite/sqlite/commit/a1e5778889252d2609a59fd9b819d70392c5789e\">five days ago</a> - but it's not intended for their own development, it's presumably aimed at people who are pointing agents at the SQLite codebase. It includes:</p>\n<blockquote>\n<p>SQLite does not accept pull requests without prior agreement and/or accompanying legal paperwork that places the pull request in the public domain. However, the human SQLite developers will review a concise and well-written pull request as a proof-of-concept prior to reimplementing the changes themselves.</p>\n<p>SQLite does not accept agentic code. However the project will accept agentic bug reports that include a reproducible test case. Patches or pull requests demonstrating a possible fix, for documentation purposes, are welcomed.</p>\n</blockquote>\n<p>The <a href=\"https://gith",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "I think Anthropic and OpenAI have found product-market fit",
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything",
+    "published_at": "2026-05-27T16:38:35Z",
+    "summary_preview": "<p>Anthropic are <a href=\"https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/\">strongly rumored</a> to be about to have their first profitable quarter. Stories <a href=\"https://www.theinformation.com/newsletters/applied-ai/uber-cto-shows-claude-code-can-blow-ai-budgets\">are circulating</a> of companies surprised at how expensive their LLM bills are becoming from usage by their staff. I think this is because OpenAI and Anthropic have both found product-market fit.</p>\n\n<ul>\n  <li><a href=\"https://simonwillison.net/2026/May/27/product-market-fit/#enterprise-customers-are-now-paying-api-prices\">Enterprise customers are now paying API prices</a></li>\n  <li><a href=\"https://simonwillison.net/2026/May/27/product-market-fit/#i-think-they-ve-found-product-market-fit\">I think they've found product-market fit</a></li>\n  <li><a href=\"https://simonwillison.net/2026/May/27/product-market-fit/#and-they-re-ramping-up\">And they're ramping up</a></li>\n  <li>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Kyle Ferrana",
+    "url": "https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything",
+    "published_at": "2026-05-27T06:41:43Z",
+    "summary_preview": "<blockquote cite=\"https://twitter.com/kyletrainemoji/status/2059301102814953511\"><p>PICARD: Data, shields up</p>\n<p>DATA: Brilliant! Shields can reduce damage we sustain. Not immunity. Not hubris. Just prudence. It's not precaution—it's strategy.</p>\n<p>[camera shakes]</p>\n<p>WORF: HULL BREACHES ON NINE DECKS</p>\n<p>DATA: Here's what happened: you told me to raise shields, and I didn't</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://twitter.com/kyletrainemoji/status/2059301102814953511\">Kyle Ferrana</a>, @KyleTrainEmoji</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/ai-misuse\">ai-misuse</a>, <a href=\"https://simonwillison.net/tags/coding-agents\">coding-agents</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "The pressure",
+    "url": "https://simonwillison.net/2026/May/26/the-pressure/#atom-everything",
+    "published_at": "2026-05-26T23:48:45Z",
+    "summary_preview": "<p><strong><a href=\"https://daniel.haxx.se/blog/2026/05/26/the-pressure/\">The pressure</a></strong></p>\nDaniel Stenberg on the unprecedented level of pressure the <code>curl</code> team are facing right now thanks to the deluge of (credible) AI-assisted security issues being reported.</p>\n<blockquote>\n<p>The rate of incoming security reports is 4-5 times higher than it was in 2024 and double the speed of 2025 -- meaning that <strong>on average we now get more than one report per day</strong>. The quality is way higher than ever before. The reports are typically <em>very</em> detailed and long. [...]</p>\n<p>For the first time in my life, my wife voiced concerns about my work hours and my imbalanced work/life situation. I work more than I’ve done before, but the flood keeps coming. [...]</p>\n<p>This is a never-before seen or experienced pressure on the curl project and its security team members. An avalanche of high priority work that trumps all other things in the project that is primar",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Microsoft Copilot Cowork Exfiltrates Files",
+    "url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
+    "published_at": "2026-05-26T15:36:48Z",
+    "summary_preview": "<p><strong><a href=\"https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files\">Microsoft Copilot Cowork Exfiltrates Files</a></strong></p>\nThe biggest challenge in designing agentic systems continues to be preventing them from enabling attackers to exfiltrate data.</p>\n<p>In this case Microsoft Copilot Cowork (yes, that's <a href=\"https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/\">a real product name</a>) was allowing agents to send emails to the user's own inbox without approval... but those messages were then displayed in a way that could leak data to an attacker via rendered images:</p>\n<blockquote>\n<p>Because these messages can contain external images that trigger network requests to external websites, data can be exfiltrated when a user opens a compromised message sent by the agent.</p>\n</blockquote>\n<p>Since OneDrive can create pre-authenticated download links, a successful prompt injection could ca",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Paul Graham",
+    "url": "https://simonwillison.net/2026/May/26/paul-graham/#atom-everything",
+    "published_at": "2026-05-26T15:02:30Z",
+    "summary_preview": "<blockquote cite=\"https://twitter.com/paulg/status/2058844147092488401\"><p>A lot of the emails I get from founders are now written in a hard-hitting journalistic style. I know they're written by AI, because no founder ever wrote this way before. And once you realize something is written by AI, it's hard not to ignore it.</p>\n<p>I have never knowingly finished reading an email signed by a human but written by AI. It feels like being lied to, and who would stand for that?</p>\n<p>[<a href=\"https://twitter.com/paulg/status/2058863028523659390\">...</a>] It makes me think less of the author. It means they can't write well unaided (or feel they can't), and that they're trying to trick me. </p>\n<p>It's not impressive to use AI to write stuff for you; any teenager can do that.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://twitter.com/paulg/status/2058844147092488401\">Paul Graham</a></p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/writing\">writing</a>, <a href=\"https://simo",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] Anthropic raises $965B Series H, releases Opus 4.8 and Dynamic Workflows/ultracode",
+    "url": "https://www.latent.space/p/ainews-anthropic-raises-965b-series",
+    "published_at": "2026-05-29T02:07:24Z",
+    "summary_preview": "Total Anthropic victory!",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "The Age of Async Agents — Cognition's Walden Yan & OpenInspect's Cole Murray",
+    "url": "https://www.latent.space/p/cognition",
+    "published_at": "2026-05-28T18:41:24Z",
+    "summary_preview": "80% Devin Commits, Spec-to-PR Workflows, Full VMs, Agent Memory, and PMs Shipping Code",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] Cognition raises $1B in $26B Series D",
+    "url": "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
+    "published_at": "2026-05-28T07:26:09Z",
+    "summary_preview": "coding is an uncapped TAM market",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "🔬ESM: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
+    "url": "https://www.latent.space/p/esmfold2",
+    "published_at": "2026-05-27T17:46:16Z",
+    "summary_preview": "Biohub&#8217;s Protein World Model: ESMC-6B, ESMFold2, 6.8B proteins, 1.1B structures, antibody design, SAEs, & the potential for programmable biology",
+    "author": "RJ Honicky"
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] New AI Infra decacorns: Fireworks, Baseten (with OpenRouter on the way)",
+    "url": "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
+    "published_at": "2026-05-27T03:33:53Z",
+    "summary_preview": "it's funding news, but it's good news.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+    "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "published_at": "2026-05-27T17:20:29Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Reachy Mini goes fully local",
+    "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "published_at": "2026-05-27T00:00:00Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "url": "https://huggingface.co/blog/delta-weight-sync",
+    "published_at": "2026-05-27T00:00:00Z",
+    "summary_preview": "",
+    "author": ""
+  }
+]

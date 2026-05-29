@@ -1,0 +1,189 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48311647,
+    "title": "Claude Opus 4.8",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "hn_url": "https://news.ycombinator.com/item?id=48311647",
+    "score": 1441,
+    "descendants": 1146,
+    "by": "craigmart",
+    "time": "2026-05-28T16:49:14Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48307887,
+    "title": "Disagreement among frontier LLMs on real-world fact-checks",
+    "url": "https://lenz.io/research/llm-disagreement",
+    "hn_url": "https://news.ycombinator.com/item?id=48307887",
+    "score": 486,
+    "descendants": 341,
+    "by": "kostaj",
+    "time": "2026-05-28T12:20:19Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48289950,
+    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+    "url": "https://arps18.github.io/posts/claude-code-mastery/",
+    "hn_url": "https://news.ycombinator.com/item?id=48289950",
+    "score": 430,
+    "descendants": 249,
+    "by": "arps18",
+    "time": "2026-05-27T05:13:39Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48313048,
+    "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+    "url": "https://www.anthropic.com/news/series-h",
+    "hn_url": "https://news.ycombinator.com/item?id=48313048",
+    "score": 325,
+    "descendants": 341,
+    "by": "meetpateltech",
+    "time": "2026-05-28T18:09:44Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48308376,
+    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+    "url": "https://llmgame.scalex.dev",
+    "hn_url": "https://news.ycombinator.com/item?id=48308376",
+    "score": 298,
+    "descendants": 127,
+    "by": "Wirbelwind",
+    "time": "2026-05-28T13:02:00Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48313810,
+    "title": "Various LLM Smells",
+    "url": "https://shvbsle.in/various-llm-smells/",
+    "hn_url": "https://news.ycombinator.com/item?id=48313810",
+    "score": 284,
+    "descendants": 219,
+    "by": "speckx",
+    "time": "2026-05-28T19:02:18Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48303881,
+    "title": "Bttf is a command line datetime Swiss army knife",
+    "url": "https://github.com/BurntSushi/bttf",
+    "hn_url": "https://news.ycombinator.com/item?id=48303881",
+    "score": 162,
+    "descendants": 92,
+    "by": "burntsushi",
+    "time": "2026-05-28T02:58:44Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48311705,
+    "title": "Dynamic Workflows in Claude Code",
+    "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+    "hn_url": "https://news.ycombinator.com/item?id=48311705",
+    "score": 143,
+    "descendants": 113,
+    "by": "mil22",
+    "time": "2026-05-28T16:52:21Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48297467,
+    "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+    "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
+    "hn_url": "https://news.ycombinator.com/item?id=48297467",
+    "score": 143,
+    "descendants": 78,
+    "by": "ChrisArchitect",
+    "time": "2026-05-27T17:24:25Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48276429,
+    "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
+    "url": "https://arxiv.org/abs/2510.04950",
+    "hn_url": "https://news.ycombinator.com/item?id=48276429",
+    "score": 140,
+    "descendants": 189,
+    "by": "KnuthIsGod",
+    "time": "2026-05-26T07:43:22Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48311490,
+    "title": "Endive: A JVM native WebAssembly runtime",
+    "url": "https://github.com/bytecodealliance/endive",
+    "hn_url": "https://news.ycombinator.com/item?id=48311490",
+    "score": 80,
+    "descendants": 21,
+    "by": "theanonymousone",
+    "time": "2026-05-28T16:40:33Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48313219,
+    "title": "About LLMs at Zig Days",
+    "url": "https://kristoff.it/blog/llms-at-zig-days/",
+    "hn_url": "https://news.ycombinator.com/item?id=48313219",
+    "score": 77,
+    "descendants": 65,
+    "by": "kristoff_it",
+    "time": "2026-05-28T18:20:34Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48309986,
+    "title": "Show HN: Ktx – Open-source executable context layer for data agents",
+    "url": "https://github.com/Kaelio/ktx",
+    "hn_url": "https://news.ycombinator.com/item?id=48309986",
+    "score": 71,
+    "descendants": 17,
+    "by": "lucamrtl",
+    "time": "2026-05-28T15:05:06Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48272545,
+    "title": "Using Tailscale with an OrbStack VM on macOS",
+    "url": "https://github.com/highpost/tailscale-macos-vm",
+    "hn_url": "https://news.ycombinator.com/item?id=48272545",
+    "score": 69,
+    "descendants": 16,
+    "by": "highpost",
+    "time": "2026-05-25T22:10:08Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48262160,
+    "title": "The Green Side of the Lua",
+    "url": "https://arxiv.org/abs/2601.16670",
+    "hn_url": "https://news.ycombinator.com/item?id=48262160",
+    "score": 69,
+    "descendants": 62,
+    "by": "radiator",
+    "time": "2026-05-24T23:44:58Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48317294,
+    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+    "hn_url": "https://news.ycombinator.com/item?id=48317294",
+    "score": 62,
+    "descendants": 38,
+    "by": "freediver",
+    "time": "2026-05-29T00:09:35Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48267432,
+    "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
+    "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
+    "hn_url": "https://news.ycombinator.com/item?id=48267432",
+    "score": 54,
+    "descendants": 84,
+    "by": "rajveerb",
+    "time": "2026-05-25T14:41:09Z"
+  }
+]
