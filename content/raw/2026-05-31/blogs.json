@@ -1,0 +1,209 @@
+[
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "url": "https://openai.com/index/boston-childrens-hospital",
+    "published_at": "2026-05-29T12:00:00Z",
+    "summary_preview": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "How Braintrust turns customer requests into code with Codex",
+    "url": "https://openai.com/index/braintrust",
+    "published_at": "2026-05-29T12:00:00Z",
+    "summary_preview": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Strengthening societal resilience with Rosalind Biodefense",
+    "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+    "published_at": "2026-05-29T03:00:00Z",
+    "summary_preview": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "A shared playbook for trustworthy third party evaluations",
+    "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "published_at": "2026-05-29T00:00:00Z",
+    "summary_preview": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "How Endava builds an agentic organization with Codex",
+    "url": "https://openai.com/index/endava",
+    "published_at": "2026-05-28T12:00:00Z",
+    "summary_preview": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Google AI Blog",
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "published_at": "2026-05-29T19:00:00Z",
+    "summary_preview": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp\" />We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+    "author": "Zahra Thompson"
+  },
+  {
+    "source": "blog",
+    "blog": "Google AI Blog",
+    "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+    "published_at": "2026-05-29T17:30:00Z",
+    "summary_preview": "Gemini Omni & Gemini 3.5 hero",
+    "author": "Zahra Thompson"
+  },
+  {
+    "source": "blog",
+    "blog": "Google AI Blog",
+    "title": "Check out real-life AI prototypes from the Futures Lab.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+    "published_at": "2026-05-29T12:00:00Z",
+    "summary_preview": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp\" />University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Google AI Blog",
+    "title": "Catch up on 12 major I/O 2026 moments",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+    "published_at": "2026-05-28T15:00:00Z",
+    "summary_preview": "The colorful I/O logo against a black background, surrounded by stills from the I/O keynote",
+    "author": "Zahra Thompson"
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Karen Kwok for Reuters Breakingviews",
+    "url": "https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything",
+    "published_at": "2026-05-31T01:48:12Z",
+    "summary_preview": "<blockquote cite=\"https://www.reuters.com/commentary/breakingviews/anthropic-gives-lesson-ai-revenue-hallucination-2026-03-10/\"><p>Anthropic defines “run-rate revenue” in two parts. Use the last 28 days of sales ⁠from customers charged on a consumption basis and multiply it by 13. Then, multiply the monthly subscription take by 12, ​and add the two together.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://www.reuters.com/commentary/breakingviews/anthropic-gives-lesson-ai-revenue-hallucination-2026-03-10/\">Karen Kwok for Reuters Breakingviews</a>, citing \"a person familiar with the matter\"</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/anthropic\">anthropic</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "How we contain Claude across products",
+    "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+    "published_at": "2026-05-30T21:36:24Z",
+    "summary_preview": "<p><strong><a href=\"https://www.anthropic.com/engineering/how-we-contain-claude\">How we contain Claude across products</a></strong></p>\nA complaint I often have about sandboxing products is that they are rarely thoroughly <em>documented</em>, and in the absence of detailed documentation it's hard to know how much I can trust them.</p>\n<p>Anthropic just published a fantastic overview of how their various sandbox techniques work across <a href=\"https://claude.ai/\">Claude.ai</a>, Claude Code, and Cowork.</p>\n<blockquote>\n<p>We constrain where and how an agent can act with process sandboxes, VMs, filesystem boundaries, and egress controls. The goal is to set a hard boundary on what an agent can reach. For example, if credentials never enter the sandbox, they can't be exfiltrated, regardless of whether the cause is a user, a model finding a “creative” path, or an attacker.</p>\n</blockquote>\n<p>Claude.ai uses gVisor. Claude Code, run locally, uses Seatbelt on macOS and Bubblewrap on Linux. C",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Running Python ASGI apps in the browser via Pyodide + a service worker",
+    "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
+    "published_at": "2026-05-30T21:02:16Z",
+    "summary_preview": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/pyodide-asgi-browser#readme\">Running Python ASGI apps in the browser via Pyodide + a service worker</a></p>\n        <p><a href=\"https://lite.datasette.io/\">Datasette Lite</a> is my version of Datasette that runs entirely in the browser using Pyodide in WebAssembly.</p>\n<p>When I first built it <a href=\"https://simonwillison.net/2022/May/4/datasette-lite/\">four years ago</a> I used Web Workers and code that intercepts navigation operations and fetches the generated HTML by running the Python app.</p>\n<p>This worked, but had the disadvantage that any JavaScript in <code>&lt;script&gt;</code> tags would not be executed - breaking some Datasette functionality and a whole lot of Datasette plugins.</p>\n<p>This morning I <a href=\"https://github.com/simonw/research/pull/112\">set Claude Opus 4.8 the task</a> (in Claude Code for web) of figuring out how to run Python ASGI apps in Pyodide using Service Workers ins",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "I Am Retiring from Tech to Live Offline",
+    "url": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything",
+    "published_at": "2026-05-30T19:39:08Z",
+    "summary_preview": "<p><strong><a href=\"https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/\">I Am Retiring from Tech to Live Offline</a></strong></p>\nI've seen a lot of posts on forums from people threatening to quit their careers over AI. This is <em>not</em> one of those: Chad Whitacre is taking concrete steps, starting with this typewritten, scanned letter</p>\n<blockquote>\n<p>I'm retiring from tech. Well, \"retiring\" is euphemistic. I'm stepping away from tech, and that includes Open Source. [...]</p>\n<p>AI was the last straw. Have you heard of that island off India where the indigenous population kills any outsiders fool-hardy enough to land? They are doing the rest of us a favor by preserving a way of life we may need again someday, or at the very least should not want to see completely extinguished. A reminder. Never forget your roots. Here in Pennsylvania we have the Amish performing a similar function. Significantly less hostile, though still set apart, they bear witness to what wa",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Daniel Jalkut",
+    "url": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
+    "published_at": "2026-05-30T17:29:55Z",
+    "summary_preview": "<blockquote cite=\"https://mastodon.social/@danielpunkass/116639318125898071\"><p>My take on AI is, essentially, everybody who’s against it is too against it and everybody who’s for it is too for it.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://mastodon.social/@danielpunkass/116639318125898071\">Daniel Jalkut</a>, via <a href=\"https://daringfireball.net/linked/2026/05/30/jalkut-on-ai\">John Gruber</a></p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/john-gruber\">john-gruber</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "datasette 1.0a31",
+    "url": "https://simonwillison.net/2026/May/29/datasette/#atom-everything",
+    "published_at": "2026-05-29T03:32:02Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a31\">datasette 1.0a31</a></p>\n        <p>Another significant alpha release, with two new headline features.</p>\n<blockquote>\n<p>Datasette now offers users with the necessary permissions the ability to both <strong>execute write queries</strong> against their database and to <strong>save stored queries</strong> (renamed from \"canned queries\") both privately and for use by other members of their Datasette instance.</p>\n</blockquote>\n<p>There's more detail in <a href=\"https://datasette.io/blog/2026/sql-write-queries/\">SQL write queries and stored queries in Datasette 1.0a31</a> on the Datasette blog, which now has <a href=\"https://datasette.io/blog/\">three posts introducing new features</a> since the blog launched two weeks ago.</p>\n<p>Here's an animated demo from <a href=\"https://datasette.io/blog/2026/sql-write-queries/\">the blog post</a> showing how the new execute query interface lets people get ",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Anthropic's run-rate revenue hits $47 billion",
+    "url": "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
+    "published_at": "2026-05-29T01:23:08Z",
+    "summary_preview": "<p>The most interesting thing about <a href=\"https://www.anthropic.com/news/series-h\">Anthropic's $65B Series H announcement</a> is this line (emphasis mine):</p>\n<blockquote>\n<p>Since our Series G in February, adoption has continued to grow across global enterprise customers, and our run-rate revenue crossed <strong>$47 billion</strong> earlier this month.</p>\n</blockquote>\n<p>Anthropic have made a bit of a habit of sharing their \"run-rate revenue\" in this kind of announcement, which is an annualized projection of their current revenue - typically calculated by taking the most recent month and multiplying by 12. <strong>Update</strong>: here's <a href=\"https://simonwillison.net/2026/May/31/anthropic-run-rate/\">a leaked description of their run-rate formula</a>.</p>\n<p>Earlier this year:</p>\n<ul>\n<li>Apr 6, 2026 in <a href=\"https://www.anthropic.com/news/google-broadcom-partnership-compute\">Anthropic expands partnership with Google and Broadcom</a>: \"Our run-rate revenue has now surpas",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Claude Opus 4.8: \"a modest but tangible improvement\"",
+    "url": "https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything",
+    "published_at": "2026-05-28T23:59:50Z",
+    "summary_preview": "<p>Anthropic shipped <a href=\"https://www.anthropic.com/news/claude-opus-4-8\">Claude Opus 4.8</a> today. My favourite thing about it is this note in the release announcement:</p>\n<blockquote>\n<p>Users will find Opus 4.8 to be a modest but tangible improvement on its predecessor. There’s still more to be done: we’re working on developing and releasing models that provide many of the same capabilities as Opus at a lower cost.</p>\n</blockquote>\n<p>It's so refreshing to see an AI lab honestly describe a release as a minor incremental improvement over the previous model!</p>\n<p>Honesty seems to be a theme. Here's my other favorite note from that announcement:</p>\n<blockquote>\n<p>One of the most prominent improvements in Opus 4.8 is its <em>honesty</em>. We train all our models to be honest---for instance, to avoid making claims that they can't support. But a general problem with AI models is that they sometimes jump to conclusions, confidently claiming to have made progress in their work de",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "llm-anthropic 0.25.1",
+    "url": "https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything",
+    "published_at": "2026-05-28T23:54:56Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-anthropic/releases/tag/0.25.1\">llm-anthropic 0.25.1</a></p>\n        <blockquote>\n<ul>\n<li>New model: <a href=\"https://www.anthropic.com/news/claude-opus-4-8\">Claude Opus 4.8</a> (<code>claude-opus-4.8</code>).</li>\n<li>New <code>-o fast 1</code> option for <a href=\"https://platform.claude.com/docs/en/build-with-claude/fast-mode\">fast mode</a>, for organizations with that feature enabled on their account.</li>\n<li>Default max_tokens for each model now defaults to that model's maximum output rather than 8,192. <a href=\"https://github.com/simonw/llm-anthropic/issues/72\">#72</a></li>\n</ul>\n</blockquote>\n<p>See also my <a href=\"https://simonwillison.net/2026/May/28/claude-opus-4-8/\">notes on Opus 4.8</a> - I used this new release of <code>llm-anthropic</code> to generate the pelicans.</p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "markdown-svg-renderer",
+    "url": "https://simonwillison.net/2026/May/28/markdown-svg-renderer/#atom-everything",
+    "published_at": "2026-05-28T19:45:14Z",
+    "summary_preview": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/markdown-svg-renderer\">markdown-svg-renderer</a></p>\n        <p>A slightly customized Markdown rendering tool with special treatment for fenced code SVG blocks - it both renders the image and provides a tab for switching to the code view.</p>\n<p>You can paste in Markdown or give it a URL to a CORS-enabled Markdown file or Gist. <a href=\"https://tools.simonwillison.net/markdown-svg-renderer#url=https%3A%2F%2Fgist.github.com%2Fsimonw%2Ffea4f7546626d627862dc241a4e3a86a\">Here's an example</a> where it loads a Markdown file full of LLM pelican logs for <a href=\"https://simonwillison.net/2026/May/28/claude-opus-4-8/#and-some-pelicans\">Opus 4.8</a>.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/svg\">svg</a>, <a href=\"https://simonwillison.net/tags/tools\">tools</a>, <a href=\"https://simonwillison.net/tags/markdown\">markdown</a>, <a href=\"https://simonwillison.net/tags/cors\">cors</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] Founders and Forward Deployed Engineers",
+    "url": "https://www.latent.space/p/ainews-founders-and-forward-deployed",
+    "published_at": "2026-05-30T01:57:15Z",
+    "summary_preview": "a quiet day lets us highlight the new AIE WF focuses",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] Anthropic raises $965B Series H, releases Opus 4.8 and Dynamic Workflows/ultracode",
+    "url": "https://www.latent.space/p/ainews-anthropic-raises-965b-series",
+    "published_at": "2026-05-29T02:07:24Z",
+    "summary_preview": "Total Anthropic victory!",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "The Age of Async Agents — Cognition's Walden Yan & OpenInspect's Cole Murray",
+    "url": "https://www.latent.space/p/cognition",
+    "published_at": "2026-05-28T18:41:24Z",
+    "summary_preview": "80% Devin Commits, Spec-to-PR Workflows, Full VMs, Agent Memory, and PMs Shipping Code",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+    "url": "https://huggingface.co/blog/torch-profiler",
+    "published_at": "2026-05-29T00:00:00Z",
+    "summary_preview": "",
+    "author": ""
+  }
+]

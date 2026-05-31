@@ -1,0 +1,134 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48311647,
+    "title": "Claude Opus 4.8",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "hn_url": "https://news.ycombinator.com/item?id=48311647",
+    "score": 1745,
+    "descendants": 1361,
+    "by": "craigmart",
+    "time": "2026-05-28T16:49:14Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48330436,
+    "title": "MCP is dead?",
+    "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+    "hn_url": "https://news.ycombinator.com/item?id=48330436",
+    "score": 386,
+    "descendants": 375,
+    "by": "nadis",
+    "time": "2026-05-29T22:56:49Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48334854,
+    "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+    "url": "https://github.com/kristapsdz/openrsync",
+    "hn_url": "https://news.ycombinator.com/item?id=48334854",
+    "score": 372,
+    "descendants": 152,
+    "by": "sph",
+    "time": "2026-05-30T10:51:48Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48318402,
+    "title": "I found a seashell in the middle of the desert",
+    "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
+    "hn_url": "https://news.ycombinator.com/item?id=48318402",
+    "score": 299,
+    "descendants": 76,
+    "by": "Hawzen",
+    "time": "2026-05-29T02:49:43Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48321076,
+    "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+    "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+    "hn_url": "https://news.ycombinator.com/item?id=48321076",
+    "score": 213,
+    "descendants": 95,
+    "by": "NicoConstant",
+    "time": "2026-05-29T09:47:23Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48328184,
+    "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+    "url": "https://github.com/jmaczan/tiny-vllm",
+    "hn_url": "https://news.ycombinator.com/item?id=48328184",
+    "score": 187,
+    "descendants": 16,
+    "by": "yu3zhou4",
+    "time": "2026-05-29T19:38:27Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48311705,
+    "title": "Dynamic Workflows in Claude Code",
+    "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+    "hn_url": "https://news.ycombinator.com/item?id=48311705",
+    "score": 187,
+    "descendants": 131,
+    "by": "mil22",
+    "time": "2026-05-28T16:52:21Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48333440,
+    "title": "Macsurf, \"modern\" web browser for macOS 9",
+    "url": "https://github.com/mplsllc/macsurf",
+    "hn_url": "https://news.ycombinator.com/item?id=48333440",
+    "score": 123,
+    "descendants": 39,
+    "by": "gattilorenz",
+    "time": "2026-05-30T06:58:23Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48330192,
+    "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+    "url": "https://github.com/secluso/core",
+    "hn_url": "https://news.ycombinator.com/item?id=48330192",
+    "score": 117,
+    "descendants": 26,
+    "by": "arrdalan",
+    "time": "2026-05-29T22:32:29Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48340422,
+    "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+    "url": "https://github.com/wolfSSL/wolfCOSE",
+    "hn_url": "https://news.ycombinator.com/item?id=48340422",
+    "score": 86,
+    "descendants": 16,
+    "by": "aidangarske",
+    "time": "2026-05-30T20:42:28Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48342705,
+    "title": "Please Do Not Vibe Fuck Up This Software – Rsync",
+    "url": "https://github.com/RsyncProject/rsync/issues/929",
+    "hn_url": "https://news.ycombinator.com/item?id=48342705",
+    "score": 85,
+    "descendants": 27,
+    "by": "justdotJS",
+    "time": "2026-05-31T03:16:48Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48324910,
+    "title": "CAPTCHAs can still detect AI agents",
+    "url": "https://research.roundtable.ai/captchas-detect-ai/",
+    "hn_url": "https://news.ycombinator.com/item?id=48324910",
+    "score": 82,
+    "descendants": 64,
+    "by": "timshell",
+    "time": "2026-05-29T15:57:37Z"
+  }
+]

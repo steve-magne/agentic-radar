@@ -1,0 +1,62 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=eEMm468VuUs",
+    "video_id": "eEMm468VuUs",
+    "title": "Continual Learning Explained in 60 Seconds | What's The Tea?",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-05-30T12:00:08Z",
+    "description_preview": "Brace Sproul and Jake Broekhuizen from the LangChain team break down one of the biggest AI concepts taking over tech Twitter (or X): continual learning, or when you give an agent the ability to update itself over time, such as prompts, subagents or skills.\n\nFind out when continual learning is a game-changer, and when you don't need it.\n\n🍵 Want more TLDR's into the world of AI? What's The Tea is your quick-hit series on the concepts everyone is talking about.\n\nSubscribe for more bite-sized drops."
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=LdQpoK2TzSo",
+    "video_id": "LdQpoK2TzSo",
+    "title": "Introducing Managed Deep Agents | Interrupt 26",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-05-29T13:06:00Z",
+    "description_preview": "At LangChain's agent conference Interrupt, we announced Managed Deep Agents in private beta, an API-first hosted runtime for creating, running, and operating deep agents.\n\nDeep Agents gives developers an open-source harness for building agents that can plan, use tools, delegate to subagents, write files, and work over long horizons. Managed Deep Agents gives those agents a durable home in LangSmith.\n\nWith the Managed Deep Agents API, you can create, update, manage, and run agents programmaticall"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=8QKqENa_eQQ",
+    "video_id": "8QKqENa_eQQ",
+    "title": "Builders Unscripted: Ep. 3 - Matias Castello, Product Lead at Alchemy",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-05-29T20:29:25Z",
+    "description_preview": "Builders Unscripted spotlights the stories behind real projects and the mindset that makes them possible: you can just build things.\n\nIn this episode, Romain Huet, Head of Developer Experience, chats with Matias Castello, Product Lead at Alchemy. Matias shares how his team uses Codex for code review and product work, how he builds side projects with Codex App Server, and why he keeps rebuilding Snapcat as a personal eval for each new model.\n\nChapters:\n00:00 Intro\n00:58 Bringing Codex to work at "
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=MPIAB-8VmCo",
+    "video_id": "MPIAB-8VmCo",
+    "title": "Windows Computer Use and mobile access for Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-05-29T18:31:52Z",
+    "description_preview": "Codex on Windows can now use your computer to work across desktop apps, while you step away from your desk. You can also now use your mobile phone to control the Codex running on your Windows machine.\n\nSee how to enable Computer Use in the Codex app, mention installed apps in a conversation, and connect your Windows device to the ChatGPT mobile app to monitor or start tasks on the go.\n\nChapters:\n00:00 New features for Codex on Windows\n00:29 Enable Computer Use\n00:43 Let Codex work on your comput"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=JA3tmYqCacA",
+    "video_id": "JA3tmYqCacA",
+    "title": "These Models are Crazy!",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-05-29T17:10:58Z",
+    "description_preview": "\"It's taking me minutes and hours to do things that took teams weeks and months,\" - Lauren Steinberg, Loblaw Companies Limited.\n\nLauren, Chief Digital Officer at 🇨🇦 Canada’s largest retailer, shared how Codex and ChatGPT Images 2.0 are helping her team move faster, rethink workflows, and deliver better customer experiences.\n\nBuild with Codex ➡️ https://openai.com/codex/\n\n#codex #ecommerce"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=EYvzpZX2-Ww",
+    "video_id": "EYvzpZX2-Ww",
+    "title": "Loblaw Ships Faster with Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-05-29T17:03:52Z",
+    "description_preview": "Lauren, Chief Digital Officer at 🇨🇦 Canada’s largest retailer, shared how Codex and ChatGPT Images 2.0 are helping her team move faster, rethink workflows, and deliver better customer experiences.\n\nBuild with Codex ➡️ https://openai.com/codex/"
+  }
+]
