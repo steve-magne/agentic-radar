@@ -1,0 +1,137 @@
+[
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "url": "https://openai.com/index/boston-childrens-hospital",
+    "published_at": "2026-05-29T12:00:00Z",
+    "summary_preview": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "How Braintrust turns customer requests into code with Codex",
+    "url": "https://openai.com/index/braintrust",
+    "published_at": "2026-05-29T12:00:00Z",
+    "summary_preview": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Google AI Blog",
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "published_at": "2026-05-29T19:00:00Z",
+    "summary_preview": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp\" />We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+    "author": "Zahra Thompson"
+  },
+  {
+    "source": "blog",
+    "blog": "Google AI Blog",
+    "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+    "published_at": "2026-05-29T17:30:00Z",
+    "summary_preview": "Gemini Omni & Gemini 3.5 hero",
+    "author": "Zahra Thompson"
+  },
+  {
+    "source": "blog",
+    "blog": "Google AI Blog",
+    "title": "Check out real-life AI prototypes from the Futures Lab.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+    "published_at": "2026-05-29T12:00:00Z",
+    "summary_preview": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp\" />University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "May 2026 newsletter",
+    "url": "https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything",
+    "published_at": "2026-06-01T04:45:00Z",
+    "summary_preview": "<p>I just sent out the May edition of my <a href=\"https://github.com/sponsors/simonw/\">sponsors-only monthly newsletter</a>. If you are a sponsor (or if you start a sponsorship now) you can <a href=\"https://github.com/simonw-private/monthly/blob/main/2026-05-may.md\">access it here</a>.</p>\n<p>This month:</p>\n<ul>\n<li>Al got expensive, and Anthropic had a really good month</li>\n<li>The model releases were a little disappointing</li>\n<li>Conferences and podcasts</li>\n<li>I launched Datasette Agent and made a lot of progress on Datasette</li>\n<li>What I'm using, May 2026 edition</li>\n<li>Miscellaneous extras</li>\n</ul>\n<p>Here's <a href=\"https://github.com/simonw/monthly-newsletter-archive/blob/main/2026-04-april.md\">a copy of the April newsletter</a> as a preview of what you'll get. Pay $10/month to stay a month ahead of the free copy!</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/newsletter\">newsletter</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "datasette 1.0a32",
+    "url": "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
+    "published_at": "2026-05-31T23:23:38Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a32\">datasette 1.0a32</a></p>\n        <p>A minor bugfix release. Fixes a bug with <code>INSERT ... RETURNING</code> queries via the <a href=\"https://datasette.io/blog/2026/sql-write-queries/\">new /db/-/execute-write endpoint</a> and a bunch of <a href=\"https://docs.datasette.io/en/latest/settings.html#setting-base-url\">base_url</a> issues which showed up when I was <a href=\"https://simonwillison.net/2026/May/30/pyodide-asgi-browser/\">experimenting with Service Workers</a> yesterday.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/datasette\">datasette</a>, <a href=\"https://simonwillison.net/tags/annotated-release-notes\">annotated-release-notes</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "The solution might be cancelling my AI subscription",
+    "url": "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything",
+    "published_at": "2026-05-31T16:31:32Z",
+    "summary_preview": "<p><strong><a href=\"https://thoughts.hmmz.org/2026-05-31.html\">The solution might be cancelling my AI subscription</a></strong></p>\nI find this post by David Wilson very relatable. David lists 16+ projects he's spun up with AI tooling, and concludes:</p>\n<blockquote>\n<p>I didn't mean to build most of these things. Usually the Claude session started with something like \"<em>write a quick script for X</em>\", and one hour later the result is not a <em>quick script for X</em>, nor in the usual case is my problem solved, whatever the original itch happened to be.</p>\n<p>On that last point, this technology is <strong>horrific</strong> for attention. It's a thermonuclear ADHD amplifier and I have seen the same effect in every single one of my adult friends. Folk running 3 screens simultaneously working on totally unrelated \"projects\" they have little hope of maintaining, and such little commitment to the outcome that the time is obviously wasted.</p>\n</blockquote>\n<p>This is a <em>very</em> r",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Karen Kwok for Reuters Breakingviews",
+    "url": "https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything",
+    "published_at": "2026-05-31T01:48:12Z",
+    "summary_preview": "<blockquote cite=\"https://www.reuters.com/commentary/breakingviews/anthropic-gives-lesson-ai-revenue-hallucination-2026-03-10/\"><p>Anthropic defines “run-rate revenue” in two parts. Use the last 28 days of sales ⁠from customers charged on a consumption basis and multiply it by 13. Then, multiply the monthly subscription take by 12, ​and add the two together.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://www.reuters.com/commentary/breakingviews/anthropic-gives-lesson-ai-revenue-hallucination-2026-03-10/\">Karen Kwok for Reuters Breakingviews</a>, citing \"a person familiar with the matter\"</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/anthropic\">anthropic</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "How we contain Claude across products",
+    "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+    "published_at": "2026-05-30T21:36:24Z",
+    "summary_preview": "<p><strong><a href=\"https://www.anthropic.com/engineering/how-we-contain-claude\">How we contain Claude across products</a></strong></p>\nA complaint I often have about sandboxing products is that they are rarely thoroughly <em>documented</em>, and in the absence of detailed documentation it's hard to know how much I can trust them.</p>\n<p>Anthropic just published a fantastic overview of how their various sandbox techniques work across <a href=\"https://claude.ai/\">Claude.ai</a>, Claude Code, and Cowork.</p>\n<blockquote>\n<p>We constrain where and how an agent can act with process sandboxes, VMs, filesystem boundaries, and egress controls. The goal is to set a hard boundary on what an agent can reach. For example, if credentials never enter the sandbox, they can't be exfiltrated, regardless of whether the cause is a user, a model finding a “creative” path, or an attacker.</p>\n</blockquote>\n<p>Claude.ai uses gVisor. Claude Code, run locally, uses Seatbelt on macOS and Bubblewrap on Linux. C",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Running Python ASGI apps in the browser via Pyodide + a service worker",
+    "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
+    "published_at": "2026-05-30T21:02:16Z",
+    "summary_preview": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/pyodide-asgi-browser#readme\">Running Python ASGI apps in the browser via Pyodide + a service worker</a></p>\n        <p><a href=\"https://lite.datasette.io/\">Datasette Lite</a> is my version of Datasette that runs entirely in the browser using Pyodide in WebAssembly.</p>\n<p>When I first built it <a href=\"https://simonwillison.net/2022/May/4/datasette-lite/\">four years ago</a> I used Web Workers and code that intercepts navigation operations and fetches the generated HTML by running the Python app.</p>\n<p>This worked, but had the disadvantage that any JavaScript in <code>&lt;script&gt;</code> tags would not be executed - breaking some Datasette functionality and a whole lot of Datasette plugins.</p>\n<p>This morning I <a href=\"https://github.com/simonw/research/pull/112\">set Claude Opus 4.8 the task</a> (in Claude Code for web) of figuring out how to run Python ASGI apps in Pyodide using Service Workers ins",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "I Am Retiring from Tech to Live Offline",
+    "url": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything",
+    "published_at": "2026-05-30T19:39:08Z",
+    "summary_preview": "<p><strong><a href=\"https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/\">I Am Retiring from Tech to Live Offline</a></strong></p>\nI've seen a lot of posts on forums from people threatening to quit their careers over AI. This is <em>not</em> one of those: Chad Whitacre is taking concrete steps, starting with this typewritten, scanned letter</p>\n<blockquote>\n<p>I'm retiring from tech. Well, \"retiring\" is euphemistic. I'm stepping away from tech, and that includes Open Source. [...]</p>\n<p>AI was the last straw. Have you heard of that island off India where the indigenous population kills any outsiders fool-hardy enough to land? They are doing the rest of us a favor by preserving a way of life we may need again someday, or at the very least should not want to see completely extinguished. A reminder. Never forget your roots. Here in Pennsylvania we have the Amish performing a similar function. Significantly less hostile, though still set apart, they bear witness to what wa",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Daniel Jalkut",
+    "url": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
+    "published_at": "2026-05-30T17:29:55Z",
+    "summary_preview": "<blockquote cite=\"https://mastodon.social/@danielpunkass/116639318125898071\"><p>My take on AI is, essentially, everybody who’s against it is too against it and everybody who’s for it is too for it.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://mastodon.social/@danielpunkass/116639318125898071\">Daniel Jalkut</a>, via <a href=\"https://daringfireball.net/linked/2026/05/30/jalkut-on-ai\">John Gruber</a></p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/john-gruber\">john-gruber</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] Founders and Forward Deployed Engineers",
+    "url": "https://www.latent.space/p/ainews-founders-and-forward-deployed",
+    "published_at": "2026-05-30T01:57:15Z",
+    "summary_preview": "a quiet day lets us highlight the new AIE WF focuses",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+    "published_at": "2026-06-01T04:44:55Z",
+    "summary_preview": "",
+    "author": ""
+  }
+]

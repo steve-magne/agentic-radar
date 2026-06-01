@@ -1,0 +1,12 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=eEMm468VuUs",
+    "video_id": "eEMm468VuUs",
+    "title": "Continual Learning Explained in 60 Seconds | What's The Tea?",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-05-30T12:00:08Z",
+    "description_preview": "Brace Sproul and Jake Broekhuizen from the LangChain team break down one of the biggest AI concepts taking over tech Twitter (or X): continual learning, or when you give an agent the ability to update itself over time, such as prompts, subagents or skills.\n\nFind out when continual learning is a game-changer, and when you don't need it.\n\n🍵 Want more TLDR's into the world of AI? What's The Tea is your quick-hit series on the concepts everyone is talking about.\n\nSubscribe for more bite-sized drops."
+  }
+]
