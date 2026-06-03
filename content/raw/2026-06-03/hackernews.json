@@ -1,0 +1,145 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48364055,
+    "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+    "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+    "hn_url": "https://news.ycombinator.com/item?id=48364055",
+    "score": 689,
+    "descendants": 1211,
+    "by": "1vuio0pswjnm7",
+    "time": "2026-06-01T23:45:46Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48363765,
+    "title": "Chipotlai Max",
+    "url": "https://github.com/cyberpapiii/chipotlai-max",
+    "hn_url": "https://news.ycombinator.com/item?id=48363765",
+    "score": 377,
+    "descendants": 66,
+    "by": "nigelgutzmann",
+    "time": "2026-06-01T23:06:35Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48377404,
+    "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+    "url": "https://github.com/c0dejedi/nbd-vram",
+    "hn_url": "https://news.ycombinator.com/item?id=48377404",
+    "score": 271,
+    "descendants": 73,
+    "by": "tanelpoder",
+    "time": "2026-06-02T22:55:33Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48342399,
+    "title": "Muxcard, a DIY credit card size computer",
+    "url": "https://github.com/krauseler/muxcard",
+    "hn_url": "https://news.ycombinator.com/item?id=48342399",
+    "score": 250,
+    "descendants": 85,
+    "by": "sargstuff",
+    "time": "2026-05-31T01:59:06Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48372853,
+    "title": "Coreutils for Windows",
+    "url": "https://github.com/microsoft/coreutils",
+    "hn_url": "https://news.ycombinator.com/item?id=48372853",
+    "score": 207,
+    "descendants": 218,
+    "by": "gigel82",
+    "time": "2026-06-02T16:55:11Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48369863,
+    "title": "Expanding Project Glasswing",
+    "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+    "hn_url": "https://news.ycombinator.com/item?id=48369863",
+    "score": 172,
+    "descendants": 232,
+    "by": "surprisetalk",
+    "time": "2026-06-02T13:15:14Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48379203,
+    "title": "Agentic Mfw",
+    "url": "https://agenticmotherfucking.website",
+    "hn_url": "https://news.ycombinator.com/item?id=48379203",
+    "score": 171,
+    "descendants": 53,
+    "by": "elmerland",
+    "time": "2026-06-03T02:32:48Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48372239,
+    "title": "How we index images for RAG",
+    "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
+    "hn_url": "https://news.ycombinator.com/item?id=48372239",
+    "score": 122,
+    "descendants": 16,
+    "by": "mooreds",
+    "time": "2026-06-02T16:13:41Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48373764,
+    "title": "GitHub Copilot App",
+    "url": "https://github.com/features/preview/github-app",
+    "hn_url": "https://news.ycombinator.com/item?id=48373764",
+    "score": 107,
+    "descendants": 69,
+    "by": "theanonymousone",
+    "time": "2026-06-02T17:58:55Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48375673,
+    "title": "Now AI agents need what RSS does",
+    "url": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/",
+    "hn_url": "https://news.ycombinator.com/item?id=48375673",
+    "score": 72,
+    "descendants": 56,
+    "by": "julienreszka",
+    "time": "2026-06-02T20:19:11Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48379478,
+    "title": "Rsync and outrage",
+    "url": "https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0",
+    "hn_url": "https://news.ycombinator.com/item?id=48379478",
+    "score": 71,
+    "descendants": 12,
+    "by": "st3fan",
+    "time": "2026-06-03T03:16:53Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48377250,
+    "title": "Show HN: Paseo – Beautiful open-source coding agent interface",
+    "url": "https://github.com/getpaseo/paseo",
+    "hn_url": "https://news.ycombinator.com/item?id=48377250",
+    "score": 65,
+    "descendants": 40,
+    "by": "timhigins",
+    "time": "2026-06-02T22:34:42Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48344327,
+    "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
+    "url": "https://github.com/s-macke/Test-Drive-3-Maps",
+    "hn_url": "https://news.ycombinator.com/item?id=48344327",
+    "score": 58,
+    "descendants": 10,
+    "by": "s-macke",
+    "time": "2026-05-31T09:45:45Z"
+  }
+]

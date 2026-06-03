@@ -1,0 +1,52 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=ubHhXcKDgMY",
+    "video_id": "ubHhXcKDgMY",
+    "title": "How \"Supply side agents\" capture org context without needing user access | Max Agency #podcast",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-02T16:00:06Z",
+    "description_preview": "Gng Sng, Co-Founder and CTO of Cogent Security, explains why agents need to live where the work is happening — tickets, routines, decisions — not just where users are. He introduces the idea of \"supply side agents\" that capture organizational context at scale, building what he calls a nervous system for how an org actually operates.\n\nThis clip is from Max Agency, a #podcast about how the best AI agents are actually being built. Hosted by Harrison Chase, CEO of LangChain, each episode goes deep w"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=q4bOybgBv8U",
+    "video_id": "q4bOybgBv8U",
+    "title": "The Agent Lake: Combining AI agents with high-scale data processing | Max Agency #podcast",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-01T18:15:31Z",
+    "description_preview": "Gng Sng, Co-Founder and CTO of Cogent Security, breaks down what they call an Agent Lake — an agentic data lake that pairs long-running agents with a high-scale data platform. Agents don't just query the graph, they color it over time, building higher-confidence edges that make risk classification precise enough to cut through hundreds of millions of vulnerabilities and surface what actually matters.\n\nThis clip is from Max Agency, a #podcast about how the best AI agents are actually being built."
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=IIchUA5T3gs",
+    "video_id": "IIchUA5T3gs",
+    "title": "Run Untrusted Agent Code with LangSmith Sandboxes | Interrupt 26",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-01T14:45:54Z",
+    "description_preview": "LangSmith Sandboxes are secure code execution environments for agents. They give agents a runtime with a filesystem, shell, package manager, persistent state, and network boundary, so they can write code, install dependencies, run tests, inspect failures, and continue work across longer sessions.\n\nEach sandbox runs in a hardware-virtualized microVM, isolated from your services and from other sandboxes. That isolation is especially important for agents running model-generated code, external depen"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=5UlRL_ImvQ0",
+    "video_id": "5UlRL_ImvQ0",
+    "title": "Build and share apps in Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-02T16:29:33Z",
+    "description_preview": "Starting in preview for business and enterprise customers, Codex can now create and share interactive, hosted websites and apps.\n\nSites are a new kind of canvas for your ideas. Codex can take your ideas, analysis, and plans and turn them into dashboards, planners, review workspaces, project boards, galleries, and lightweight tools. Today, sites can be shared with anyone in your workspace via URL, giving teams a shared place to explore work, contribute input, track progress, and make decisions to"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=o4KZH_KSqYQ",
+    "video_id": "o4KZH_KSqYQ",
+    "title": "Pi Coding Agent Observability: HTML Specs with Gemini 3.5 Flash and GPT Image 2",
+    "channel": "Indy Dev Dan",
+    "channel_id": "UC_x36zCEGilGpB1m-V4gmjg",
+    "published_at": "2026-06-01T13:00:30Z",
+    "description_preview": "If you don't measure your agents, you're not engineering. You're gambling with tokens.\n\nEveryone is racing to run MORE agents. Almost no one can answer the only question that matters: what did they actually cost, and was it worth it? \n\n🚀 Get The Code\nPi Agent Observability: https://github.com/disler/pi-agent-observability\n\n🔥 Watch More\nTop 1 Opportunity For Sr Engineers: https://youtu.be/2KcITKKJikA\nPi to Pi Agent Communication: https://youtu.be/PIdETjcXNIk\nClaude Code Observability Video (Claud"
+  }
+]
