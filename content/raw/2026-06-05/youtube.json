@@ -1,0 +1,92 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=RjpTrffSMjE",
+    "video_id": "RjpTrffSMjE",
+    "title": "How to build agents when the smartest AI isn't smart enough",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-04T14:00:25Z",
+    "description_preview": "Nick Larus-Stone is the Head of AI at Benchling, the R&amp;D data platform that life science companies use to store and manage their experiments, samples, instruments, and analysis. Benchling has been around for since 2012. In October 2025, it launched Benchling AI, an intelligence layer with a chat interface, backed by an agent, that helps scientists find data, design experiments, and write reports. Nick came to Benchling through its acquisition of Sphinx Bio, the analysis startup he founded. I"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=nAqtdPuKj0Y",
+    "video_id": "nAqtdPuKj0Y",
+    "title": "How Listen Labs stopped reviewing traces manually with LangSmith Engine",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-03T17:31:35Z",
+    "description_preview": "Ollie Elmgren, engineer at Listen Labs, walks through how LangSmith Engine changed the way his team evaluates their AI agents. \n\nListen Labs runs AI-moderated customer research, fleets of AI interviewers that synthesize findings into reports. Before LangSmith Engine, Ollie was manually piecing through traces or dumping them into Claude Code to spot problems. \n\nNow, an agent runs in the background and surfaces patterns automatically,  catching systemic issues instead of making him wonder whether "
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=McZgnvn-e84",
+    "video_id": "McZgnvn-e84",
+    "title": "Building Frontier CX Agents | Interrupt 26",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-03T12:42:54Z",
+    "description_preview": "In this keynote from Interrupt 2026, Cisco Customer Experience Fellow and Chief Architect Carlos Pereira pulls back the curtain on how one of the world's largest enterprise organizations is building and scaling frontier AI agents for its Customer Experience (CX) division.\n\nCarlos walks through Cisco's real-world journey from early chatbots and the \"Agentic Foundation\" to a fully AI-native \"Renews Teammate\" running in production across a $26B+ recurring revenue business. He shares candid lessons "
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=BdBxQz8e-o8",
+    "video_id": "BdBxQz8e-o8",
+    "title": "Codex is your BFF when things are everything, everywhere, all at once 💫",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-04T20:27:50Z",
+    "description_preview": "Zapier is a remote first company, so their team is working across multiple tools like Slack, Google Docs and Coda. For Ryan Fitzgerald, Codex is the one piece that pulls it all together. \n\n➡️ https://lnkd.in/dnxrM282"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=DDnGhZ01PqM",
+    "video_id": "DDnGhZ01PqM",
+    "title": "What Codex Unlocks for Zapier",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-04T20:25:18Z",
+    "description_preview": "Zapier is a remote first company, so their team is working across multiple tools like Slack, Google Docs and Coda. For Ryan Fitzgerald, Codex is the one piece that pulls it all together. \n\nThe headline: Codex is your BFF when things are everything, everywhere, all at once 💫 \n\n➡️ https://lnkd.in/dnxrM282"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=U2C55LC0ZLM",
+    "video_id": "U2C55LC0ZLM",
+    "title": "Codex for Sales Teams: Moving Faster to Solve Customer Problems",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-04T19:32:57Z",
+    "description_preview": "Check out the quick ways Ashton and our sales team are leaning into Codex for prep work, ultimately delivering a better customer experience. \n\n✅ Pulls data for customer queries in 5 minutes\n✅ Creates demos & prototypes for customer convos \n✅ Sends recurring Slack updates with account specific headlines \n✅ Writes in Ashton's tone of voice  \n\nCodex is for every role, tool and workflow: https://lnkd.in/dnxrM282"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=_9ImjmzAyus",
+    "video_id": "_9ImjmzAyus",
+    "title": "Build and share interactive prototypes in Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-04T18:06:29Z",
+    "description_preview": "The Product Design plugin for Codex helps teams move from a rough idea to a prototype they can see, refine, and share for feedback.\n\nWith a single install, Codex becomes more useful for product design work, helping teams explore directions, build prototypes, and iterate faster.\n\nLearn more: https://openai.com/index/codex-for-every-role-tool-workflow/\nTry the plugin today: https://chatgpt.com/plugins/share/37f657dbc41f408d9b05b52d30b8b527"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=uU3LUMcNgfA",
+    "video_id": "uU3LUMcNgfA",
+    "title": "Codex Helps Amgen Focus on Patients",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-04T16:28:02Z",
+    "description_preview": "\"The ability to abstract away from the tedious boring bits of writing code and to spend your energy thinking about patients, that's where Codex is making the biggest impact at Amgen,\" Sean Bruich.\n\n➡️ https://lnkd.in/dnxrM282"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=bJcA23ckzcY",
+    "video_id": "bJcA23ckzcY",
+    "title": "It's time to fly | Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-03T19:11:26Z",
+    "description_preview": "Welcome to the new frontier of building.\n\nTake on more tasks, move effortlessly across projects, and ship faster.\n\nTry Codex for free today:\nhttps://openai.com/codex/"
+  }
+]

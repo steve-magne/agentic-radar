@@ -1,0 +1,272 @@
+[
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "url": "https://openai.com/index/endava-frontiers",
+    "published_at": "2026-06-04T12:00:00Z",
+    "summary_preview": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Dreaming: Better memory for a more helpful ChatGPT",
+    "url": "https://openai.com/index/chatgpt-memory-dreaming",
+    "published_at": "2026-06-04T09:00:00Z",
+    "summary_preview": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Biodefense in the Intelligence Age",
+    "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+    "published_at": "2026-06-04T00:00:00Z",
+    "summary_preview": "An action plan for AI-powered biological resilience",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Introducing new capabilities to GPT-Rosalind",
+    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "published_at": "2026-06-03T13:15:00Z",
+    "summary_preview": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+    "url": "https://openai.com/index/wasmer",
+    "published_at": "2026-06-03T12:00:00Z",
+    "summary_preview": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "OpenAI public policy agenda",
+    "url": "https://openai.com/index/public-policy-agenda",
+    "published_at": "2026-06-03T10:00:00Z",
+    "summary_preview": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "published_at": "2026-06-03T10:00:00Z",
+    "summary_preview": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "url": "https://openai.com/index/travelers",
+    "published_at": "2026-06-02T12:00:00Z",
+    "summary_preview": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Codex for every role, tool, and workflow",
+    "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "published_at": "2026-06-02T09:00:00Z",
+    "summary_preview": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Google AI Blog",
+    "title": "5 ways Google Search can level up your thrift and vintage shopping",
+    "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+    "published_at": "2026-06-03T13:00:00Z",
+    "summary_preview": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts, a yellow price tag, a red high-heele",
+    "author": "Megan Stoner"
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
+    "url": "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything",
+    "published_at": "2026-06-04T23:55:27Z",
+    "summary_preview": "<p><strong><a href=\"https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against\">AI enthusiasts are in a race against time, AI skeptics are in a race against entropy</a></strong></p>\nCharity Majors neatly captures the dynamic between AI enthusiasts and AI skeptics, both of whom are trying to build great software, often in the same teams:</p>\n<blockquote>\n<p>The enthusiasts are <em>not wrong</em>. We are starting to see real, non-imaginary, discontinuous leaps in capabilities from teams that lean in hard to working with AI. And this does not feel like a normal technology cycle where you can wait for the dust to settle; teams that sit this out while competitors are hustling could be out of business before the dust settles. That’s a real, existential threat.</p>\n<p>The skeptics are also <em>not wrong</em>. When you ship code faster than engineers can read it, in domains where nobody has full context, you are making withdrawals from a trust account that took years to build. R",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Emanuel Maiberg, 404 Media",
+    "url": "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything",
+    "published_at": "2026-06-04T16:38:29Z",
+    "summary_preview": "<blockquote cite=\"https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/\"><p>After this story was published Google's spokesperson reached out and asked us to publish a slightly different version of that statement. The new statement no longer stated that \"it's critical that we maintain humans in the loop.\"</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/\">Emanuel Maiberg, 404 Media</a>, Google Employees Internally Share Memes About How Its AI Sucks</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/ai-ethics\">ai-ethics</a>, <a href=\"https://simonwillison.net/tags/journalism\">journalism</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/google\">google</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
+    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
+    "published_at": "2026-06-03T12:01:27Z",
+    "summary_preview": "<p><strong><a href=\"https://www.bloomberg.com/news/articles/2026-06-02/uber-caps-usage-of-ai-tools-like-claude-code-to-cut-costs\">Uber Caps Usage of AI Tools Like Claude Code to Manage Costs</a></strong></p>\nI wrote <a href=\"https://simonwillison.net/2026/May/27/product-market-fit/#the-ai-failure-stories-around-this-are-pretty-thin\">the other day</a> about Uber blowing its 2026 AI budget in four months, and how that wasn't particularly surprising given they would have set that budget in 2025, before anyone could have predicted how popular token-burning coding agents were about to become.\nNatalie Lung for Bloomberg:</p>\n<blockquote>\n<p>The rideshare giant is limiting all employees to $1,500 in monthly token spending per AI coding tool, an Uber spokesperson said in response to a Bloomberg News inquiry. That means spending on one tool doesn’t have a bearing on the budget for another. The limits, which have been instituted in recent months, only apply to agentic coding software such as Cur",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Microsoft's new MAI models",
+    "url": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
+    "published_at": "2026-06-02T22:21:52Z",
+    "summary_preview": "<p>Microsoft <a href=\"https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/\">announced two new text LLMs</a> this morning - <strong><a href=\"https://microsoft.ai/news/introducing-mai-thinking-1/\">MAI-Thinking-1</a></strong> (reasoning, 1T parameters, 35B active, available to \"select early partners\") and <strong><a href=\"https://microsoft.ai/news/introducingmai-code-1-flash/\">MAI-Code-1-Flash</a></strong> (137B Parameters, 5B active, \"purpose-built for GitHub Copilot and VS Code to deliver high performance and lower cost [...] rolling out to GitHub Copilot individual users in Visual Studio Code\"). I've not been able to try either of them just yet.</p>\n<p><strike>It's very interesting to see Microsoft releasing models with such low parameter counts, especially given how expensive larger models are to access right now. They claim MAI-Thinking-1 \"is preferred to Sonnet 4.6 in our blind human side-by-side evaluations\", which is impressive for a 35B model ",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "datasette-agent-micropython 0.1a0",
+    "url": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
+    "published_at": "2026-06-02T19:28:36Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent-micropython/releases/tag/0.1a0\">datasette-agent-micropython 0.1a0</a></p>\n        <p>I want <a href=\"https://agent.datasette.io\">Datasette Agent</a> to be able to generate and execute Python code safely. This alpha is looking promising so far. GPT-5.5 has so far failed to break out of the sandbox!</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/python\">python</a>, <a href=\"https://simonwillison.net/tags/sandboxing\">sandboxing</a>, <a href=\"https://simonwillison.net/tags/datasette\">datasette</a>, <a href=\"https://simonwillison.net/tags/webassembly\">webassembly</a>, <a href=\"https://simonwillison.net/tags/datasette-agent\">datasette-agent</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "micropython-wasm 0.1a1",
+    "url": "https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything",
+    "published_at": "2026-06-02T19:20:47Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/micropython-wasm/releases/tag/0.1a1\">micropython-wasm 0.1a1</a></p>\n        <p>Fixes for some limitations that emerged while I was trying to use this to build <code>datasette-agent-micropython</code>.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/python\">python</a>, <a href=\"https://simonwillison.net/tags/sandboxing\">sandboxing</a>, <a href=\"https://simonwillison.net/tags/webassembly\">webassembly</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "California Brown Pelican",
+    "url": "https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything",
+    "published_at": "2026-06-02T18:17:03Z",
+    "summary_preview": "<p><img alt=\"California Brown Pelican\" src=\"https://static.inaturalist.org/photos/671786719/large.jpg\" /></p><p>California Brown Pelican, in Fort Mason, CA, US</p><p>I'm at the <a href=\"https://build.microsoft.com/\">Microsoft Build</a> conference today, held at <a href=\"https://en.wikipedia.org/wiki/Fort_Mason\">Fort Mason</a> in San Francisco. There are California Brown Pelicans diving into the water directly behind venue!</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/microsoft\">microsoft</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/llm-release\">llm-release</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] not much happened today",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-7a8",
+    "published_at": "2026-06-05T06:44:49Z",
+    "summary_preview": "a quiet day",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs",
+    "url": "https://www.latent.space/p/andon",
+    "published_at": "2026-06-04T20:39:18Z",
+    "summary_preview": "We talk with the VendingBench authors on evaling Claudes from Haiku to Mythos, and how they build leading, and lasting, frontier evals from scratch.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] Reve 2 and Ideogram 4: Layouts in Imagegen",
+    "url": "https://www.latent.space/p/ainews-reve-2-and-ideogram-4-layouts",
+    "published_at": "2026-06-04T03:24:07Z",
+    "summary_preview": "a quiet day.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "🔬Scaling Past Informal AI - Carina Hong, Axiom Math",
+    "url": "https://www.latent.space/p/axiom",
+    "published_at": "2026-06-03T19:27:49Z",
+    "summary_preview": "Verified Generation and Compounding Intelligence",
+    "author": "RJ Honicky"
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "⚡️Satya Nadella: No Priors x Latent Space Crossover Special at Microsoft Build",
+    "url": "https://www.latent.space/p/satya-2026",
+    "published_at": "2026-06-03T17:13:57Z",
+    "summary_preview": "The legendary Microsoft CEO makes his first Latent Space appearance!",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] Microsoft Build: MAI-Thinking-1 and MAI Family models",
+    "url": "https://www.latent.space/p/ainews-microsoft-build-mai-thinking",
+    "published_at": "2026-06-03T05:49:02Z",
+    "summary_preview": "Microsoft Build recap, and new MAI model technical details",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "GitHub's plan for Agents — Kyle Daigle, GitHub",
+    "url": "https://www.latent.space/p/github",
+    "published_at": "2026-06-02T16:48:21Z",
+    "summary_preview": "GitHub pioneered the modern AI coding era with Copilot, and the resulting explosion in agentic coding has led to notable strains on the most popular developer platform in the world. Here's the plan.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "published_at": "2026-06-04T18:57:45Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+    "published_at": "2026-06-04T12:24:58Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+    "url": "https://huggingface.co/blog/hf-cli-for-agents",
+    "published_at": "2026-06-04T00:00:00Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Direct Preference Optimization Beyond Chatbots",
+    "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+    "published_at": "2026-06-03T12:55:11Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Adding MCP Tools to Reachy Mini",
+    "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+    "published_at": "2026-06-03T00:00:00Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Holo3.1: Fast & Local Computer Use Agents",
+    "url": "https://huggingface.co/blog/Hcompany/holo31",
+    "published_at": "2026-06-02T14:13:23Z",
+    "summary_preview": "",
+    "author": ""
+  }
+]

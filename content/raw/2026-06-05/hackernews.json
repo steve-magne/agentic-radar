@@ -1,0 +1,156 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48383056,
+    "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+    "hn_url": "https://news.ycombinator.com/item?id=48383056",
+    "score": 607,
+    "descendants": 753,
+    "by": "pdyc",
+    "time": "2026-06-03T12:25:14Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48400842,
+    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+    "hn_url": "https://news.ycombinator.com/item?id=48400842",
+    "score": 435,
+    "descendants": 577,
+    "by": "meetpateltech",
+    "time": "2026-06-04T16:20:17Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48403980,
+    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+    "url": "https://github.com/anthropics/defending-code-reference-harness",
+    "hn_url": "https://news.ycombinator.com/item?id=48403980",
+    "score": 388,
+    "descendants": 112,
+    "by": "binyu",
+    "time": "2026-06-04T20:11:20Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48392343,
+    "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+    "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+    "hn_url": "https://news.ycombinator.com/item?id=48392343",
+    "score": 383,
+    "descendants": 210,
+    "by": "jc4p",
+    "time": "2026-06-04T00:56:32Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48392082,
+    "title": "The ways we contain Claude across products",
+    "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+    "hn_url": "https://news.ycombinator.com/item?id=48392082",
+    "score": 222,
+    "descendants": 95,
+    "by": "jbredeche",
+    "time": "2026-06-04T00:27:52Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48386725,
+    "title": "Gooey: A GPU-accelerated UI framework for Zig",
+    "url": "https://github.com/duanebester/gooey",
+    "hn_url": "https://news.ycombinator.com/item?id=48386725",
+    "score": 196,
+    "descendants": 84,
+    "by": "ksec",
+    "time": "2026-06-03T17:12:27Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48406358,
+    "title": "Open Code Review – An AI-powered code review CLI tool",
+    "url": "https://github.com/alibaba/open-code-review",
+    "hn_url": "https://news.ycombinator.com/item?id=48406358",
+    "score": 157,
+    "descendants": 32,
+    "by": "geoffbp",
+    "time": "2026-06-05T00:04:29Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48405931,
+    "title": "Do transformers need three projections? Systematic study of QKV variants",
+    "url": "https://arxiv.org/abs/2606.04032",
+    "hn_url": "https://news.ycombinator.com/item?id=48405931",
+    "score": 153,
+    "descendants": 31,
+    "by": "Anon84",
+    "time": "2026-06-04T23:11:56Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48399974,
+    "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+    "url": "https://github.com/huawei-csl/KVarN",
+    "hn_url": "https://news.ycombinator.com/item?id=48399974",
+    "score": 131,
+    "descendants": 13,
+    "by": "theanonymousone",
+    "time": "2026-06-04T15:18:00Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48345837,
+    "title": "Claude Code and Codex can have real-time conversation via Git",
+    "url": "https://medium.com/@Koukyosyumei/claude-code-and-codex-can-have-real-time-conversation-via-git-f95b696c1c05",
+    "hn_url": "https://news.ycombinator.com/item?id=48345837",
+    "score": 107,
+    "descendants": 75,
+    "by": "syumei",
+    "time": "2026-05-31T14:12:48Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48399358,
+    "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
+    "url": "https://boxes.dev",
+    "hn_url": "https://news.ycombinator.com/item?id=48399358",
+    "score": 89,
+    "descendants": 63,
+    "by": "nab",
+    "time": "2026-06-04T14:38:35Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48387095,
+    "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+    "url": "https://news.ycombinator.com/item?id=48387095",
+    "hn_url": "https://news.ycombinator.com/item?id=48387095",
+    "score": 77,
+    "descendants": 76,
+    "by": "shalinshah",
+    "time": "2026-06-03T17:39:53Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48356563,
+    "title": "Show HN: Prela – Purely Algebraic Relation Combinators",
+    "url": "https://github.com/remysucre/prela",
+    "hn_url": "https://news.ycombinator.com/item?id=48356563",
+    "score": 66,
+    "descendants": 13,
+    "by": "remywang",
+    "time": "2026-06-01T13:26:01Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48403753,
+    "title": "Castor: CERN Advanced STORage Manager",
+    "url": "https://castor.web.cern.ch/content/home.html",
+    "hn_url": "https://news.ycombinator.com/item?id=48403753",
+    "score": 54,
+    "descendants": 23,
+    "by": "naves",
+    "time": "2026-06-04T19:52:02Z"
+  }
+]
