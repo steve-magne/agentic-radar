@@ -1,0 +1,189 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48403980,
+    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+    "url": "https://github.com/anthropics/defending-code-reference-harness",
+    "hn_url": "https://news.ycombinator.com/item?id=48403980",
+    "score": 522,
+    "descendants": 140,
+    "by": "binyu",
+    "time": "2026-06-04T20:11:20Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48400842,
+    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+    "hn_url": "https://news.ycombinator.com/item?id=48400842",
+    "score": 509,
+    "descendants": 684,
+    "by": "meetpateltech",
+    "time": "2026-06-04T16:20:17Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48409664,
+    "title": "Tracing a powerful GNSS interference source over Europe",
+    "url": "https://arxiv.org/abs/2606.03673",
+    "hn_url": "https://news.ycombinator.com/item?id=48409664",
+    "score": 384,
+    "descendants": 201,
+    "by": "mimorigasaka",
+    "time": "2026-06-05T08:32:16Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48411635,
+    "title": "Did Claude increase bugs in rsync?",
+    "url": "https://alexispurslane.github.io/rsync-analysis/",
+    "hn_url": "https://news.ycombinator.com/item?id=48411635",
+    "score": 382,
+    "descendants": 385,
+    "by": "logicprog",
+    "time": "2026-06-05T12:43:33Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48414367,
+    "title": "pg_durable: Microsoft open sources in-database durable execution",
+    "url": "https://github.com/microsoft/pg_durable",
+    "hn_url": "https://news.ycombinator.com/item?id=48414367",
+    "score": 380,
+    "descendants": 86,
+    "by": "coffeemug",
+    "time": "2026-06-05T15:59:57Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48414027,
+    "title": "Conventional Commits encourages focus on the wrong things",
+    "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+    "hn_url": "https://news.ycombinator.com/item?id=48414027",
+    "score": 296,
+    "descendants": 228,
+    "by": "jsve",
+    "time": "2026-06-05T15:39:38Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48406358,
+    "title": "Open Code Review – An AI-powered code review CLI tool",
+    "url": "https://github.com/alibaba/open-code-review",
+    "hn_url": "https://news.ycombinator.com/item?id=48406358",
+    "score": 263,
+    "descendants": 67,
+    "by": "geoffbp",
+    "time": "2026-06-05T00:04:29Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48405931,
+    "title": "Do transformers need three projections? Systematic study of QKV variants",
+    "url": "https://arxiv.org/abs/2606.04032",
+    "hn_url": "https://news.ycombinator.com/item?id=48405931",
+    "score": 213,
+    "descendants": 46,
+    "by": "Anon84",
+    "time": "2026-06-04T23:11:56Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48421442,
+    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "hn_url": "https://news.ycombinator.com/item?id=48421442",
+    "score": 203,
+    "descendants": 53,
+    "by": "maltalex",
+    "time": "2026-06-06T04:38:36Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48389360,
+    "title": "How LLMs work",
+    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "hn_url": "https://news.ycombinator.com/item?id=48389360",
+    "score": 193,
+    "descendants": 51,
+    "by": "0xkato",
+    "time": "2026-06-03T20:15:13Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48409306,
+    "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
+    "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+    "hn_url": "https://news.ycombinator.com/item?id=48409306",
+    "score": 186,
+    "descendants": 43,
+    "by": "geotp",
+    "time": "2026-06-05T07:40:04Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48408442,
+    "title": "Fine-tuning an LLM to write docs like it's 1995",
+    "url": "https://passo.uno/fine-tuning-docs-llm/",
+    "hn_url": "https://news.ycombinator.com/item?id=48408442",
+    "score": 182,
+    "descendants": 64,
+    "by": "taubek",
+    "time": "2026-06-05T05:46:06Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48398925,
+    "title": "My Agent Skill for Test-Driven Development",
+    "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+    "hn_url": "https://news.ycombinator.com/item?id=48398925",
+    "score": 163,
+    "descendants": 66,
+    "by": "laxmena",
+    "time": "2026-06-04T14:10:40Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48399974,
+    "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+    "url": "https://github.com/huawei-csl/KVarN",
+    "hn_url": "https://news.ycombinator.com/item?id=48399974",
+    "score": 143,
+    "descendants": 15,
+    "by": "theanonymousone",
+    "time": "2026-06-04T15:18:00Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48409955,
+    "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+    "url": "https://github.com/zdk/lowfat",
+    "hn_url": "https://news.ycombinator.com/item?id=48409955",
+    "score": 126,
+    "descendants": 62,
+    "by": "zdkaster",
+    "time": "2026-06-05T09:10:42Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48405264,
+    "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+    "url": "https://github.com/schildep/verified-polygon-intersection",
+    "hn_url": "https://news.ycombinator.com/item?id=48405264",
+    "score": 72,
+    "descendants": 14,
+    "by": "permute",
+    "time": "2026-06-04T22:06:18Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48414978,
+    "title": "Mantine-datatable (and others) compromised – owner account suspended",
+    "url": "https://github.com/icflorescu/mantine-datatable/discussions/813",
+    "hn_url": "https://news.ycombinator.com/item?id=48414978",
+    "score": 66,
+    "descendants": 24,
+    "by": "justsomehuman",
+    "time": "2026-06-05T16:39:57Z"
+  }
+]
