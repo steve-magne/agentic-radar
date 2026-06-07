@@ -1,0 +1,167 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48421442,
+    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "hn_url": "https://news.ycombinator.com/item?id=48421442",
+    "score": 1405,
+    "descendants": 481,
+    "by": "maltalex",
+    "time": "2026-06-06T04:38:36Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48389360,
+    "title": "How LLMs work",
+    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "hn_url": "https://news.ycombinator.com/item?id=48389360",
+    "score": 873,
+    "descendants": 241,
+    "by": "0xkato",
+    "time": "2026-06-03T20:15:13Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48414367,
+    "title": "pg_durable: Microsoft open sources in-database durable execution",
+    "url": "https://github.com/microsoft/pg_durable",
+    "hn_url": "https://news.ycombinator.com/item?id=48414367",
+    "score": 462,
+    "descendants": 105,
+    "by": "coffeemug",
+    "time": "2026-06-05T15:59:57Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48398925,
+    "title": "My Agent Skill for Test-Driven Development",
+    "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+    "hn_url": "https://news.ycombinator.com/item?id=48398925",
+    "score": 232,
+    "descendants": 105,
+    "by": "laxmena",
+    "time": "2026-06-04T14:10:40Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48428763,
+    "title": "New U.S. college grads now have higher unemployment than the average worker",
+    "url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
+    "hn_url": "https://news.ycombinator.com/item?id=48428763",
+    "score": 196,
+    "descendants": 231,
+    "by": "davidbarker",
+    "time": "2026-06-06T20:35:40Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48408442,
+    "title": "Fine-tuning an LLM to write docs like it's 1995",
+    "url": "https://passo.uno/fine-tuning-docs-llm/",
+    "hn_url": "https://news.ycombinator.com/item?id=48408442",
+    "score": 191,
+    "descendants": 65,
+    "by": "taubek",
+    "time": "2026-06-05T05:46:06Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48416264,
+    "title": "Harness engineering: Leveraging Codex in an agent-first world",
+    "url": "https://openai.com/index/harness-engineering/",
+    "hn_url": "https://news.ycombinator.com/item?id=48416264",
+    "score": 173,
+    "descendants": 109,
+    "by": "pramodbiligiri",
+    "time": "2026-06-05T18:20:06Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48409955,
+    "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+    "url": "https://github.com/zdk/lowfat",
+    "hn_url": "https://news.ycombinator.com/item?id=48409955",
+    "score": 149,
+    "descendants": 74,
+    "by": "zdkaster",
+    "time": "2026-06-05T09:10:42Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48425247,
+    "title": "Benchmarks in Leipzig",
+    "url": "https://arxiv.org/abs/2606.05818",
+    "hn_url": "https://news.ycombinator.com/item?id=48425247",
+    "score": 130,
+    "descendants": 44,
+    "by": "root-parent",
+    "time": "2026-06-06T14:00:52Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48431461,
+    "title": "Valve P2P networking broken for more than 2 months",
+    "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+    "hn_url": "https://news.ycombinator.com/item?id=48431461",
+    "score": 113,
+    "descendants": 52,
+    "by": "babuskov",
+    "time": "2026-06-07T03:21:52Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48425347,
+    "title": "Running Python code in a sandbox with MicroPython and WASM",
+    "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
+    "hn_url": "https://news.ycombinator.com/item?id=48425347",
+    "score": 92,
+    "descendants": 29,
+    "by": "theanonymousone",
+    "time": "2026-06-06T14:15:32Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48430923,
+    "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+    "url": "https://arxiv.org/abs/2601.14470",
+    "hn_url": "https://news.ycombinator.com/item?id=48430923",
+    "score": 85,
+    "descendants": 23,
+    "by": "Anon84",
+    "time": "2026-06-07T01:37:11Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48405264,
+    "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+    "url": "https://github.com/schildep/verified-polygon-intersection",
+    "hn_url": "https://news.ycombinator.com/item?id=48405264",
+    "score": 85,
+    "descendants": 19,
+    "by": "permute",
+    "time": "2026-06-04T22:06:18Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48431981,
+    "title": "I design with Claude more than Figma now",
+    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+    "hn_url": "https://news.ycombinator.com/item?id=48431981",
+    "score": 82,
+    "descendants": 51,
+    "by": "MrBuddyCasino",
+    "time": "2026-06-07T05:04:24Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48428647,
+    "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
+    "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+    "hn_url": "https://news.ycombinator.com/item?id=48428647",
+    "score": 30,
+    "descendants": 31,
+    "by": "rbanffy",
+    "time": "2026-06-06T20:24:29Z"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=dlzzqj4Bp7g",
+    "video_id": "dlzzqj4Bp7g",
+    "title": "What's the tea on harnesses?",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-05T20:22:40Z",
+    "description_preview": "Everyone's talking about agent harnesses, but what actually are they? \n\nBrace Sproul and Jake Broekhuizen from the LangChain team break down one of the biggest AI concepts taking over tech Twitter (or X): harnesses, or the combination of tools, execution environment, system prompt, and file system that a model has access to.\n\nAnd it turns out, optimizing your harness can be just as powerful as changing the model itself. \n\n🍵 Want more TLDR's into the world of AI? What's The Tea is your quick-hit "
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=vxxxkNF5SXk",
+    "video_id": "vxxxkNF5SXk",
+    "title": "Deploy Google ADK Agents on LangSmith Deployment",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-05T19:00:17Z",
+    "description_preview": "You can now deploy Google ADK (Agent Development Kit) agents straight to LangSmith Deployments. In this short walkthrough, Victor from our LangSmith Deployment team takes you through creating a Google ADK agent and deploying it on LangSmith Deployment. \n\nThis deployment will come complete with session persistence, streaming, and tracing by simply using a small wrapper function and a single deploy command.\n\nThe demo is a personal task-manager agent: it adds, lists, completes, and summarizes tasks"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=hsJ9t2scY5g",
+    "video_id": "hsJ9t2scY5g",
+    "title": "How Odessia ships a consumer-grade travel agent with LangSmith Engine",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-05T16:54:28Z",
+    "description_preview": "Francis Davidson, founder of Odessia, shares how his team uses LangSmith Engine to build and maintain a visually rich, low-latency AI travel agent, one that can book flights, hotels, and full itineraries in a single conversation. \n\nHe breaks down the core challenge: dozens of tool calls that have to resolve in seconds, or users drop off. With LangSmith Engine, his team can aggregate thousands of traces, combine them with source code and eval results, and extract actionable insight, right down to"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=k4l-rtwezVg",
+    "video_id": "k4l-rtwezVg",
+    "title": "Agents in the Enterprise with MongoDB | Interrupt 26",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-05T12:56:12Z",
+    "description_preview": "Harrison Chase sits down with CJ Desai, CEO of MongoDB, for a fireside chat at Interrupt 2026, the agent conference by LangChain. Watch their full session for a deep dive on what's actually working (and not) for enterprises building AI agents at scale, why 2025's \"year of agents\" prediction didn't quite pan out, and so much more.\n\n00:00 Introduction & welcome\n01:01 MongoDB's founding principles & how they apply to AI\n02:47 AI is all about unstructured data - how MongoDB fits in\n03:16 Adding nati"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=RwzRm-qCXwA",
+    "video_id": "RwzRm-qCXwA",
+    "title": "OpenAI Investor Innovation Day",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-06T23:50:54Z",
+    "description_preview": "We brought together a curated group of senior leaders for a hands-on experience focused on how AI is transforming financial services.\n\nFor the latest on Codex ➡️\n\nhttps://lnkd.in/eKvcD4Va"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=VRvC5smyzso",
+    "video_id": "VRvC5smyzso",
+    "title": "Introducing Sites in Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-05T17:42:23Z",
+    "description_preview": "Sites in Codex lets anyone on your team turn an idea into a secure application and publish it in minutes. Build internal tools, mini apps, and shareable resources with hosting, authentication, storage, and database support included.\n\nSee how teams can use Sites to prepare for executive business reviews, upcoming events, and internal investment decisions, and more and then share and refine those apps across their workspace."
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=xZ5J81Lwyk8",
+    "video_id": "xZ5J81Lwyk8",
+    "title": "1Password One Shots with Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-05T13:01:28Z",
+    "description_preview": "“With Codex, it’s helped us get to feature launches faster,” Nancy Wang. \n\nThe 1Password team is going from idea to prototype in one shot. 💥 \n\n\"What's been eye opening for our engineers is really that shortening of the life cycle between planning and being able to actually see a feature in production.\"\n\n☑️ Check out Codex for every role: https://lnkd.in/dnxrM282"
+  }
+]
