@@ -1,0 +1,83 @@
+[
+  {
+    "source": "blog",
+    "blog": "Google AI Blog",
+    "title": "The latest AI news we announced in May 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+    "published_at": "2026-06-05T14:45:00Z",
+    "summary_preview": "May AI recap",
+    "author": "The Keyword Team"
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "datasette-agent-edit 0.1a0",
+    "url": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
+    "published_at": "2026-06-07T23:56:38Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent-edit/releases/tag/0.1a0\">datasette-agent-edit 0.1a0</a></p>\n        <p>I'm planning several plugins for <a href=\"https://agent.datasette.io/\">Datasette Agent</a> which can make edits to existing pieces of text - things like collaborative Markdown editing, updating large SQL queries, and editing SVG files.</p>\n<p>Agentic editing of text is a little tricky to get right. My favorite published design for this is for the <a href=\"https://platform.claude.com/docs/en/agents-and-tools/tool-use/text-editor-tool#use-the-text-editor-tool\">Claude text editor</a>, which implements the following tools:</p>\n<ul>\n<li><code>view</code> - view sections of a file, with line numbers added to every line.</li>\n<li><code>str_replace</code> - find an exact <code>old_str</code> and replace it with <code>new_str</code> - fail if the original string is not unique</li>\n<li><code>insert</code> - insert the specified text after the s",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "micropython-wasm 0.1a2",
+    "url": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything",
+    "published_at": "2026-06-06T04:26:06Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/micropython-wasm/releases/tag/0.1a2\">micropython-wasm 0.1a2</a></p>\n        <p>I added a CLI to <code>micropython-wasm</code> (<a href=\"https://github.com/simonw/micropython-wasm/issues/7\">issue #7</a>), inspired by the first draft of <a href=\"https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/\">the blog entry</a> when I realized it would be a great way to illustrate the <a href=\"https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#try-it-yourself\">Try it yourself</a> section.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/python\">python</a>, <a href=\"https://simonwillison.net/tags/sandboxing\">sandboxing</a>, <a href=\"https://simonwillison.net/tags/webassembly\">webassembly</a>, <a href=\"https://simonwillison.net/tags/micropython\">micropython</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Running Python code in a sandbox with MicroPython and WASM",
+    "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
+    "published_at": "2026-06-06T03:53:34Z",
+    "summary_preview": "<p>I've been experimenting with different approaches to running code in a sandbox for several years now, but my latest attempt feels like it might finally have all of the characteristics I've been looking for. I've released it as an alpha package called <a href=\"https://github.com/simonw/micropython-wasm\">micropython-wasm</a>, and I'm using it for a code execution sandbox plugin for <a href=\"https://github.com/datasette/datasette-agent\">Datasette Agent</a> called <a href=\"https://github.com/datasette/datasette-agent-micropython\">datasette-agent-micropython</a>.</p>\n<ul>\n  <li><a href=\"https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#why-do-i-want-a-sandbox-\">Why do I want a sandbox?</a></li>\n  <li><a href=\"https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#what-i-want-from-a-sandbox\">What I want from a sandbox</a></li>\n  <li><a href=\"https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#webassembly-looks-really-promising-here\">WebAssembly looks really",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "OpenAI Help: Lockdown Mode",
+    "url": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything",
+    "published_at": "2026-06-05T23:56:40Z",
+    "summary_preview": "<p><strong><a href=\"https://help.openai.com/en/articles/20001061-lockdown-mode\">OpenAI Help: Lockdown Mode</a></strong></p>\nOpenAI first teased this <a href=\"https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt/\">in February</a>, but now it's live and \"rolling out to eligible personal accounts, including Free, Go, Plus, and Pro, and self-serve ChatGPT Business accounts\":</p>\n<blockquote>\n<p>Lockdown Mode is designed to help prevent the final stage of data exfiltration from a prompt injection attack by limiting outbound network requests that could transfer sensitive data to an attacker. Lockdown Mode does not prevent prompt injections from appearing in the content ChatGPT processes. For example, a prompt injection could appear in cached web content or in an uploaded file, and could still affect the behavior or accuracy of a response.</p>\n</blockquote>\n<p>This looks really good to me.</p>\n<p>The <a href=\"https://simonwillison.net/2025/Jun/16/the-lethal-t",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Andreas Kling",
+    "url": "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything",
+    "published_at": "2026-06-05T11:10:05Z",
+    "summary_preview": "<blockquote cite=\"https://ladybird.org/posts/changing-how-we-develop-ladybird/\"><p>We will no longer accept public pull requests. [...]</p>\n<p>A substantial patch used to imply substantial effort, and that effort was a reasonable proxy for good faith. That assumption no longer holds. [...]</p>\n<p>Whether code was typed by hand is beside the point. What matters is who is responsible for it once it enters the browser. Ladybird is becoming a browser for real users. The people introducing changes to it must be the people who decide those changes belong in the project, and who will answer for the consequences.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://ladybird.org/posts/changing-how-we-develop-ladybird/\">Andreas Kling</a>, Changing How We Develop Ladybird</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/ladybird\">ladybird</a>, <a href=\"https://simonwillison.net/tags/ai-ethics\">ai-ethics</a>, <a href=\"https://simonwillison.net/tags/open-source\">open-source</a>, <a hr",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] not much happened today",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-6b8",
+    "published_at": "2026-06-06T04:34:47Z",
+    "summary_preview": "a quiet day of RSI.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "How to Stop Shipping Low-Quality RL Environments (with Examples)",
+    "url": "https://www.latent.space/p/bad-envs",
+    "published_at": "2026-06-05T18:49:40Z",
+    "summary_preview": "Your broken harness is actively making the model worse. Here's what I keep seeing after years of eyeballing trajectories, and what you need to fix.",
+    "author": "Auriel Wright"
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Amazing Digital Dentures (a failed project)",
+    "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
+    "published_at": "2026-06-07T19:44:27Z",
+    "summary_preview": "",
+    "author": ""
+  }
+]

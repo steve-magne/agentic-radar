@@ -1,0 +1,200 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48434312,
+    "title": "LLMs are eroding my software engineering career and I don't know what to do",
+    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "hn_url": "https://news.ycombinator.com/item?id=48434312",
+    "score": 927,
+    "descendants": 890,
+    "by": "poisonfountain",
+    "time": "2026-06-07T12:49:29Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48389360,
+    "title": "How LLMs work",
+    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "hn_url": "https://news.ycombinator.com/item?id=48389360",
+    "score": 925,
+    "descendants": 261,
+    "by": "0xkato",
+    "time": "2026-06-03T20:15:13Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48434436,
+    "title": "Anthropic, please ship an official Claude Desktop for Linux",
+    "url": "https://github.com/anthropics/claude-code/issues/65697",
+    "hn_url": "https://news.ycombinator.com/item?id=48434436",
+    "score": 489,
+    "descendants": 279,
+    "by": "predkambrij",
+    "time": "2026-06-07T13:06:52Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48433756,
+    "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+    "url": "https://github.com/devenjarvis/lathe",
+    "hn_url": "https://news.ycombinator.com/item?id=48433756",
+    "score": 298,
+    "descendants": 55,
+    "by": "devenjarvis",
+    "time": "2026-06-07T11:16:46Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48416264,
+    "title": "Harness engineering: Leveraging Codex in an agent-first world",
+    "url": "https://openai.com/index/harness-engineering/",
+    "hn_url": "https://news.ycombinator.com/item?id=48416264",
+    "score": 290,
+    "descendants": 199,
+    "by": "pramodbiligiri",
+    "time": "2026-06-05T18:20:06Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48431981,
+    "title": "I design with Claude more than Figma now",
+    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+    "hn_url": "https://news.ycombinator.com/item?id=48431981",
+    "score": 284,
+    "descendants": 248,
+    "by": "MrBuddyCasino",
+    "time": "2026-06-07T05:04:24Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48431461,
+    "title": "Major P2P issues in Israel and possibly other Middle East countries",
+    "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+    "hn_url": "https://news.ycombinator.com/item?id=48431461",
+    "score": 268,
+    "descendants": 132,
+    "by": "babuskov",
+    "time": "2026-06-07T03:21:52Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48398925,
+    "title": "My Agent Skill for Test-Driven Development",
+    "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+    "hn_url": "https://news.ycombinator.com/item?id=48398925",
+    "score": 246,
+    "descendants": 109,
+    "by": "laxmena",
+    "time": "2026-06-04T14:10:40Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48440448,
+    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+    "hn_url": "https://news.ycombinator.com/item?id=48440448",
+    "score": 231,
+    "descendants": 92,
+    "by": "yogthos",
+    "time": "2026-06-08T01:39:30Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48430923,
+    "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+    "url": "https://arxiv.org/abs/2601.14470",
+    "hn_url": "https://news.ycombinator.com/item?id=48430923",
+    "score": 169,
+    "descendants": 68,
+    "by": "Anon84",
+    "time": "2026-06-07T01:37:11Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48425247,
+    "title": "Benchmarks in Leipzig",
+    "url": "https://arxiv.org/abs/2606.05818",
+    "hn_url": "https://news.ycombinator.com/item?id=48425247",
+    "score": 137,
+    "descendants": 49,
+    "by": "root-parent",
+    "time": "2026-06-06T14:00:52Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48436863,
+    "title": "Office-open-xml-viewer: Office XML document viewer that renders to HTML Canvas",
+    "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
+    "hn_url": "https://news.ycombinator.com/item?id=48436863",
+    "score": 128,
+    "descendants": 52,
+    "by": "maxloh",
+    "time": "2026-06-07T17:22:28Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48410427,
+    "title": "Arithmetic Without Numbers – How LLMs Do Math",
+    "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
+    "hn_url": "https://news.ycombinator.com/item?id=48410427",
+    "score": 114,
+    "descendants": 38,
+    "by": "old_sound",
+    "time": "2026-06-05T10:19:39Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48425347,
+    "title": "Running Python code in a sandbox with MicroPython and WASM",
+    "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
+    "hn_url": "https://news.ycombinator.com/item?id=48425347",
+    "score": 107,
+    "descendants": 38,
+    "by": "theanonymousone",
+    "time": "2026-06-06T14:15:32Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48440008,
+    "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
+    "url": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
+    "hn_url": "https://news.ycombinator.com/item?id=48440008",
+    "score": 102,
+    "descendants": 12,
+    "by": "melastmohican",
+    "time": "2026-06-08T00:17:45Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48370278,
+    "title": "Backrest – a web UI and orchestrator for restic backup",
+    "url": "https://github.com/garethgeorge/backrest",
+    "hn_url": "https://news.ycombinator.com/item?id=48370278",
+    "score": 92,
+    "descendants": 7,
+    "by": "flexagoon",
+    "time": "2026-06-02T13:52:34Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48418839,
+    "title": "Warren's Abstract Machine: A Tutorial Reconstruction",
+    "url": "https://github.com/a-yiorgos/wambook",
+    "hn_url": "https://news.ycombinator.com/item?id=48418839",
+    "score": 51,
+    "descendants": 5,
+    "by": "nextos",
+    "time": "2026-06-05T21:52:02Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48433305,
+    "title": "Efficient and Training-Free Single-Image Diffusion Models",
+    "url": "https://arxiv.org/abs/2606.04299",
+    "hn_url": "https://news.ycombinator.com/item?id=48433305",
+    "score": 51,
+    "descendants": 0,
+    "by": "yorwba",
+    "time": "2026-06-07T09:43:45Z"
+  }
+]
