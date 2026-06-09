@@ -1,0 +1,68 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48450142,
+    "title": "Apple reveals new AI architecture built around Google Gemini models",
+    "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "hn_url": "https://news.ycombinator.com/item?id=48450142",
+    "score": 532,
+    "descendants": 408,
+    "by": "unclefuzzy",
+    "time": "2026-06-08T19:14:47Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48452317,
+    "title": "Confidential submission of draft S-1 to the SEC",
+    "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+    "hn_url": "https://news.ycombinator.com/item?id=48452317",
+    "score": 334,
+    "descendants": 264,
+    "by": "hackerBanana",
+    "time": "2026-06-08T21:22:43Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48431981,
+    "title": "I design with Claude more than Figma now",
+    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+    "hn_url": "https://news.ycombinator.com/item?id=48431981",
+    "score": 311,
+    "descendants": 267,
+    "by": "MrBuddyCasino",
+    "time": "2026-06-07T05:04:24Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48444871,
+    "title": "Zig by Example",
+    "url": "https://github.com/boringcollege/zig-by-example",
+    "hn_url": "https://news.ycombinator.com/item?id=48444871",
+    "score": 218,
+    "descendants": 99,
+    "by": "dariubs",
+    "time": "2026-06-08T13:06:19Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48443258,
+    "title": "Replies to comments on my \"LLMs are eroding my career\" post",
+    "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
+    "hn_url": "https://news.ycombinator.com/item?id=48443258",
+    "score": 147,
+    "descendants": 204,
+    "by": "omblivion",
+    "time": "2026-06-08T09:52:03Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48415828,
+    "title": "Tiny hackable CUDA language model implementation",
+    "url": "https://github.com/markusheimerl/gpt",
+    "hn_url": "https://news.ycombinator.com/item?id=48415828",
+    "score": 78,
+    "descendants": 13,
+    "by": "markusheimerl",
+    "time": "2026-06-05T17:41:58Z"
+  }
+]

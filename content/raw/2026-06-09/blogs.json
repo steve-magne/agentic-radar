@@ -1,0 +1,65 @@
+[
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Confidential submission of draft S-1 to the SEC",
+    "url": "https://openai.com/index/openai-submits-confidential-s-1",
+    "published_at": "2026-06-08T14:00:00Z",
+    "summary_preview": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Built to benefit everyone: our plan",
+    "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+    "published_at": "2026-06-08T01:30:00Z",
+    "summary_preview": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Introducing the OpenAI Economic Research Exchange",
+    "url": "https://openai.com/index/economic-research-exchange",
+    "published_at": "2026-06-08T00:00:00Z",
+    "summary_preview": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Siri AI at WWDC 2026",
+    "url": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
+    "published_at": "2026-06-08T23:58:04Z",
+    "summary_preview": "<p>Given how badly burned anyone who took Apple's <a href=\"https://simonwillison.net/2024/Jun/10/apple-intelligence/\">2024 WWDC Apple Intelligence announcements</a> at face value was, I'm holding to a strict \"I'll believe it when I see it\" policy for everything <a href=\"https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/\">they announced today</a>. </p>\n<p>The new Siri AI features do at least look feasible with today's technology, especially since Apple are licensing a custom Gemini-derived model that they can run on their own <a href=\"https://simonwillison.net/2024/Jun/11/private-cloud-compute/\">Private Cloud Compute</a>.</p>\n<p>It sounds like they'll be taking advantage of vision LLMs to extract information from the user's screen, which neatly sidesteps the need for every existing application to ship custom code in order to integrate with Apple Intelligence. Vision LLMs were a much less mature category in June 2024.</p>\n<p>The n",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "datasette-agent-edit 0.1a0",
+    "url": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
+    "published_at": "2026-06-07T23:56:38Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent-edit/releases/tag/0.1a0\">datasette-agent-edit 0.1a0</a></p>\n        <p>I'm planning several plugins for <a href=\"https://agent.datasette.io/\">Datasette Agent</a> which can make edits to existing pieces of text - things like collaborative Markdown editing, updating large SQL queries, and editing SVG files.</p>\n<p>Agentic editing of text is a little tricky to get right. My favorite published design for this is for the <a href=\"https://platform.claude.com/docs/en/agents-and-tools/tool-use/text-editor-tool#use-the-text-editor-tool\">Claude text editor</a>, which implements the following tools:</p>\n<ul>\n<li><code>view</code> - view sections of a file, with line numbers added to every line.</li>\n<li><code>str_replace</code> - find an exact <code>old_str</code> and replace it with <code>new_str</code> - fail if the original string is not unique</li>\n<li><code>insert</code> - insert the specified text after the s",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] FrontierCode: Benchmarking for Code Quality over Slop",
+    "url": "https://www.latent.space/p/ainews-frontiercode-benchmarking",
+    "published_at": "2026-06-09T06:12:33Z",
+    "summary_preview": "We made a thing!",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+    "url": "https://huggingface.co/blog/openenv-agentic-rl",
+    "published_at": "2026-06-08T00:00:00Z",
+    "summary_preview": "",
+    "author": ""
+  }
+]
