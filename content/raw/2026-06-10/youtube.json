@@ -1,0 +1,132 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=o6b3F0KhASE",
+    "video_id": "o6b3F0KhASE",
+    "title": "Quickstart: LangSmith Fleet | LangChain Academy",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-09T16:30:35Z",
+    "description_preview": "LangSmith Fleet is the easiest way to build, deploy, and manage AI agents without writing a single line of code. Just chat.\n\nMost teams struggle to adopt AI at scale: prompts are hard to write, automation tools have steep learning curves, and it's rarely clear which tasks can be reliably automated. Fleet solves all of this by creating true agents — not rigid workflows — that reason, adapt, delegate to sub-agents, and improve with feedback over time.\n\nWe created a free LangChain Academy course th"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=CS5HojyZ5FE",
+    "video_id": "CS5HojyZ5FE",
+    "title": "The Etsy Gifting Assistant: From Prototype to Production | Interrupt 26",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-08T12:54:09Z",
+    "description_preview": "Derrick Kondo from Etsy's GenAI Enablement team walks through how Etsy built and shipped a conversational gifting assistant using LangChain, LangGraph, and LangSmith in just six weeks. The agent helps shoppers find the perfect gift through collaborative, iterative recommendations across Etsy's unique, unstructured inventory.\n\n0:00 Introduction\n0:38 Inventory search challenges\n1:22 Why build an agent for gifting\n2:04 Beta release results\n2:36 Engineering overview\n2:52 Solution architecture with L"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=IEYU-CgLo3E",
+    "video_id": "IEYU-CgLo3E",
+    "title": "Codex for Finance: Faster Reports, Dashboards, and Decisions",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-09T21:42:40Z",
+    "description_preview": "“Codex is essential in our finance workflows today. It's not just a niche tool for coding,” Wei Loke, Enterprise Platforms and Technology. \n\nWei leads AI initiatives across the finance org and sees our OpenAI teams leveraging Codex to build:\n\n✅ Internal apps across procurement and accounting\n✅ Slides and memos\n✅ Month-end executive reports\n✅ Custom dashboards for vendor-rich reviews\n✅ Journal entry preparation support\n\nWhat will you build? \n\nCodex is for every role, tool and workflow: https://ln"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=Lvk_VZOppIY",
+    "video_id": "Lvk_VZOppIY",
+    "title": "Codex for data science",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-09T21:30:13Z",
+    "description_preview": "See how the data analytics plugin for Codex helps teams go from a business question to a decision-ready insight report using data from Databricks.\n\nIn this demo, Codex analyzes the data, explains what changed and why it matters, and packages the answer into a report your team can use.\n\nMore than 5 million people now use Codex every week, with data analysts, marketers, operators, designers, researchers, investors, and bankers among the fastest-growing users.\n\nLearn more: https://openai.com/index/"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=evPsMeSiP_4",
+    "video_id": "evPsMeSiP_4",
+    "title": "What Codex Unlocks for Nextdoor",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-09T20:39:20Z",
+    "description_preview": "\"Codex has fundamentally changed how we think about engineering to the point that we can't even imagine engineering without it,\" Cory Dolphin. \n\nEnter, Codex  👋  Engineers shipped Opportunity Alerts - a game changing feature that helps connects home service professionals with local customers.\n\nCodex is for every role, tool & workflow: https://lnkd.in/dnxrM282"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=gRSzTChV_bk",
+    "video_id": "gRSzTChV_bk",
+    "title": "Intelligence At Work - Enterprise Readiness",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-08T21:51:05Z",
+    "description_preview": "At our Intelligence at Work CEO event we shared updates to our product roadmap. Companies that are leading in this next chapter are really leaning in with AI and reimagining industry. \n\nFive Takeaways: \n\n1️⃣ ChatGPT + Codex: one unified experience.\n\n2️⃣ Agent Plugins: six role specific agents that do the work for you \n\n3️⃣ Annotations: collab with the model in the tools you use everyday \n\n4️⃣ Sites: go from idea to deployment in one shot\n\n5️⃣ Robin Vince, CEO of BNY dropped knowledge: \n\n“Are we "
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=KWAE5G7nF8Q",
+    "video_id": "KWAE5G7nF8Q",
+    "title": "Palo Alto Networks Moves Faster with GPT-5.5",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-08T18:06:21Z",
+    "description_preview": "With GPT-5.5 and Codex, there were two big unlocks for Gunjan Patel and the Palo Alto Networks team: \n\n💥 Cyber security vulnerability reporting workflows: first pass output is detailed and understandable.\n💥 Token Efficiency. GPT-5.5 uses tools in parallel, considers more angles, and does it very effectively. \n\nCodex is for every role, tool and workflow. Check it out ➡️ https://lnkd.in/dnxrM282"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=m1PV1a9BWao",
+    "video_id": "m1PV1a9BWao",
+    "title": "Codex Unlocks Next Level Intelligence for Balyasny Asset Management",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-08T14:38:03Z",
+    "description_preview": "\"Codex has been a game changer. GPT-5.5 in particular has really unlocked a new level of intelligence, but also a new level of work that the system is capable of doing,\" Charlie Flanagan. \n\nBalyasny Asset Management L.P. has 97% of the firm using their internal AI platform that accelerates everything from: \n\n☑️ Investment research\n☑️ Coding\n☑️ Automation of back office operations and processes \n\nThe investment firm operates at the frontier, embracing 2026 as the year their workflows are enabled "
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=1NtS2KdnDok",
+    "video_id": "1NtS2KdnDok",
+    "title": "OpenAI on OpenAI: Stacie Faggioli, Business Finance Officer Applications, OpenAI",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-08T08:30:39Z",
+    "description_preview": "Showcasing how OpenAI’s own finance organization is using AI tools like ChatGPT, ChatGPT for Excel, Codex, and custom agents to re-design finance operations."
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=fAxlEcXiSts",
+    "video_id": "fAxlEcXiSts",
+    "title": "Operationalizing AI in workflows: Lee Spacagna, Solutions Engineer, OpenAI",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-08T08:30:21Z",
+    "description_preview": "How OpenAI’s newest enterprise products, including Workspace Agents and Codex - can operationalize AI across financial services organizations."
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=Ou-0vjl6FZo",
+    "video_id": "Ou-0vjl6FZo",
+    "title": "MYTHOS MYTHOS MYTHOS",
+    "channel": "Matthew Berman",
+    "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+    "published_at": "2026-06-09T23:02:27Z",
+    "description_preview": "Tell your agents to use this: https://here.now/r/matthewberman\nFluid Sim: https://boreal-fresco-pzqa.here.now/\nRubiks Cube: https://quick-sycam-5veg.here.now/\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponso"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=dMrm2jAyrKM",
+    "video_id": "dMrm2jAyrKM",
+    "title": "Only the best are using them...",
+    "channel": "Matthew Berman",
+    "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+    "published_at": "2026-06-09T02:01:01Z",
+    "description_preview": "Tell your agents to use this: https://here.now/r/matthewberman\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://x.com/steipete/status/2063697162748260"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=YG4t7aMY81c",
+    "video_id": "YG4t7aMY81c",
+    "title": "I Ranked Cloudflare’s Software Factory and Wow… S TIER TOKENOMICS",
+    "channel": "Indy Dev Dan",
+    "channel_id": "UC_x36zCEGilGpB1m-V4gmjg",
+    "published_at": "2026-06-08T13:00:28Z",
+    "description_preview": "Cloudflare ran 130,000 AI code reviews across 5,000 codebases for ONE DOLLAR per review. If you still think agentic AI isn't increasing productivity, open your eyes. 🔥\n\nThis is our first ever agentic engineering tier list, and Cloudflare just earned S TIER TOKENOMICS. We rank every element of their software factory F through S (plus a legendary ZTE level) and break down exactly how they pulled off this insane token arbitrage.\n\n🎥 VIDEO REFERENCES\n• Cloudflare AI Code Review Blog: https://blog.clo"
+  }
+]

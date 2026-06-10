@@ -1,0 +1,145 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48463808,
+    "title": "Claude Fable 5",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "hn_url": "https://news.ycombinator.com/item?id=48463808",
+    "score": 2119,
+    "descendants": 1646,
+    "by": "Philpax",
+    "time": "2026-06-09T16:58:01Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48467896,
+    "title": "If Claude Fable stops helping you, you'll never know",
+    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+    "hn_url": "https://news.ycombinator.com/item?id=48467896",
+    "score": 751,
+    "descendants": 365,
+    "by": "mips_avatar",
+    "time": "2026-06-09T21:19:11Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48450142,
+    "title": "Apple reveals new AI architecture built around Google Gemini models",
+    "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "hn_url": "https://news.ycombinator.com/item?id=48450142",
+    "score": 718,
+    "descendants": 554,
+    "by": "unclefuzzy",
+    "time": "2026-06-08T19:14:47Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48469658,
+    "title": "macOS Container Machines",
+    "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+    "hn_url": "https://news.ycombinator.com/item?id=48469658",
+    "score": 622,
+    "descendants": 235,
+    "by": "timsneath",
+    "time": "2026-06-10T00:29:01Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48465269,
+    "title": "GPT-2: Too Dangerous To Release (2019)",
+    "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
+    "hn_url": "https://news.ycombinator.com/item?id=48465269",
+    "score": 268,
+    "descendants": 114,
+    "by": "AbuAssar",
+    "time": "2026-06-09T18:21:43Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48443258,
+    "title": "Replies to comments on my \"LLMs are eroding my career\" post",
+    "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
+    "hn_url": "https://news.ycombinator.com/item?id=48443258",
+    "score": 177,
+    "descendants": 224,
+    "by": "omblivion",
+    "time": "2026-06-08T09:52:03Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48460863,
+    "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+    "url": "https://arxiv.org/abs/2605.15184",
+    "hn_url": "https://news.ycombinator.com/item?id=48460863",
+    "score": 144,
+    "descendants": 59,
+    "by": "Anon84",
+    "time": "2026-06-09T13:27:03Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48466812,
+    "title": "Grit: Rewriting Git in Rust with agents",
+    "url": "https://blog.gitbutler.com/true-grit",
+    "hn_url": "https://news.ycombinator.com/item?id=48466812",
+    "score": 127,
+    "descendants": 168,
+    "by": "cbrewster",
+    "time": "2026-06-09T19:58:21Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48436672,
+    "title": "An introduction to functional analysis for science and engineering",
+    "url": "https://arxiv.org/abs/1904.02539",
+    "hn_url": "https://news.ycombinator.com/item?id=48436672",
+    "score": 118,
+    "descendants": 15,
+    "by": "Anon84",
+    "time": "2026-06-07T17:01:34Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48462062,
+    "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
+    "url": "https://arxiv.org/abs/2603.24647",
+    "hn_url": "https://news.ycombinator.com/item?id=48462062",
+    "score": 112,
+    "descendants": 15,
+    "by": "galsapir",
+    "time": "2026-06-09T15:01:15Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48435943,
+    "title": "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
+    "url": "https://github.com/luke8086/gentleos32",
+    "hn_url": "https://news.ycombinator.com/item?id=48435943",
+    "score": 108,
+    "descendants": 94,
+    "by": "luke8086",
+    "time": "2026-06-07T15:45:50Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48467759,
+    "title": "Exif Smuggling (2025)",
+    "url": "https://github.com/signalblur/exifsmugglingpoc",
+    "hn_url": "https://news.ycombinator.com/item?id=48467759",
+    "score": 80,
+    "descendants": 24,
+    "by": "rolph",
+    "time": "2026-06-09T21:06:00Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48461311,
+    "title": "Unified Controllable and Faithful Text-to-CAD Generation with LLMs",
+    "url": "https://arxiv.org/abs/2604.19773",
+    "hn_url": "https://news.ycombinator.com/item?id=48461311",
+    "score": 60,
+    "descendants": 20,
+    "by": "PaulHoule",
+    "time": "2026-06-09T14:04:54Z"
+  }
+]
