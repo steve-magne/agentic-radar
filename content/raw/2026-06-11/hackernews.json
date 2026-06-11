@@ -1,0 +1,200 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48463808,
+    "title": "Claude Fable 5",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "hn_url": "https://news.ycombinator.com/item?id=48463808",
+    "score": 2562,
+    "descendants": 2102,
+    "by": "Philpax",
+    "time": "2026-06-09T16:58:01Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48469658,
+    "title": "macOS Container Machines",
+    "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+    "hn_url": "https://news.ycombinator.com/item?id=48469658",
+    "score": 1212,
+    "descendants": 423,
+    "by": "timsneath",
+    "time": "2026-06-10T00:29:01Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48467896,
+    "title": "If Claude Fable stops helping you, you'll never know",
+    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+    "hn_url": "https://news.ycombinator.com/item?id=48467896",
+    "score": 1011,
+    "descendants": 495,
+    "by": "mips_avatar",
+    "time": "2026-06-09T21:19:11Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48480978,
+    "title": "πFS",
+    "url": "https://github.com/philipl/pifs",
+    "hn_url": "https://news.ycombinator.com/item?id=48480978",
+    "score": 706,
+    "descendants": 162,
+    "by": "helterskelter",
+    "time": "2026-06-10T18:54:54Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48473166,
+    "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+    "url": "https://news.ycombinator.com/item?id=48473166",
+    "hn_url": "https://news.ycombinator.com/item?id=48473166",
+    "score": 402,
+    "descendants": 242,
+    "by": "TomAnthony",
+    "time": "2026-06-10T08:21:38Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48479452,
+    "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+    "url": "https://github.com/anthropics/claude-code/issues/29045",
+    "hn_url": "https://news.ycombinator.com/item?id=48479452",
+    "score": 397,
+    "descendants": 281,
+    "by": "tonyrice",
+    "time": "2026-06-10T17:11:56Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48478969,
+    "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+    "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "hn_url": "https://news.ycombinator.com/item?id=48478969",
+    "score": 392,
+    "descendants": 352,
+    "by": "speckx",
+    "time": "2026-06-10T16:42:00Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48464258,
+    "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+    "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+    "hn_url": "https://news.ycombinator.com/item?id=48464258",
+    "score": 381,
+    "descendants": 178,
+    "by": "lebovic",
+    "time": "2026-06-09T17:23:40Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48484584,
+    "title": "AI agent runs amok in Fedora and elsewhere",
+    "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+    "hn_url": "https://news.ycombinator.com/item?id=48484584",
+    "score": 360,
+    "descendants": 122,
+    "by": "tanelpoder",
+    "time": "2026-06-11T00:10:08Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48480852,
+    "title": "Anthropic's model naming, extrapolated",
+    "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+    "hn_url": "https://news.ycombinator.com/item?id=48480852",
+    "score": 301,
+    "descendants": 90,
+    "by": "sammycdubs",
+    "time": "2026-06-10T18:45:20Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48477400,
+    "title": "Apache Burr: Build reliable AI agents and applications",
+    "url": "https://burr.apache.org/",
+    "hn_url": "https://news.ycombinator.com/item?id=48477400",
+    "score": 206,
+    "descendants": 99,
+    "by": "anhldbk",
+    "time": "2026-06-10T15:01:06Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48476136,
+    "title": "A €0.01 bank transfer could compromise a banking AI agent",
+    "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+    "hn_url": "https://news.ycombinator.com/item?id=48476136",
+    "score": 179,
+    "descendants": 169,
+    "by": "tvissers",
+    "time": "2026-06-10T13:39:11Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48466812,
+    "title": "Grit: Rewriting Git in Rust with agents",
+    "url": "https://blog.gitbutler.com/true-grit",
+    "hn_url": "https://news.ycombinator.com/item?id=48466812",
+    "score": 171,
+    "descendants": 289,
+    "by": "cbrewster",
+    "time": "2026-06-09T19:58:21Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48460863,
+    "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+    "url": "https://arxiv.org/abs/2605.15184",
+    "hn_url": "https://news.ycombinator.com/item?id=48460863",
+    "score": 160,
+    "descendants": 63,
+    "by": "Anon84",
+    "time": "2026-06-09T13:27:03Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48435943,
+    "title": "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
+    "url": "https://github.com/luke8086/gentleos32",
+    "hn_url": "https://news.ycombinator.com/item?id=48435943",
+    "score": 124,
+    "descendants": 104,
+    "by": "luke8086",
+    "time": "2026-06-07T15:45:50Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48478148,
+    "title": "Show HN: HelixDB – A graph database built on object storage",
+    "url": "https://github.com/HelixDB/helix-db/tree/main",
+    "hn_url": "https://news.ycombinator.com/item?id=48478148",
+    "score": 119,
+    "descendants": 34,
+    "by": "GeorgeCurtis",
+    "time": "2026-06-10T15:47:31Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48486486,
+    "title": "OpenAI mulls slashing prices as it competes with Anthropic for users",
+    "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
+    "hn_url": "https://news.ycombinator.com/item?id=48486486",
+    "score": 61,
+    "descendants": 71,
+    "by": "agentifysh",
+    "time": "2026-06-11T05:16:42Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48473845,
+    "title": "Show HN: macOS menu bar gauges for your Claude Code quota",
+    "url": "https://github.com/grzegorz-raczek-unit8/claude-quota",
+    "hn_url": "https://news.ycombinator.com/item?id=48473845",
+    "score": 61,
+    "descendants": 39,
+    "by": "grzracz",
+    "time": "2026-06-10T09:43:16Z"
+  }
+]

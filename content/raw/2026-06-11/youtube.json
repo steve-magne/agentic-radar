@@ -1,0 +1,72 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=AqU_WyOdEyo",
+    "video_id": "AqU_WyOdEyo",
+    "title": "Observing And Testing CX Agents | Interrupt 26",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-10T12:59:00Z",
+    "description_preview": "At Interrupt, the agent conference by LangChain, Carlos Pereira from Cisco's Customer Experience team showed how you close the loop between production feedback and code at 16 million customer interactions per year.\n\nThe core problem with scaling agents: once adoption climbs, feedback volume outpaces your team. Every thumbs down, every confused user, every low-confidence routing decision is a signal. If you treat it as noise, or if your team becomes the bottleneck processing it, adoption drops. T"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=o6b3F0KhASE",
+    "video_id": "o6b3F0KhASE",
+    "title": "Quickstart: LangSmith Fleet | LangChain Academy",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-09T16:30:35Z",
+    "description_preview": "LangSmith Fleet is the easiest way to build, deploy, and manage AI agents without writing a single line of code. Just chat.\n\nMost teams struggle to adopt AI at scale: prompts are hard to write, automation tools have steep learning curves, and it's rarely clear which tasks can be reliably automated. Fleet solves all of this by creating true agents — not rigid workflows — that reason, adapt, delegate to sub-agents, and improve with feedback over time.\n\nWe created a free LangChain Academy course th"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=2ey7znf8SI0",
+    "video_id": "2ey7znf8SI0",
+    "title": "Create campaign concepts and assets with Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-10T17:15:03Z",
+    "description_preview": "See how the creative production plugin for Codex helps marketing teams move from product and campaign context to visual concepts, asset variations, and editable creative.\n\nIn this demo, Codex creates a campaign mood board, refines visual directions, generates a launch asset, and hands it off for final edits.\n\nMore than 5 million people now use Codex every week, with marketers, creators, operators, designers, researchers, investors, and bankers among the fastest-growing users.\n\nLearn more: https:"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=IEYU-CgLo3E",
+    "video_id": "IEYU-CgLo3E",
+    "title": "Codex for Finance: Faster Reports, Dashboards, and Decisions",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-09T21:42:40Z",
+    "description_preview": "“Codex is essential in our finance workflows today. It's not just a niche tool for coding,” Wei Loke, Enterprise Platforms and Technology. \n\nWei leads AI initiatives across the finance org and sees our OpenAI teams leveraging Codex to build:\n\n✅ Internal apps across procurement and accounting\n✅ Slides and memos\n✅ Month-end executive reports\n✅ Custom dashboards for vendor-rich reviews\n✅ Journal entry preparation support\n\nWhat will you build? \n\nCodex is for every role, tool and workflow: https://ln"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=Lvk_VZOppIY",
+    "video_id": "Lvk_VZOppIY",
+    "title": "Codex for data science",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-09T21:30:13Z",
+    "description_preview": "See how the data analytics plugin for Codex helps teams go from a business question to a decision-ready insight report using data from Databricks.\n\nIn this demo, Codex analyzes the data, explains what changed and why it matters, and packages the answer into a report your team can use.\n\nMore than 5 million people now use Codex every week, with data analysts, marketers, operators, designers, researchers, investors, and bankers among the fastest-growing users.\n\nLearn more: https://openai.com/index/"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=evPsMeSiP_4",
+    "video_id": "evPsMeSiP_4",
+    "title": "What Codex Unlocks for Nextdoor",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-09T20:39:20Z",
+    "description_preview": "\"Codex has fundamentally changed how we think about engineering to the point that we can't even imagine engineering without it,\" Cory Dolphin. \n\nEnter, Codex  👋  Engineers shipped Opportunity Alerts - a game changing feature that helps connects home service professionals with local customers.\n\nCodex is for every role, tool & workflow: https://lnkd.in/dnxrM282"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=Ou-0vjl6FZo",
+    "video_id": "Ou-0vjl6FZo",
+    "title": "MYTHOS MYTHOS MYTHOS",
+    "channel": "Matthew Berman",
+    "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+    "published_at": "2026-06-09T23:02:27Z",
+    "description_preview": "Tell your agents to use this: https://here.now/r/matthewberman\nFluid Sim: https://boreal-fresco-pzqa.here.now/\nRubiks Cube: https://quick-sycam-5veg.here.now/\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponso"
+  }
+]
