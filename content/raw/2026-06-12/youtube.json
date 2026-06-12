@@ -1,0 +1,82 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=1JtYe-_0Teo",
+    "video_id": "1JtYe-_0Teo",
+    "title": "What LLMs and Biology Have in Common | Max Agency",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-11T11:00:32Z",
+    "description_preview": "Software engineers are trained to think deterministically — write code, predict the output, debug the gap. But that mindset breaks down with LLMs. And according to Nicholas Larus-Stone, the people who are best at working with them are starting to look a lot more like biologists than engineers.\n\nThe analogy he draws is sharp: biologists have spent over a century probing systems they don't fully understand, running experiments, watching how things respond, and building knowledge iteratively. Inter"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=AqU_WyOdEyo",
+    "video_id": "AqU_WyOdEyo",
+    "title": "Observing And Testing CX Agents | Interrupt 26",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-10T12:59:00Z",
+    "description_preview": "At Interrupt, the agent conference by LangChain, Carlos Pereira from Cisco's Customer Experience team showed how you close the loop between production feedback and code at 16 million customer interactions per year.\n\nThe core problem with scaling agents: once adoption climbs, feedback volume outpaces your team. Every thumbs down, every confused user, every low-confidence routing decision is a signal. If you treat it as noise, or if your team becomes the bottleneck processing it, adoption drops. T"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=1PBRhm5ZnjU",
+    "video_id": "1PBRhm5ZnjU",
+    "title": "Anthropic begged the world to stop AI… then shipped this",
+    "channel": "Fireship",
+    "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+    "published_at": "2026-06-11T17:17:48Z",
+    "description_preview": "Render is the easiest place to ship full-stack apps and agents. The first 2,000 people to use the code RENDER-FIRESHIP will get $50 in credits: https://dashboard.render.com/register?utm_source=youtube&amp;utm_medium=organic_video&amp;utm_campaign=2026_partnership_fireship\n\nThis week, Anthropic released Claude Fable, a Mythos class model that's been carefully lobotomized for public consumption. But is it legit? Let's run it...\n\n#coding #programming #ai\n\n🔖 Topics Covered\n- Claude Fable release\n- F"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=bhgYFRZLyKI",
+    "video_id": "bhgYFRZLyKI",
+    "title": "Debug web apps with browser use in Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-12T00:15:38Z",
+    "description_preview": "Codex can now use the Chrome DevTools Protocol (CDP) in Browser Use to inspect console logs, runtime errors, local storage, applied styling, network traffic, and performance profiles while working on web applications.\n\nIn this demo, Codex investigates a slow chat app by profiling interactions and inspecting network requests, then fixes the issues and supports the changes with clear measurements.\n\nTo use this functionality, enable Developer mode in the Browser settings of your Codex app and appro"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=K6wxZOqD-HY",
+    "video_id": "K6wxZOqD-HY",
+    "title": "Codex for Creatives: Riff, Design, Ship",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-11T21:28:51Z",
+    "description_preview": "“Codex is an art director or a creative director for me, helping me riff on ideas,” - Chad Nelson, creative specialist at OpenAI.  \n\nDon’t sleep on Codex for creatives. It understands brand books, style guides, fonts, composition and can create ship-worthy full funnel campaign visuals in a few hours. \n\nPut Codex to work. Tell us what you create. \n\nhttps://lnkd.in/dnxrM282"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=4YkOAYNZVOQ",
+    "video_id": "4YkOAYNZVOQ",
+    "title": "Build sales account strategies and outreach with Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-11T19:24:28Z",
+    "description_preview": "See how the sales plugin for Codex helps sales teams move from account context to seller-ready work.\n\nIn this demo, Codex prioritizes prospect accounts from Salesforce, creates a prospecting plan, drafts account-specific outreach, and sets up a morning cadence to keep the plan updated when account status changes.\n\nMore than 5 million people now use Codex every week, with sellers, marketers, operators, designers, researchers, investors, and bankers among the fastest-growing users.\n\nLearn more: ht"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=4XSI4SClBMA",
+    "video_id": "4XSI4SClBMA",
+    "title": "Creating black hole simulations with Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-11T16:14:47Z",
+    "description_preview": "To learn more about black holes, computational astrophysicist Chi-kwan “CK” Chan is working to create the first moving image of one. CK creates simulations and compares them to observational data gathered at telescopes – but these don’t always match up. \n\nCK creates simulations and compares them to observational data gathered at telescopes – but these don’t always match up. So he uses Codex to generate new algorithms to test. It would normally take him ten days to create ten new algorithms. With"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=2ey7znf8SI0",
+    "video_id": "2ey7znf8SI0",
+    "title": "Create campaign concepts and assets with Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-10T17:15:03Z",
+    "description_preview": "See how the creative production plugin for Codex helps marketing teams move from product and campaign context to visual concepts, asset variations, and editable creative.\n\nIn this demo, Codex creates a campaign mood board, refines visual directions, generates a launch asset, and hands it off for final edits.\n\nMore than 5 million people now use Codex every week, with marketers, creators, operators, designers, researchers, investors, and bankers among the fastest-growing users.\n\nLearn more: https:"
+  }
+]

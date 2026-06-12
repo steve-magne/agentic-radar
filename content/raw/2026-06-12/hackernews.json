@@ -1,0 +1,211 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48463808,
+    "title": "Claude Fable 5",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "hn_url": "https://news.ycombinator.com/item?id=48463808",
+    "score": 2603,
+    "descendants": 2142,
+    "by": "Philpax",
+    "time": "2026-06-09T16:58:01Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48469658,
+    "title": "macOS Container Machines",
+    "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+    "hn_url": "https://news.ycombinator.com/item?id=48469658",
+    "score": 1248,
+    "descendants": 428,
+    "by": "timsneath",
+    "time": "2026-06-10T00:29:01Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48480978,
+    "title": "πFS",
+    "url": "https://github.com/philipl/pifs",
+    "hn_url": "https://news.ycombinator.com/item?id=48480978",
+    "score": 938,
+    "descendants": 202,
+    "by": "helterskelter",
+    "time": "2026-06-10T18:54:54Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48464258,
+    "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+    "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+    "hn_url": "https://news.ycombinator.com/item?id=48464258",
+    "score": 590,
+    "descendants": 298,
+    "by": "lebovic",
+    "time": "2026-06-09T17:23:40Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48478969,
+    "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+    "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "hn_url": "https://news.ycombinator.com/item?id=48478969",
+    "score": 582,
+    "descendants": 515,
+    "by": "speckx",
+    "time": "2026-06-10T16:42:00Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48484584,
+    "title": "AI agent runs amok in Fedora and elsewhere",
+    "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+    "hn_url": "https://news.ycombinator.com/item?id=48484584",
+    "score": 543,
+    "descendants": 240,
+    "by": "tanelpoder",
+    "time": "2026-06-11T00:10:08Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48489229,
+    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "hn_url": "https://news.ycombinator.com/item?id=48489229",
+    "score": 401,
+    "descendants": 369,
+    "by": "rarisma",
+    "time": "2026-06-11T12:05:02Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48498573,
+    "title": "Claude Fable is relentlessly proactive",
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "hn_url": "https://news.ycombinator.com/item?id=48498573",
+    "score": 373,
+    "descendants": 302,
+    "by": "lumpa",
+    "time": "2026-06-12T01:06:51Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48500012,
+    "title": "AI agent bankrupted their operator while trying to scan DN42",
+    "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+    "hn_url": "https://news.ycombinator.com/item?id=48500012",
+    "score": 325,
+    "descendants": 88,
+    "by": "xiaoyu2006",
+    "time": "2026-06-12T04:42:53Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48492210,
+    "title": "Claude Fable 5: mid-tier results on coding tasks",
+    "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+    "hn_url": "https://news.ycombinator.com/item?id=48492210",
+    "score": 300,
+    "descendants": 141,
+    "by": "bugvader",
+    "time": "2026-06-11T16:03:21Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48477400,
+    "title": "Apache Burr: Build reliable AI agents and applications",
+    "url": "https://burr.apache.org/",
+    "hn_url": "https://news.ycombinator.com/item?id=48477400",
+    "score": 243,
+    "descendants": 113,
+    "by": "anhldbk",
+    "time": "2026-06-10T15:01:06Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48489917,
+    "title": "Open Reproduction of DeepSeek-R1",
+    "url": "https://github.com/huggingface/open-r1",
+    "hn_url": "https://news.ycombinator.com/item?id=48489917",
+    "score": 226,
+    "descendants": 18,
+    "by": "yogthos",
+    "time": "2026-06-11T13:14:31Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48476214,
+    "title": "Fully autonomous drones have killed human soldiers for the first time",
+    "url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time/",
+    "hn_url": "https://news.ycombinator.com/item?id=48476214",
+    "score": 196,
+    "descendants": 180,
+    "by": "deadgopher",
+    "time": "2026-06-10T13:46:14Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48461635,
+    "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
+    "url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
+    "hn_url": "https://news.ycombinator.com/item?id=48461635",
+    "score": 132,
+    "descendants": 53,
+    "by": "ruxudev",
+    "time": "2026-06-09T14:29:34Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48491486,
+    "title": "FPS.cob: A first person shooter in COBOL",
+    "url": "https://github.com/icitry/FPS.cob",
+    "hn_url": "https://news.ycombinator.com/item?id=48491486",
+    "score": 120,
+    "descendants": 65,
+    "by": "MBCook",
+    "time": "2026-06-11T15:13:57Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48486486,
+    "title": "OpenAI mulls slashing prices as it competes with Anthropic for users",
+    "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
+    "hn_url": "https://news.ycombinator.com/item?id=48486486",
+    "score": 120,
+    "descendants": 130,
+    "by": "agentifysh",
+    "time": "2026-06-11T05:16:42Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48462928,
+    "title": "Show HN: Claw Patrol, a security firewall for agents",
+    "url": "https://github.com/denoland/clawpatrol",
+    "hn_url": "https://news.ycombinator.com/item?id=48462928",
+    "score": 93,
+    "descendants": 26,
+    "by": "rough-sea",
+    "time": "2026-06-09T16:06:50Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48496250,
+    "title": "Show HN: Boo – Screen-style terminal multiplexer built on libghostty",
+    "url": "https://github.com/coder/boo",
+    "hn_url": "https://news.ycombinator.com/item?id=48496250",
+    "score": 70,
+    "descendants": 23,
+    "by": "kylecarbs",
+    "time": "2026-06-11T20:52:26Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48492177,
+    "title": "MTG Bench: Testing how well LLMs can play Magic",
+    "url": "https://mtgautodeck.com/articles/mtg-bench/",
+    "hn_url": "https://news.ycombinator.com/item?id=48492177",
+    "score": 54,
+    "descendants": 28,
+    "by": "CallumFerg",
+    "time": "2026-06-11T16:01:01Z"
+  }
+]
