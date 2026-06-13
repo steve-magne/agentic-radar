@@ -1,0 +1,218 @@
+[
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "New OpenAI Academy courses for the next era of work",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "published_at": "2026-06-12T10:00:00Z",
+    "summary_preview": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "url": "https://openai.com/index/preply",
+    "published_at": "2026-06-12T00:00:00Z",
+    "summary_preview": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "published_at": "2026-06-11T00:00:00Z",
+    "summary_preview": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
+    "published_at": "2026-06-11T00:00:00Z",
+    "summary_preview": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "OpenAI to acquire Ona",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "published_at": "2026-06-11T00:00:00Z",
+    "summary_preview": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "published_at": "2026-06-11T00:00:00Z",
+    "summary_preview": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "url": "https://openai.com/index/openai-on-oracle-cloud",
+    "published_at": "2026-06-10T20:00:00Z",
+    "summary_preview": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "PRC-linked influence operations are targeting AI debates in the US",
+    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "published_at": "2026-06-10T12:00:00Z",
+    "summary_preview": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Google AI Blog",
+    "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+    "published_at": "2026-06-11T20:00:00Z",
+    "summary_preview": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp\" />We’re helping build the state’s next-generation workforce and investing in energy programs.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+    "url": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
+    "published_at": "2026-06-13T01:01:50Z",
+    "summary_preview": "<p><strong><a href=\"https://www.anthropic.com/news/fable-mythos-access\">Statement on the US government directive to suspend access to Fable 5 and Mythos 5</a></strong></p>\nWell this is <em>nuts</em>:</p>\n<blockquote>\n<p>The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for <strong>all</strong> our customers to ensure compliance. <strong>Access to all other Anthropic models</strong> <strong>will not be affected.</strong></p>\n<p>We received the directive from the government today at 5:21pm (ET). The letter did not provide specific details of its national security concern. Our understanding is that the government believes it has become aware of a method of bypassing, or \"jailbreaking\" Fable 5. We revi",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "OpenAI WebRTC Audio Session, now with document context",
+    "url": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
+    "published_at": "2026-06-12T23:53:04Z",
+    "summary_preview": "<p><strong><a href=\"https://tools.simonwillison.net/openai-webrtc\">OpenAI WebRTC Audio Session, now with document context</a></strong></p>\nI built the first version of this tool <a href=\"https://simonwillison.net/2024/Dec/17/openai-webrtc/\">in December 2024</a> to try out the then-new OpenAI WebRTC API for interacting with their realtime audio models.</p>\n<p>Last month OpenAI <a href=\"https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/\">introduced a brand new model</a> to that API called <a href=\"https://developers.openai.com/api/docs/models/gpt-realtime-2\">GPT‑Realtime‑2</a>, which they promoted as \"our first voice model with GPT‑5‑class reasoning\" - with a Sep 30, 2024 knowledge cut-off.</p>\n<p>I've been waiting for that model to show up in the ChatGPT iPhone app but it still hasn't, so I revisited my old playground.</p>\n<p>You can now pick the better model, and you can also paste in a big chunk of document context so you can have as audio conversation i",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Andrew Singleton",
+    "url": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything",
+    "published_at": "2026-06-12T18:09:21Z",
+    "summary_preview": "<blockquote cite=\"https://www.mcsweeneys.net/articles/ai-economics-for-dummies\"><p>Jenny owns a crematorium. John’s propane company gives her a $20 billion investment in return for 5 percent of her operation. Jenny throws $10 billion into the incinerator, then pays John $10 billion to buy propane to burn that money to ashes. John reports that his AI investments have generated $10 billion in revenue this quarter and that he owns 5 percent of a $100 billion business. A reporter from <em>Forbes</em> is assigned to profile John and Jenny, and over the course of his research, he becomes embroiled in a passionate but confusing three-way love affair with them, which eventually turns into a polyamorous common-law marriage. His profile is glowing, but light on financial details.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://www.mcsweeneys.net/articles/ai-economics-for-dummies\">Andrew Singleton</a>, AI Economics for Dummies</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/ai",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Claude Fable is relentlessly proactive",
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+    "published_at": "2026-06-11T23:35:17Z",
+    "summary_preview": "<p>After two days of experience with <a href=\"https://simonwillison.net/2026/Jun/9/claude-fable-5/\">Claude Fable 5</a> I think the best way to describe it is <strong>relentlessly proactive</strong>. It knows a whole lot of tricks and it will deploy pretty much any of them to get to its goal.</p>\n<p>I'll illustrate this with an example. I was hacking on <a href=\"https://agent.datasette.io/\">Datasette Agent</a> today when I noticed a glitch: a horizontal scrollbar that shouldn't be there in the jump menu chat prompt. I snapped this screenshot:</p>\n<p><img alt=\"Screenshot of a modal dialog demonstrating a scrollbar bug. At the top is a focused search input with blue outline and placeholder &quot;Jump to...&quot;, with an X close button to its right. Below, a heading reads &quot;Start a new agent chat&quot; above a textarea with the placeholder &quot;Ask a question about your data...&quot; — the bug: a thick gray horizontal scrollbar is incorrectly displayed along the bottom edge of the em",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "datasette 1.0a33",
+    "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
+    "published_at": "2026-06-11T15:26:49Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a33\">datasette 1.0a33</a></p>\n        <p>This alpha is a significant step on the road to a stable 1.0, finally extending the <code>?_extra=</code> pattern I introduced <a href=\"https://docs.datasette.io/en/1.0a3/changelog.html#a3-2023-08-09\">in Datasette 1.0a3</a> to cover queries and rows in addition to tables. That pattern is also <a href=\"https://docs.datasette.io/en/latest/json_api.html#expanding-json-responses\">now documented</a>!</p>\n<p>I wrote a whole lot more about the new release on the Datasette project blog: <strong><a href=\"http://datasette.io/blog/2026/api-extras/\">Datasette 1.0a33 with JSON extras in the API</a></strong>.</p>\n<p>Because API explorer tools are almost free to build now I had Claude Fable 5 in Claude Code (for <a href=\"https://gist.github.com/simonw/d8bf1a8f36e28fbd595cede946e0ab6d\">the plan</a>) and GPT-5.5 xhigh in Codex Desktop (for <a href=\"https://gist.github.com/s",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "asyncinject 0.7",
+    "url": "https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything",
+    "published_at": "2026-06-11T06:28:09Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/asyncinject/releases/tag/0.7\">asyncinject 0.7</a></p>\n        <p>I built this utility library to support an <code>asyncio</code> dependency injection pattern a few years ago. I was using it with Datasette and Claude Fable 5 spotted some bugs in the dependency which it then fixed for me. It's a very proactive model!</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/async\">async</a>, <a href=\"https://simonwillison.net/tags/projects\">projects</a>, <a href=\"https://simonwillison.net/tags/python\">python</a>, <a href=\"https://simonwillison.net/tags/claude-mythos\">claude-mythos</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+    "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
+    "published_at": "2026-06-11T03:45:49Z",
+    "summary_preview": "<p><strong><a href=\"https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/\">Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude</a></strong></p>\nBig scoop for Maxwell Zeff at Wired:</p>\n<blockquote>\n<p>“We’re changing Fable 5’s safeguards for frontier LLM development to make them visible.” Anthropic said in a statement to WIRED. “We made the wrong tradeoff and we apologize for not getting the balance right.”</p>\n</blockquote>\n<p>There's been a <em>huge</em> outcry about Anthropic's policy, <a href=\"https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/\">tucked away in their system card</a>, that Claude Fable/Mythos would identify \"requests targeting frontier LLM development\" and \"limit effectiveness\" without notifying the user.</p>\n<p>It's good news that they're dropping the invisible aspect of this. It would be a whole lot better of they dropped this category of refusals entirely.</p>\n<p><",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "datasette-agent 0.2a0",
+    "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
+    "published_at": "2026-06-10T23:57:27Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.2a0\">datasette-agent 0.2a0</a></p>\n        <p>Highlights from the release notes:</p>\n<blockquote>\n<ul>\n<li>Tools can now ask the user questions mid-execution. Tools that declare a <code>context</code> parameter receive a <code>ToolContext</code> object, and <code>await context.ask_user(...)</code> can ask a yes/no, multiple-choice (<code>options=[...]</code>) or free-text (<code>free_text=True</code>) question. While a question is unanswered the agent turn suspends: the question renders as a form in the chat UI and persists to the internal database, so suspended conversations survive a server restart. Once answered, the tool re-executes from the top with stored answers replayed, so call <code>ask_user()</code> before performing side effects. <a href=\"https://github.com/datasette/datasette-agent/pull/20\">#20</a></li>\n<li>New built-in <code>save_query</code> tool: the agent can save SQL it h",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "DiffusionGemma",
+    "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
+    "published_at": "2026-06-10T20:00:54Z",
+    "summary_preview": "<p><strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/\">DiffusionGemma</a></strong></p>\nLast May Google briefly released an experimental Gemini Diffusion model. I <a href=\"https://simonwillison.net/2025/May/21/gemini-diffusion/\">tried the preview at the time</a> and recorded it running at 857 tokens/second. It was an exciting model, but Google made no further announcements about it.</p>\n<p>That research has returned in the best possible way: as a new open weight (Apache 2 licensed) Gemma model, <a href=\"https://huggingface.co/google/diffusiongemma-26B-A4B-it\">google/diffusiongemma-26B-A4B-it</a>.</p>\n<p>NVIDIA are currently <a href=\"https://build.nvidia.com/google/diffusiongemma-26b-a4b-it\">hosting the model for free</a> on their NIM cloud API. I used that API to <a href=\"https://tools.simonwillison.net/markdown-svg-renderer#url=https%3A%2F%2Fgist.github.com%2Fsimonw%2Fe5e234a6dc6eef61e209ce1629620042\">generate this",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Jeremy Howard",
+    "url": "https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything",
+    "published_at": "2026-06-10T15:23:34Z",
+    "summary_preview": "<blockquote cite=\"https://twitter.com/jeremyphoward/status/2064595816875217362\"><p>Easy solution to slow down recursive AI self improvement:</p>\n<ul>\n<li>The lab with the top-ranked model must agree THEY must not use it for working on frontier AI</li>\n<li>But everyone else should have access to it.</li>\n</ul>\n<p>By definition, this means the frontier doesn't advance.</p>\n<p>It also has the critical benefit of avoiding a dangerous power imbalance.</p>\n<p>Anthropic has chosen the <em>opposite</em> of the safe path: they are allowing themselves, the current top lab, to use their top model for frontier AI research. They've said they'll sabotage others who try.</p>\n<p>This means the AI frontier advances, &amp; power imbalance increases.</p>\n<p>(To be clear, <em>I</em> don't think we should try to slow down recursive AI self improvement - I think we should open it up and democratize it as much as possible. My point is: if <em>you</em> claim we should slow down, and you have the best model, y",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] Fable and Mythos officially too dangerous to release",
+    "url": "https://www.latent.space/p/ainews-fable-and-mythos-officially",
+    "published_at": "2026-06-13T04:30:52Z",
+    "summary_preview": "We are in the strangest timeline.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] Loopcraft: The Art of Stacking Loops",
+    "url": "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
+    "published_at": "2026-06-12T05:34:09Z",
+    "summary_preview": "a quiet day lets us highlight a great concept from Peter Steinberger, Boris Cherny, and Andrej Karpathy",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
+    "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
+    "published_at": "2026-06-11T03:14:26Z",
+    "summary_preview": "a quiet day lets us reflect on a great essay",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "url": "https://huggingface.co/blog/allenai/olmo-eval",
+    "published_at": "2026-06-12T15:56:10Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "url": "https://huggingface.co/blog/torch-mlp-fusion",
+    "published_at": "2026-06-11T00:00:00Z",
+    "summary_preview": "",
+    "author": ""
+  }
+]

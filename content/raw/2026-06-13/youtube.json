@@ -1,0 +1,92 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=QDQT99csHJQ",
+    "video_id": "QDQT99csHJQ",
+    "title": "The Return of the Data Scientist | Interrupt 26",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-12T12:47:16Z",
+    "description_preview": "Shreya Shankar and Hamel Husain have taught evals to over 4,500 people across dozens of companies, and they keep seeing the same mistakes. This talk walks through five of the most common pitfalls and how thinking like a data scientist fixes them.\n\nAt Interrupt, the agent conference by LangChain, they covered:\n• Why generic metrics like \"helpfulness\" and \"hallucination\" are too ambiguous to use off the shelf\n• How to treat LLM judges as imperfect classifiers with train/dev/test splits\n• Why synth"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=1JtYe-_0Teo",
+    "video_id": "1JtYe-_0Teo",
+    "title": "What LLMs and Biology Have in Common | Max Agency",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-11T11:00:32Z",
+    "description_preview": "Software engineers are trained to think deterministically — write code, predict the output, debug the gap. But that mindset breaks down with LLMs. And according to Nicholas Larus-Stone, the people who are best at working with them are starting to look a lot more like biologists than engineers.\n\nThe analogy he draws is sharp: biologists have spent over a century probing systems they don't fully understand, running experiments, watching how things respond, and building knowledge iteratively. Inter"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=1PBRhm5ZnjU",
+    "video_id": "1PBRhm5ZnjU",
+    "title": "Anthropic begged the world to stop AI… then shipped this",
+    "channel": "Fireship",
+    "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+    "published_at": "2026-06-11T17:17:48Z",
+    "description_preview": "Render is the easiest place to ship full-stack apps and agents. The first 2,000 people to use the code RENDER-FIRESHIP will get $50 in credits: https://dashboard.render.com/register?utm_source=youtube&amp;utm_medium=organic_video&amp;utm_campaign=2026_partnership_fireship\n\nThis week, Anthropic released Claude Fable, a Mythos class model that's been carefully lobotomized for public consumption. But is it legit? Let's run it...\n\n#coding #programming #ai\n\n🔖 Topics Covered\n- Claude Fable release\n- F"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=Rlju1Z9e110",
+    "video_id": "Rlju1Z9e110",
+    "title": "Analyze earnings and update your investment thesis with Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-12T20:36:47Z",
+    "description_preview": "See how the public equity investing plugin for Codex turns a company’s latest quarter into a post-earnings analysis. \n\nUsing connected data from sources like Quartr, Daloopa, and S&amp;P Global, Codex evaluates a company’s growth drivers, guidance, margin trends, and quality of print. It then packages the analysis into bull, base, and bear cases, a monitoring checklist, and can create detailed Excel workbooks or presentation-ready PowerPoint decks.\n\nMore than 5 million people now use Codex every"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=bhgYFRZLyKI",
+    "video_id": "bhgYFRZLyKI",
+    "title": "Debug web apps with browser use in Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-12T00:15:38Z",
+    "description_preview": "Codex can now use the Chrome DevTools Protocol (CDP) in Browser Use to inspect console logs, runtime errors, local storage, applied styling, network traffic, and performance profiles while working on web applications.\n\nIn this demo, Codex investigates a slow chat app by profiling interactions and inspecting network requests, then fixes the issues and supports the changes with clear measurements.\n\nTo use this functionality, enable Developer mode in the Browser settings of your Codex app and appro"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=K6wxZOqD-HY",
+    "video_id": "K6wxZOqD-HY",
+    "title": "Codex for Creatives: Riff, Design, Ship",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-11T21:28:51Z",
+    "description_preview": "“Codex is an art director or a creative director for me, helping me riff on ideas,” - Chad Nelson, creative specialist at OpenAI.  \n\nDon’t sleep on Codex for creatives. It understands brand books, style guides, fonts, composition and can create ship-worthy full funnel campaign visuals in a few hours. \n\nPut Codex to work. Tell us what you create. \n\nhttps://lnkd.in/dnxrM282"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=4YkOAYNZVOQ",
+    "video_id": "4YkOAYNZVOQ",
+    "title": "Build sales account strategies and outreach with Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-11T19:24:28Z",
+    "description_preview": "See how the sales plugin for Codex helps sales teams move from account context to seller-ready work.\n\nIn this demo, Codex prioritizes prospect accounts from Salesforce, creates a prospecting plan, drafts account-specific outreach, and sets up a morning cadence to keep the plan updated when account status changes.\n\nMore than 5 million people now use Codex every week, with sellers, marketers, operators, designers, researchers, investors, and bankers among the fastest-growing users.\n\nLearn more: ht"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=4XSI4SClBMA",
+    "video_id": "4XSI4SClBMA",
+    "title": "Creating black hole simulations with Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-11T16:14:47Z",
+    "description_preview": "To learn more about black holes, computational astrophysicist Chi-kwan “CK” Chan is working to create the first moving image of one. CK creates simulations and compares them to observational data gathered at telescopes – but these don’t always match up. \n\nCK creates simulations and compares them to observational data gathered at telescopes – but these don’t always match up. So he uses Codex to generate new algorithms to test. It would normally take him ten days to create ten new algorithms. With"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=zjFE-dBzP_E",
+    "video_id": "zjFE-dBzP_E",
+    "title": "You NEED to try these open-source AI projects RIGHT NOW",
+    "channel": "Matthew Berman",
+    "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+    "published_at": "2026-06-12T23:47:25Z",
+    "description_preview": "Try ElevenAgents by ElevenLabs today https://bit.ly/43LT9jZ\nCode FORWARDFUTUREAI for 33% off!\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/evGThyRv\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n0:00 Intro\n0"
+  }
+]
