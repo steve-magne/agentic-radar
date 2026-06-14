@@ -1,0 +1,128 @@
+[
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "New OpenAI Academy courses for the next era of work",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "published_at": "2026-06-12T10:00:00Z",
+    "summary_preview": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "url": "https://openai.com/index/preply",
+    "published_at": "2026-06-12T00:00:00Z",
+    "summary_preview": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Google AI Blog",
+    "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+    "published_at": "2026-06-11T20:00:00Z",
+    "summary_preview": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp\" />We’re helping build the state’s next-generation workforce and investing in energy programs.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Publishing WASM wheels to PyPI for use with Pyodide",
+    "url": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
+    "published_at": "2026-06-13T23:55:18Z",
+    "summary_preview": "<p>The <a href=\"https://blog.pyodide.org/posts/314-release/\">Pyodide 314.0 release announcement</a> (via <a href=\"https://news.ycombinator.com/item?id=48462759\">Hacker News</a>) includes news I've been looking forward to for a long time:</p>\n<blockquote>\n<p>You can now publish Python packages built for Pyodide (or any Python runtime compatible with <a href=\"https://pyodide.org/en/stable/development/abi.html\">the PyEmscripten platform defined in PEP 783</a>) directly to PyPI and install them at runtime.</p>\n<p>Previously, the Pyodide maintainers had to maintain, build, and host over 300 packages ourselves. This created a significant burden on our maintainers and became a major bottleneck for the community, as every new package required manual review.</p>\n<p>Moving forward, package maintainers can simply build and publish Pyodide wheels to PyPI, just as they do for native wheels on Linux, macOS, or Windows.</p>\n</blockquote>\n<p>Here's the <a href=\"https://github.com/pypi/warehouse/pull/1",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "luau-wasm 0.1a0",
+    "url": "https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything",
+    "published_at": "2026-06-13T23:14:30Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/luau-wasm/releases/tag/0.1a0\">luau-wasm 0.1a0</a></p>\n        <p>See <a href=\"https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/\">Publishing WASM wheels to PyPI for use with Pyodide</a> for details.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/lua\">lua</a>, <a href=\"https://simonwillison.net/tags/webassembly\">webassembly</a>, <a href=\"https://simonwillison.net/tags/pyodide\">pyodide</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Mapping SQLite result columns back to their source `table.column`",
+    "url": "https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything",
+    "published_at": "2026-06-13T23:05:00Z",
+    "summary_preview": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/sqlite-column-provenance#readme\">Mapping SQLite result columns back to their source `table.column`</a></p>\n        <p>It would be neat if arbitrary SQL queries in <a href=\"https://datasette.io/\">Datasette</a> could be rendered with additional information based on which columns from which tables were included in the results.</p>\n<p>To build that, we would need to be able to look at a SQL query like <code>select users.name, orders.total from users join orders on orders.user_id = users.id</code> and programmatically identify the <code>table.column</code> for each result - navigating not just joins but also more complex syntax like CTEs.</p>\n<p>I decided to set Claude Code (Opus 4.8, since Fable is currently <a href=\"https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/\">banned by the US government</a>) on the problem. It found several promising solutions - one using <a href=\"http",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+    "url": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
+    "published_at": "2026-06-13T01:01:50Z",
+    "summary_preview": "<p><strong><a href=\"https://www.anthropic.com/news/fable-mythos-access\">Statement on the US government directive to suspend access to Fable 5 and Mythos 5</a></strong></p>\nWell this is <em>nuts</em>:</p>\n<blockquote>\n<p>The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States, including foreign national Anthropic employees. The net effect of this order is that we must abruptly disable Fable 5 and Mythos 5 for <strong>all</strong> our customers to ensure compliance. <strong>Access to all other Anthropic models</strong> <strong>will not be affected.</strong></p>\n<p>We received the directive from the government today at 5:21pm (ET). The letter did not provide specific details of its national security concern. Our understanding is that the government believes it has become aware of a method of bypassing, or \"jailbreaking\" Fable 5. We revi",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "OpenAI WebRTC Audio Session, now with document context",
+    "url": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
+    "published_at": "2026-06-12T23:53:04Z",
+    "summary_preview": "<p><strong><a href=\"https://tools.simonwillison.net/openai-webrtc\">OpenAI WebRTC Audio Session, now with document context</a></strong></p>\nI built the first version of this tool <a href=\"https://simonwillison.net/2024/Dec/17/openai-webrtc/\">in December 2024</a> to try out the then-new OpenAI WebRTC API for interacting with their realtime audio models.</p>\n<p>Last month OpenAI <a href=\"https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/\">introduced a brand new model</a> to that API called <a href=\"https://developers.openai.com/api/docs/models/gpt-realtime-2\">GPT‑Realtime‑2</a>, which they promoted as \"our first voice model with GPT‑5‑class reasoning\" - with a Sep 30, 2024 knowledge cut-off.</p>\n<p>I've been waiting for that model to show up in the ChatGPT iPhone app but it still hasn't, so I revisited my old playground.</p>\n<p>You can now pick the better model, and you can also paste in a big chunk of document context so you can have as audio conversation i",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Andrew Singleton",
+    "url": "https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything",
+    "published_at": "2026-06-12T18:09:21Z",
+    "summary_preview": "<blockquote cite=\"https://www.mcsweeneys.net/articles/ai-economics-for-dummies\"><p>Jenny owns a crematorium. John’s propane company gives her a $20 billion investment in return for 5 percent of her operation. Jenny throws $10 billion into the incinerator, then pays John $10 billion to buy propane to burn that money to ashes. John reports that his AI investments have generated $10 billion in revenue this quarter and that he owns 5 percent of a $100 billion business. A reporter from <em>Forbes</em> is assigned to profile John and Jenny, and over the course of his research, he becomes embroiled in a passionate but confusing three-way love affair with them, which eventually turns into a polyamorous common-law marriage. His profile is glowing, but light on financial details.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://www.mcsweeneys.net/articles/ai-economics-for-dummies\">Andrew Singleton</a>, AI Economics for Dummies</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/ai",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Claude Fable is relentlessly proactive",
+    "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+    "published_at": "2026-06-11T23:35:17Z",
+    "summary_preview": "<p>After two days of experience with <a href=\"https://simonwillison.net/2026/Jun/9/claude-fable-5/\">Claude Fable 5</a> I think the best way to describe it is <strong>relentlessly proactive</strong>. It knows a whole lot of tricks and it will deploy pretty much any of them to get to its goal.</p>\n<p>I'll illustrate this with an example. I was hacking on <a href=\"https://agent.datasette.io/\">Datasette Agent</a> today when I noticed a glitch: a horizontal scrollbar that shouldn't be there in the jump menu chat prompt. I snapped this screenshot:</p>\n<p><img alt=\"Screenshot of a modal dialog demonstrating a scrollbar bug. At the top is a focused search input with blue outline and placeholder &quot;Jump to...&quot;, with an X close button to its right. Below, a heading reads &quot;Start a new agent chat&quot; above a textarea with the placeholder &quot;Ask a question about your data...&quot; — the bug: a thick gray horizontal scrollbar is incorrectly displayed along the bottom edge of the em",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "datasette 1.0a33",
+    "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
+    "published_at": "2026-06-11T15:26:49Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a33\">datasette 1.0a33</a></p>\n        <p>This alpha is a significant step on the road to a stable 1.0, finally extending the <code>?_extra=</code> pattern I introduced <a href=\"https://docs.datasette.io/en/1.0a3/changelog.html#a3-2023-08-09\">in Datasette 1.0a3</a> to cover queries and rows in addition to tables. That pattern is also <a href=\"https://docs.datasette.io/en/latest/json_api.html#expanding-json-responses\">now documented</a>!</p>\n<p>I wrote a whole lot more about the new release on the Datasette project blog: <strong><a href=\"http://datasette.io/blog/2026/api-extras/\">Datasette 1.0a33 with JSON extras in the API</a></strong>.</p>\n<p>Because API explorer tools are almost free to build now I had Claude Fable 5 in Claude Code (for <a href=\"https://gist.github.com/simonw/d8bf1a8f36e28fbd595cede946e0ab6d\">the plan</a>) and GPT-5.5 xhigh in Codex Desktop (for <a href=\"https://gist.github.com/s",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] Fable and Mythos officially too dangerous to release",
+    "url": "https://www.latent.space/p/ainews-fable-and-mythos-officially",
+    "published_at": "2026-06-13T04:30:52Z",
+    "summary_preview": "We are in the strangest timeline.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] Loopcraft: The Art of Stacking Loops",
+    "url": "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
+    "published_at": "2026-06-12T05:34:09Z",
+    "summary_preview": "a quiet day lets us highlight a great concept from Peter Steinberger, Boris Cherny, and Andrej Karpathy",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "url": "https://huggingface.co/blog/allenai/olmo-eval",
+    "published_at": "2026-06-12T15:56:10Z",
+    "summary_preview": "",
+    "author": ""
+  }
+]
