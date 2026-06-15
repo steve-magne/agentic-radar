@@ -1,0 +1,112 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48529990,
+    "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+    "url": "https://github.com/tamnd/kage",
+    "hn_url": "https://news.ycombinator.com/item?id=48529990",
+    "score": 544,
+    "descendants": 108,
+    "by": "tamnd",
+    "time": "2026-06-14T17:25:38Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48528371,
+    "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+    "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+    "hn_url": "https://news.ycombinator.com/item?id=48528371",
+    "score": 338,
+    "descendants": 182,
+    "by": "unrvl22",
+    "time": "2026-06-14T15:37:31Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48516504,
+    "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+    "url": "https://github.com/tensorzero/tensorzero",
+    "hn_url": "https://news.ycombinator.com/item?id=48516504",
+    "score": 277,
+    "descendants": 170,
+    "by": "hek2sch",
+    "time": "2026-06-13T12:10:47Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48497195,
+    "title": "Codex for open source",
+    "url": "https://openai.com/form/codex-for-oss/",
+    "hn_url": "https://news.ycombinator.com/item?id=48497195",
+    "score": 269,
+    "descendants": 116,
+    "by": "EvgeniyZh",
+    "time": "2026-06-11T22:20:03Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48533504,
+    "title": "Did Anthropic ask for this?",
+    "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+    "hn_url": "https://news.ycombinator.com/item?id=48533504",
+    "score": 181,
+    "descendants": 152,
+    "by": "ad8e",
+    "time": "2026-06-14T22:23:05Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48515385,
+    "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+    "url": "https://github.com/Paca-AI/paca",
+    "hn_url": "https://news.ycombinator.com/item?id=48515385",
+    "score": 165,
+    "descendants": 59,
+    "by": "pikann22",
+    "time": "2026-06-13T09:44:25Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48490927,
+    "title": "FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language",
+    "url": "https://github.com/kekcleader/FreeOberon",
+    "hn_url": "https://news.ycombinator.com/item?id=48490927",
+    "score": 155,
+    "descendants": 61,
+    "by": "peter_d_sherman",
+    "time": "2026-06-11T14:34:46Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48523752,
+    "title": "Making Claude a Chemist",
+    "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+    "hn_url": "https://news.ycombinator.com/item?id=48523752",
+    "score": 86,
+    "descendants": 85,
+    "by": "gmays",
+    "time": "2026-06-14T02:55:36Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48527946,
+    "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "hn_url": "https://news.ycombinator.com/item?id=48527946",
+    "score": 59,
+    "descendants": 6,
+    "by": "mellosouls",
+    "time": "2026-06-14T15:08:17Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48506545,
+    "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
+    "url": "https://bitboard.work/",
+    "hn_url": "https://news.ycombinator.com/item?id=48506545",
+    "score": 55,
+    "descendants": 24,
+    "by": "arcb",
+    "time": "2026-06-12T16:58:03Z"
+  }
+]
