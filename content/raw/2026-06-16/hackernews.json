@@ -1,0 +1,112 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48542100,
+    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+    "url": "https://news.ycombinator.com/item?id=48542100",
+    "hn_url": "https://news.ycombinator.com/item?id=48542100",
+    "score": 928,
+    "descendants": 420,
+    "by": "cloudking",
+    "time": "2026-06-15T14:46:53Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48529990,
+    "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+    "url": "https://github.com/tamnd/kage",
+    "hn_url": "https://news.ycombinator.com/item?id=48529990",
+    "score": 686,
+    "descendants": 137,
+    "by": "tamnd",
+    "time": "2026-06-14T17:25:38Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48540854,
+    "title": "CrankGPT",
+    "url": "https://crankgpt.com",
+    "hn_url": "https://news.ycombinator.com/item?id=48540854",
+    "score": 577,
+    "descendants": 220,
+    "by": "rishikeshs",
+    "time": "2026-06-15T13:20:13Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48528371,
+    "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+    "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+    "hn_url": "https://news.ycombinator.com/item?id=48528371",
+    "score": 398,
+    "descendants": 218,
+    "by": "unrvl22",
+    "time": "2026-06-14T15:37:31Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48539078,
+    "title": "Anthropic's Safety Superpower",
+    "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+    "hn_url": "https://news.ycombinator.com/item?id=48539078",
+    "score": 209,
+    "descendants": 187,
+    "by": "swolpers",
+    "time": "2026-06-15T10:06:35Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48538833,
+    "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+    "url": "https://github.com/themartiano/luz",
+    "hn_url": "https://news.ycombinator.com/item?id=48538833",
+    "score": 147,
+    "descendants": 61,
+    "by": "martiano",
+    "time": "2026-06-15T09:34:10Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48541014,
+    "title": "Can Europe train a frontier AI model on the compute it owns?",
+    "url": "https://github.com/sammysltd/euromesh",
+    "hn_url": "https://news.ycombinator.com/item?id=48541014",
+    "score": 132,
+    "descendants": 239,
+    "by": "smashini",
+    "time": "2026-06-15T13:31:09Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48544637,
+    "title": "Claude Corps",
+    "url": "https://www.anthropic.com/news/claude-corps",
+    "hn_url": "https://news.ycombinator.com/item?id=48544637",
+    "score": 125,
+    "descendants": 81,
+    "by": "Mustan",
+    "time": "2026-06-15T17:41:24Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48499993,
+    "title": "Asciline – real-time ASCII video rendering engine",
+    "url": "https://github.com/YusufB5/ASCILINE",
+    "hn_url": "https://news.ycombinator.com/item?id=48499993",
+    "score": 64,
+    "descendants": 24,
+    "by": "godot",
+    "time": "2026-06-12T04:39:46Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48550465,
+    "title": "OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B",
+    "url": "https://www.wheresyoured.at/exclusive-openai-financials/",
+    "hn_url": "https://news.ycombinator.com/item?id=48550465",
+    "score": 62,
+    "descendants": 27,
+    "by": "spking",
+    "time": "2026-06-16T04:05:48Z"
+  }
+]
