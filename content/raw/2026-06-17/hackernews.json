@@ -1,0 +1,57 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48542100,
+    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+    "url": "https://news.ycombinator.com/item?id=48542100",
+    "hn_url": "https://news.ycombinator.com/item?id=48542100",
+    "score": 1256,
+    "descendants": 535,
+    "by": "cloudking",
+    "time": "2026-06-15T14:46:53Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48558147,
+    "title": "Stop Using JWTs",
+    "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+    "hn_url": "https://news.ycombinator.com/item?id=48558147",
+    "score": 363,
+    "descendants": 209,
+    "by": "dzonga",
+    "time": "2026-06-16T16:49:46Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48559188,
+    "title": "GPT‑NL: a sovereign language model for the Netherlands",
+    "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+    "hn_url": "https://news.ycombinator.com/item?id=48559188",
+    "score": 200,
+    "descendants": 184,
+    "by": "root-parent",
+    "time": "2026-06-16T17:54:02Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48544637,
+    "title": "Claude Corps",
+    "url": "https://www.anthropic.com/news/claude-corps",
+    "hn_url": "https://news.ycombinator.com/item?id=48544637",
+    "score": 156,
+    "descendants": 118,
+    "by": "Mustan",
+    "time": "2026-06-15T17:41:24Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48561410,
+    "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+    "url": "https://github.com/nvlabs/cutile-rs",
+    "hn_url": "https://news.ycombinator.com/item?id=48561410",
+    "score": 69,
+    "descendants": 12,
+    "by": "melihelibol",
+    "time": "2026-06-16T20:17:42Z"
+  }
+]

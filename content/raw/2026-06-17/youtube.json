@@ -1,0 +1,52 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=UVeeNW_z068",
+    "video_id": "UVeeNW_z068",
+    "title": "How Lyft Builds Evals That Actually Matter in Production | Interrupt 26",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-15T12:37:30Z",
+    "description_preview": "Nick Ung, ML lead for safety and customer care at Lyft, breaks down how his team built an eval system that actually keeps pace with production AI agents at Interrupt, the agent conference by LangChain.\n\nFrom offline simulation with mocked MCP outputs to LLM-as-judge rubrics tied to real task success criteria, Nick shares the mistakes they made early  and the framework they built to close the loop between evaluation, annotation, and continuous improvement across 270K AI interactions per month.\n\nH"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=u9zLlcsCDiQ",
+    "video_id": "u9zLlcsCDiQ",
+    "title": "Build and test iOS apps without leaving Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-15T23:20:32Z",
+    "description_preview": "More of the iOS app loop, now inside Codex.\n\nThe Build iOS Apps plugin lets Codex view and test your iOS app in the in-app browser, open SwiftUI previews, and hot reload edits without leaving Codex.\n\nShoutout to the open source projects behind this:\n• Serve-sim powers the streaming simulator by \n@Baconbrix  https://github.com/EvanBacon/serve-sim\n• SnapshotPreviews extracts SwiftUI previews by Sentry https://github.com/getsentry/SnapshotPreviews"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=TDM2Dz_MuPk",
+    "video_id": "TDM2Dz_MuPk",
+    "title": "How Wayfair Uses GPT-5.5 to Power Catalog Enrichment Across 40M Products",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-15T18:02:23Z",
+    "description_preview": "Fiona Tan and her @wayfair team are leveraging GPT-5.5 and our API to power their catalog enrichment program across 40M products — helping improve how product information is organized, differentiated, and understood.\n\nNext up? Pointing Codex at their gnarliest problems.\nhttps://openai.com/index/wayfair/"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=_jNbM8pV9oI",
+    "video_id": "_jNbM8pV9oI",
+    "title": "Codex as a Solutions Engineering Partner",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-15T13:03:41Z",
+    "description_preview": "“A big part of my role as a solutions engineer is not only to build but to understand,” Stephanie Anani, Solutions Engineer, OpenAI. \n\nStephanie points Codex to Trustpilot reviews and will mock up a customer website based on the feedback to show them how easy it is to make changes. \n\nCodex can be a partner in every sort of context for you ⬇️ https://openai.com/index/codex-for-every-role-tool-workflow/"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=D1BHGv4gB6c",
+    "video_id": "D1BHGv4gB6c",
+    "title": "Claude Fable 5 BANNED: The First Model Agentic Engineers DON'T NEED",
+    "channel": "Indy Dev Dan",
+    "channel_id": "UC_x36zCEGilGpB1m-V4gmjg",
+    "published_at": "2026-06-15T13:00:02Z",
+    "description_preview": "Anthropic just shipped the best model anyone has ever seen... and then the GOVERNMENT pulled it off the shelf 💀💀💀. \n\n🔥 Claude Fable 5 is the first BANNED model — rug pulled from Pro, Max, and Team plans on June 23rd, then yanked entirely by a federal export control order after a jailbreak. But forget the mania. The real story is what Fable 5 actually does for agentic engineers, and almost nobody is talking about it.\n\nHere's the controversial truth: this is the first state-of-the-art model that 8"
+  }
+]
