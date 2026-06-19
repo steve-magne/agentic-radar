@@ -1,0 +1,72 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=uCKhOmth2ms",
+    "video_id": "uCKhOmth2ms",
+    "title": "The best AI agents are simpler than you think",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-18T14:00:08Z",
+    "description_preview": "Zack Reneau-Wedeen is the Head of Product at Sierra, the conversational AI platform behind customer-facing agents for most of the Fortune 20. Before Sierra, he spent seven years at Google as the founding PM for Google Lens and Google Podcasts, then led product at Robinhood and CoinTracker. Sierra is mostly known for customer support, but Zack reveals how and why the company is building agents that span the entire customer lifecycle, from browsing and booking to sales and loyalty. In this convers"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=OaRhpwz_TGM",
+    "video_id": "OaRhpwz_TGM",
+    "title": "The Future of AI Agents with Andrew Ng | Interrupt 26",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-17T12:34:20Z",
+    "description_preview": "Andrew Ng sat down with Harrison Chase for a wide-ranging fireside chat at Interrupt, the agent conference by LangChain. \n\nWatch the full session and get insights on: \n- How fast coding agents have evolved and how the way small teams ship is being reshaped\n- The \"product management bottleneck\" and why accelerating software development just moves the constraint somewhere else\n- How enterprises are getting incremental AI wins but missing the bigger transformation\n- The data architecture rework mos"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=dJmNs8h3Zeo",
+    "video_id": "dJmNs8h3Zeo",
+    "title": "What Is a Sandbox? (And Why Every Agent Needs One) | Spill The Tea",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-17T12:30:14Z",
+    "description_preview": "What's the tea on Sandboxes? \n\nJake Broekhuizen and Brace Sproul from the LangChain team break down Sandboxes, or isolated virtual computers your agents can use to write code, run commands, and automate browser tasks — and spin up or down on demand. \n\nBrace shares a story from his last startup where a coding agent running without a sandbox nearly wiped his boss's desktop. If it had been sandboxed, no problem: throw it away, spin up a new one. He also breaks down the two main use cases: isolation"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=ML3q7Ok4hJg",
+    "video_id": "ML3q7Ok4hJg",
+    "title": "I read every major CS paper of the last 100 years...",
+    "channel": "Fireship",
+    "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+    "published_at": "2026-06-17T16:29:01Z",
+    "description_preview": "Coder lets you self-host your coding agents with enterprise-grade security - https://fandf.co/4tZvtU5\n\nThese 10 mind-blowing computer science papers made everything in modern computing possible. In today's video, we'll take a look at how they changed the world for better or worse. \n\n#coding #programming #computerscience #computer \n\n🔖 Topics Covered\n\n- On Computable Numbers, with an Application to the Entscheidungsproblem, Alan Turing 1936\n- A Mathematical Theory of Communication, Claude Shannon "
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=ZK3JhU73W18",
+    "video_id": "ZK3JhU73W18",
+    "title": "Record & Replay in Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-18T18:57:34Z",
+    "description_preview": "Show Codex a workflow once. Reuse it as a skill.\n\nRecord & Replay lets you show Codex a recurring task, like filing an expense report or submitting a time-off request.\n\nCodex turns that demo into an inspectable, editable skill. \n\nYou control when recording starts and stops."
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=rOLKQJMLBHI",
+    "video_id": "rOLKQJMLBHI",
+    "title": "Build and test iOS apps without leaving Codex!",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-17T18:01:46Z",
+    "description_preview": "The Build iOS Apps plugin lets Codex view and test your iOS app in the in-app browser, open SwiftUI previews, and hot reload edits without leaving Codex."
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=wwfJlSF34n8",
+    "video_id": "wwfJlSF34n8",
+    "title": "You NEED to know these vibe coding secrets",
+    "channel": "Matthew Berman",
+    "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+    "published_at": "2026-06-18T17:44:06Z",
+    "description_preview": "Try Greptile Free for 14 days https://www.greptile.com/go/berman\n\nLoop Library: https://signals.forwardfuture.ai/loop-library/\nShout out to here.now for hosting the Loop Library. \nFree, instant web hosting for agents: https://here.now/r/signals\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/e"
+  }
+]

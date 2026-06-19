@@ -1,0 +1,112 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48578913,
+    "title": "Noam Shazeer Joins OpenAI",
+    "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+    "hn_url": "https://news.ycombinator.com/item?id=48578913",
+    "score": 326,
+    "descendants": 319,
+    "by": "lukasgross",
+    "time": "2026-06-18T00:26:06Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48572553,
+    "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+    "url": "https://github.com/Adam-CAD/CADAM",
+    "hn_url": "https://news.ycombinator.com/item?id=48572553",
+    "score": 208,
+    "descendants": 97,
+    "by": "zachdive",
+    "time": "2026-06-17T16:14:04Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48592163,
+    "title": "Zero-Touch OAuth for MCP",
+    "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+    "hn_url": "https://news.ycombinator.com/item?id=48592163",
+    "score": 183,
+    "descendants": 65,
+    "by": "niyikiza",
+    "time": "2026-06-18T21:54:10Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48586299,
+    "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+    "url": "https://tester.army",
+    "hn_url": "https://news.ycombinator.com/item?id=48586299",
+    "score": 116,
+    "descendants": 55,
+    "by": "okwasniewski",
+    "time": "2026-06-18T14:49:44Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48584484,
+    "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+    "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+    "hn_url": "https://news.ycombinator.com/item?id=48584484",
+    "score": 109,
+    "descendants": 88,
+    "by": "dstala",
+    "time": "2026-06-18T12:44:09Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48583703,
+    "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
+    "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+    "hn_url": "https://news.ycombinator.com/item?id=48583703",
+    "score": 105,
+    "descendants": 37,
+    "by": "showmypost",
+    "time": "2026-06-18T11:20:18Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48546549,
+    "title": "Show HN: We built an 8-bit CPU as 2nd year EE students",
+    "url": "https://github.com/c0rRupT9/STEPLA-1",
+    "hn_url": "https://news.ycombinator.com/item?id=48546549",
+    "score": 101,
+    "descendants": 42,
+    "by": "CorRupT9",
+    "time": "2026-06-15T20:22:48Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48593731,
+    "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+    "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+    "hn_url": "https://news.ycombinator.com/item?id=48593731",
+    "score": 70,
+    "descendants": 24,
+    "by": "lumpa",
+    "time": "2026-06-19T01:06:27Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48573268,
+    "title": "Agentic Resource Discovery Specification",
+    "url": "https://agenticresourcediscovery.org/introduction/",
+    "hn_url": "https://news.ycombinator.com/item?id=48573268",
+    "score": 67,
+    "descendants": 15,
+    "by": "damick",
+    "time": "2026-06-17T17:03:17Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48584761,
+    "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
+    "url": "https://github.com/cajal-technologies/talos",
+    "hn_url": "https://news.ycombinator.com/item?id=48584761",
+    "score": 50,
+    "descendants": 5,
+    "by": "mfornet",
+    "time": "2026-06-18T13:10:44Z"
+  }
+]
