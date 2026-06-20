@@ -1,0 +1,182 @@
+[
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "published_at": "2026-06-18T17:00:00Z",
+    "summary_preview": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Improving health intelligence in ChatGPT",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "published_at": "2026-06-18T11:00:00Z",
+    "summary_preview": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "published_at": "2026-06-18T08:00:00Z",
+    "summary_preview": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "published_at": "2026-06-17T10:00:00Z",
+    "summary_preview": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Google AI Blog",
+    "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+    "published_at": "2026-06-17T15:00:00Z",
+    "summary_preview": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp\" />Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+    "author": "Mike Schaekermann"
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Sean Lynch",
+    "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
+    "published_at": "2026-06-19T22:45:49Z",
+    "summary_preview": "<blockquote cite=\"https://news.ycombinator.com/item?id=48592163#48593190\"><p>The real valuable capability MCP offers over skills/CLI is isolating the auth flow outside of the agent’s context window, and potentially out of the harness completely. [...]</p>\n<p>Maybe the idealized form of MCP is just an auth gateway for the API and nothing else. That’d still be a win.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://news.ycombinator.com/item?id=48592163#48593190\">Sean Lynch</a>, comment on Hacker News</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/model-context-protocol\">model-context-protocol</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/skills\">skills</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+    "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+    "published_at": "2026-06-18T23:58:38Z",
+    "summary_preview": "<p>Today we launched a new plugin for Datasette, <a href=\"https://github.com/datasette/datasette-apps\">datasette-apps</a>, with <a href=\"https://datasette.io/blog/2026/datasette-apps/\">this launch announcement post</a> on the Datasette project blog. That post has the <em>what</em>, but I'm going to expand on that a little bit here to provide the <em>why</em>.</p>\n<h4 id=\"the-tl-dr\">The TL;DR</h4>\n<p>Datasette Apps are self-contained HTML+JavaScript applications that run in a tightly constrained <code>&lt;iframe&gt;</code> sandbox hosted on your Datasette application. They can use JavaScript to run read-only SQL queries against data in Datasette, and can run write queries too if you configure them <a href=\"https://datasette.io/blog/2026/sql-write-queries/\">with some stored queries</a>.</p>\n<p>Here's a <a href=\"https://agent.datasette.io/-/apps/01kvdp1d26g8trye3r4gc3yy9c\">very simple example</a> and a <a href=\"https://agent.datasette.io/-/apps/01ktvyaejhk07zskdx2tewxppe\">more complex cus",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "datasette-acl 0.6a0",
+    "url": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
+    "published_at": "2026-06-18T19:03:13Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-acl/releases/tag/0.6a0\">datasette-acl 0.6a0</a></p>\n        <blockquote>\n<p>This release expands <code>datasette-acl</code> from table-only permissions toward a general resource-sharing system.</p>\n</blockquote>\n<p>Alex Garcia did most of the work for this release - we're fleshing out the plugin that will allow multi-user Datasette instances finely grained control over who can access which resources within Datasette.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/datasette\">datasette</a>, <a href=\"https://simonwillison.net/tags/alex-garcia\">alex-garcia</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
+    "url": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
+    "published_at": "2026-06-17T23:58:39Z",
+    "summary_preview": "<p>Chinese AI lab <a href=\"https://z.ai/\">Z.ai</a> released GLM-5.2 <a href=\"https://x.com/Zai_org/status/2065704919299235870\">to their coding plan subscribers</a> on June 13th, and then yesterday (June 16th) released the full open weights under an MIT license. Similar in size to their previous GLM-5 and GLM-5.1 releases, this is 753B parameter, <a href=\"https://huggingface.co/zai-org/GLM-5.2\">1.51TB</a> monster - with 40 active parameters (Mixture of Experts). GLM-5.2 is a text input only model - Z.ai have a separate vision family most recently represented by <a href=\"https://x.com/Zai_org/status/2039371126984360085\">GLM-5V-Turbo</a>, but that one isn't open weights. GLM-5.2 has a 1 million token context window, up from GLM-5.1's 200,000.</p>\n<p>The buzz around this model is strong.</p>\n<p>Artificial Analysis, who run one of the most widely respected independent benchmarks: <a href=\"https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Charity Majors",
+    "url": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
+    "published_at": "2026-06-17T17:12:41Z",
+    "summary_preview": "<blockquote cite=\"https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline#footnote-2\"><p>What happened in 2025 was this: <strong>the economics of code production were turned upside down</strong>. Instead of being very hard, time-consuming, and expensive to generate code, it became effectively free and instant. Lines of code went from being treasured, reused, cared for and carefully curated, to being disposable and regenerable, practically overnight.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline#footnote-2\">Charity Majors</a>, AI demands more engineering discipline. Not less</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/charity-majors\">charity-majors</a>, <a href=\"https://simonwillison.net/tags/ai-assisted-programming\">ai-assisted-programming</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a hr",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
+    "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
+    "published_at": "2026-06-19T05:53:54Z",
+    "summary_preview": "With GLM-5.2 passing everyone's vibe check, the open models story finally becomes a real frontier story.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "The Professor of Outputmaxxing — Anjney Midha, AMP",
+    "url": "https://www.latent.space/p/anj",
+    "published_at": "2026-06-18T17:30:00Z",
+    "summary_preview": "We talk about how this legendary investor went from humble beginnings in Singapore to leading rounds in Anthropic, Mistral, Black Forest Labs, and Periodic Labs... and the AMP secret master plan!",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
+    "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
+    "published_at": "2026-06-18T04:23:05Z",
+    "summary_preview": "The only bootstrapped frontier lab announces its second product and second",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
+    "url": "https://www.latent.space/p/radical-ai",
+    "published_at": "2026-06-17T17:58:06Z",
+    "summary_preview": "Radical AI's Joseph Krause on why the moat in materials is the lab, not the model",
+    "author": "Brandon Anderson"
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "published_at": "2026-06-18T18:13:13Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "url": "https://huggingface.co/blog/peft-beyond-lora",
+    "published_at": "2026-06-18T00:00:00Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "url": "https://huggingface.co/blog/is-it-agentic-enough",
+    "published_at": "2026-06-18T00:00:00Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "url": "https://huggingface.co/blog/allenai/molmomotion",
+    "published_at": "2026-06-17T15:26:44Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "published_at": "2026-06-17T10:18:05Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "published_at": "2026-06-17T09:01:25Z",
+    "summary_preview": "",
+    "author": ""
+  }
+]
