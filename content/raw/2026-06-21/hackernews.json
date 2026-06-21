@@ -1,0 +1,134 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48600167,
+    "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+    "url": "https://arrowtsx.dev/bigger-models/",
+    "hn_url": "https://news.ycombinator.com/item?id=48600167",
+    "score": 523,
+    "descendants": 251,
+    "by": "oshrimpton",
+    "time": "2026-06-19T16:11:25Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48608645,
+    "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+    "url": "https://github.com/mysk-research/loupe",
+    "hn_url": "https://news.ycombinator.com/item?id=48608645",
+    "score": 230,
+    "descendants": 64,
+    "by": "Cider9986",
+    "time": "2026-06-20T12:08:23Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48608394,
+    "title": "Temporary Cloudflare accounts for AI agents",
+    "url": "https://blog.cloudflare.com/temporary-accounts/",
+    "hn_url": "https://news.ycombinator.com/item?id=48608394",
+    "score": 203,
+    "descendants": 106,
+    "by": "farhadhf",
+    "time": "2026-06-20T11:19:05Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48605355,
+    "title": "LLMs Are Complicated Now",
+    "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
+    "hn_url": "https://news.ycombinator.com/item?id=48605355",
+    "score": 184,
+    "descendants": 62,
+    "by": "matt_d",
+    "time": "2026-06-20T01:25:14Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48609373,
+    "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+    "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
+    "hn_url": "https://news.ycombinator.com/item?id=48609373",
+    "score": 168,
+    "descendants": 108,
+    "by": "drayfield",
+    "time": "2026-06-20T14:12:50Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48610841,
+    "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+    "url": "https://github.com/oven-sh/WebKit/pull/249",
+    "hn_url": "https://news.ycombinator.com/item?id=48610841",
+    "score": 130,
+    "descendants": 261,
+    "by": "gr4vityWall",
+    "time": "2026-06-20T17:02:49Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48611513,
+    "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
+    "url": "https://github.com/overflowy/make-look-scanned",
+    "hn_url": "https://news.ycombinator.com/item?id=48611513",
+    "score": 117,
+    "descendants": 51,
+    "by": "overflowy",
+    "time": "2026-06-20T18:17:58Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48584761,
+    "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
+    "url": "https://github.com/cajal-technologies/talos",
+    "hn_url": "https://news.ycombinator.com/item?id=48584761",
+    "score": 102,
+    "descendants": 27,
+    "by": "mfornet",
+    "time": "2026-06-18T13:10:44Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48610816,
+    "title": "Show HN: Ember, a native iOS Hacker News reader I built around accessibility",
+    "url": "https://github.com/DatanoiseTV/ember-hackernews",
+    "hn_url": "https://news.ycombinator.com/item?id=48610816",
+    "score": 93,
+    "descendants": 22,
+    "by": "sylwester",
+    "time": "2026-06-20T17:00:38Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48615680,
+    "title": "Building reliable agentic AI systems",
+    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "hn_url": "https://news.ycombinator.com/item?id=48615680",
+    "score": 71,
+    "descendants": 13,
+    "by": "sarangk90",
+    "time": "2026-06-21T04:28:39Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48570364,
+    "title": "Show HN: Microcrad – Micrograd Reimplemented in C",
+    "url": "https://github.com/oraziorillo/microcrad",
+    "hn_url": "https://news.ycombinator.com/item?id=48570364",
+    "score": 69,
+    "descendants": 21,
+    "by": "oraziorillo",
+    "time": "2026-06-17T13:34:42Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48614311,
+    "title": "Project Fetch: Phase Two",
+    "url": "https://www.anthropic.com/research/project-fetch-phase-two",
+    "hn_url": "https://news.ycombinator.com/item?id=48614311",
+    "score": 55,
+    "descendants": 20,
+    "by": "stopachka",
+    "time": "2026-06-21T00:00:25Z"
+  }
+]
