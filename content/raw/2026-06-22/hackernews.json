@@ -1,0 +1,123 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48618455,
+    "title": "Identity verification on Claude",
+    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+    "hn_url": "https://news.ycombinator.com/item?id=48618455",
+    "score": 725,
+    "descendants": 610,
+    "by": "bathory",
+    "time": "2026-06-21T12:44:13Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48600167,
+    "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+    "url": "https://arrowtsx.dev/bigger-models/",
+    "hn_url": "https://news.ycombinator.com/item?id=48600167",
+    "score": 557,
+    "descendants": 287,
+    "by": "oshrimpton",
+    "time": "2026-06-19T16:11:25Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48608645,
+    "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+    "url": "https://github.com/mysk-research/loupe",
+    "hn_url": "https://news.ycombinator.com/item?id=48608645",
+    "score": 524,
+    "descendants": 226,
+    "by": "Cider9986",
+    "time": "2026-06-20T12:08:23Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48615680,
+    "title": "Building reliable agentic AI systems",
+    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "hn_url": "https://news.ycombinator.com/item?id=48615680",
+    "score": 189,
+    "descendants": 47,
+    "by": "sarangk90",
+    "time": "2026-06-21T04:28:39Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48616713,
+    "title": "A 3D voxel game engine written in APL",
+    "url": "https://github.com/namgyaaal/avoxelgame",
+    "hn_url": "https://news.ycombinator.com/item?id=48616713",
+    "score": 151,
+    "descendants": 14,
+    "by": "sph",
+    "time": "2026-06-21T08:04:54Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48611513,
+    "title": "Show HN: Make PDFs look scanned (CLI or in the browser via WASM)",
+    "url": "https://github.com/overflowy/make-look-scanned",
+    "hn_url": "https://news.ycombinator.com/item?id=48611513",
+    "score": 147,
+    "descendants": 63,
+    "by": "overflowy",
+    "time": "2026-06-20T18:17:58Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48610841,
+    "title": "Bun has an open PR adding shared-memory threads to JavaScriptCore",
+    "url": "https://github.com/oven-sh/WebKit/pull/249",
+    "hn_url": "https://news.ycombinator.com/item?id=48610841",
+    "score": 144,
+    "descendants": 304,
+    "by": "gr4vityWall",
+    "time": "2026-06-20T17:02:49Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48618488,
+    "title": "Show HN: Teach your kids perfect pitch",
+    "url": "https://github.com/paytonjjones/bsharp",
+    "hn_url": "https://news.ycombinator.com/item?id=48618488",
+    "score": 125,
+    "descendants": 73,
+    "by": "paytonjjones",
+    "time": "2026-06-21T12:49:48Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48623434,
+    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+    "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+    "hn_url": "https://news.ycombinator.com/item?id=48623434",
+    "score": 117,
+    "descendants": 26,
+    "by": "dev-experiments",
+    "time": "2026-06-21T22:55:23Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48622590,
+    "title": "Show HN: Recall – Local project memory for Claude Code",
+    "url": "https://github.com/raiyanyahya/recall",
+    "hn_url": "https://news.ycombinator.com/item?id=48622590",
+    "score": 110,
+    "descendants": 67,
+    "by": "mateenah",
+    "time": "2026-06-21T21:05:37Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48594090,
+    "title": "An Embedded Linux on a Single Floppy",
+    "url": "https://github.com/w84death/floppinux",
+    "hn_url": "https://news.ycombinator.com/item?id=48594090",
+    "score": 77,
+    "descendants": 46,
+    "by": "modinfo",
+    "time": "2026-06-19T02:10:16Z"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "published_at": "2026-06-21T23:00:00Z",
+    "summary_preview": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
+    "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
+    "published_at": "2026-06-21T23:35:47Z",
+    "summary_preview": "<p><a href=\"https://sqlite-utils.datasette.io/en/latest/\">sqlite-utils</a> is my combined Python library and CLI tool for working with SQLite databases. It provides an extensive set of higher-level operations on top of Python's default <a href=\"https://docs.python.org/3/library/sqlite3.html\">sqlite3 package</a>, including support for <a href=\"https://sqlite-utils.datasette.io/en/latest/cli.html#transforming-tables\">complex table transformations</a>, automatic table creation <a href=\"https://sqlite-utils.datasette.io/en/latest/cli.html#inserting-json-data\">from JSON data</a> and a whole lot more.</p>\n<p>I released <a href=\"https://sqlite-utils.datasette.io/en/latest/changelog.html#rc1-2026-06-21\">sqlite-utils 4.0rc1</a>, the first release candidate for sqlite-utils v4. The major version bump indicates some (minor) backwards incompatible changes, so I'm interested in having people try this out before I commit to a stable release.</p>\n<h4 id=\"new-feature-migrations\">New feature: migration",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "sqlite-utils 4.0rc1",
+    "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything",
+    "published_at": "2026-06-21T23:30:04Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.0rc1\">sqlite-utils 4.0rc1</a></p>\n        <p>See <a href=\"https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/\">sqlite-utils 4.0rc1 adds migrations and nested transactions</a>.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/sqlite-utils\">sqlite-utils</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Temporary Cloudflare Accounts for AI agents",
+    "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+    "published_at": "2026-06-21T22:01:04Z",
+    "summary_preview": "<p><strong><a href=\"https://blog.cloudflare.com/temporary-accounts/\">Temporary Cloudflare Accounts for AI agents</a></strong></p>\nThe announcement says this is \"for AI agents\" but (as is pretty common these days) the AI hook isn't really necessary, this is an interesting feature for everyone else as well.</p>\n<p>Short version: you can now create a Cloudflare Workers project and run this, without even creating a Cloudflare account:</p>\n<pre><code>npx wrangler deploy --temporary\n</code></pre>\n<p>Cloudflare will deploy the application to a new, ephemeral project which will stay live for 60 minutes.</p>\n<p>I <a href=\"https://gist.github.com/simonw/264bd6b8a39fc34c91c9c867454c64b9\">had GPT-5.5 xhigh</a> in Codex Desktop <a href=\"https://github.com/simonw/cloudflare-redirect-resolver\">build this test application</a> providing a tool for following HTTP redirects and returning the final destination. The temporary deployment worked as advertised.</p>\n<p>Running the deployment spits out the URL ",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Quoting Sean Lynch",
+    "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
+    "published_at": "2026-06-19T22:45:49Z",
+    "summary_preview": "<blockquote cite=\"https://news.ycombinator.com/item?id=48592163#48593190\"><p>The real valuable capability MCP offers over skills/CLI is isolating the auth flow outside of the agent’s context window, and potentially out of the harness completely. [...]</p>\n<p>Maybe the idealized form of MCP is just an auth gateway for the API and nothing else. That’d still be a win.</p></blockquote>\n<p class=\"cite\">&mdash; <a href=\"https://news.ycombinator.com/item?id=48592163#48593190\">Sean Lynch</a>, comment on Hacker News</p>\n\n    <p>Tags: <a href=\"https://simonwillison.net/tags/model-context-protocol\">model-context-protocol</a>, <a href=\"https://simonwillison.net/tags/llms\">llms</a>, <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://simonwillison.net/tags/generative-ai\">generative-ai</a>, <a href=\"https://simonwillison.net/tags/skills\">skills</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[Exclusive] $250 off AI Engineer tix til Monday",
+    "url": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
+    "published_at": "2026-06-21T15:01:23Z",
+    "summary_preview": "special offer for subscribers - $250 off AI Engineer tix til Monday",
+    "author": "Latent.Space"
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] not much happened today",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
+    "published_at": "2026-06-20T08:06:05Z",
+    "summary_preview": "a quiet day lets us promo AIE one last time",
+    "author": "Latent.Space"
+  }
+]
