@@ -1,0 +1,123 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48618455,
+    "title": "Identity verification on Claude",
+    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+    "hn_url": "https://news.ycombinator.com/item?id=48618455",
+    "score": 850,
+    "descendants": 708,
+    "by": "bathory",
+    "time": "2026-06-21T12:44:13Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48626930,
+    "title": "Codex logging bug may write TBs to local SSDs",
+    "url": "https://github.com/openai/codex/issues/28224",
+    "hn_url": "https://news.ycombinator.com/item?id=48626930",
+    "score": 481,
+    "descendants": 263,
+    "by": "vantareed",
+    "time": "2026-06-22T07:30:17Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48630535,
+    "title": "The text in Claude Code’s “Extended Thinking” output",
+    "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+    "hn_url": "https://news.ycombinator.com/item?id=48630535",
+    "score": 298,
+    "descendants": 205,
+    "by": "0o_MrPatrick_o0",
+    "time": "2026-06-22T14:22:46Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48631726,
+    "title": "Show HN: Oak – Git alternative designed for agents",
+    "url": "https://oak.space/oak/oak",
+    "hn_url": "https://news.ycombinator.com/item?id=48631726",
+    "score": 181,
+    "descendants": 162,
+    "by": "zdgeier",
+    "time": "2026-06-22T15:37:48Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48634778,
+    "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+    "url": "https://github.com/dorukkumkumoglu/optocamzero",
+    "hn_url": "https://news.ycombinator.com/item?id=48634778",
+    "score": 160,
+    "descendants": 40,
+    "by": "iamnothere",
+    "time": "2026-06-22T19:19:55Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48639240,
+    "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+    "url": "https://arxiv.org/abs/2606.16140",
+    "hn_url": "https://news.ycombinator.com/item?id=48639240",
+    "score": 137,
+    "descendants": 46,
+    "by": "timhigins",
+    "time": "2026-06-23T02:01:25Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48622590,
+    "title": "Show HN: Recall – Local project memory for Claude Code",
+    "url": "https://github.com/raiyanyahya/recall",
+    "hn_url": "https://news.ycombinator.com/item?id=48622590",
+    "score": 130,
+    "descendants": 81,
+    "by": "mateenah",
+    "time": "2026-06-21T21:05:37Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48606654,
+    "title": "Lisp in the Rust Type System",
+    "url": "https://github.com/playX18/lisp-in-types/",
+    "hn_url": "https://news.ycombinator.com/item?id=48606654",
+    "score": 116,
+    "descendants": 19,
+    "by": "quasigloam",
+    "time": "2026-06-20T05:43:54Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48598591,
+    "title": "Windows NT for GameCube/Wii",
+    "url": "https://github.com/Wack0/entii-for-workcubes",
+    "hn_url": "https://news.ycombinator.com/item?id=48598591",
+    "score": 55,
+    "descendants": 9,
+    "by": "zdw",
+    "time": "2026-06-19T13:51:49Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48639063,
+    "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+    "url": "https://openai.com/index/daybreak-securing-the-world/",
+    "hn_url": "https://news.ycombinator.com/item?id=48639063",
+    "score": 53,
+    "descendants": 16,
+    "by": "AaronO",
+    "time": "2026-06-23T01:36:08Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48627625,
+    "title": "UUID: NewV7() always generates a UUID with 7000 on browsers (Golang)",
+    "url": "https://github.com/golang/go/issues/80084",
+    "hn_url": "https://news.ycombinator.com/item?id=48627625",
+    "score": 53,
+    "descendants": 7,
+    "by": "mfrw",
+    "time": "2026-06-22T08:59:26Z"
+  }
+]
