@@ -1,0 +1,209 @@
+[
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Helping build shared standards for advanced AI",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "published_at": "2026-06-23T13:00:00Z",
+    "summary_preview": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "published_at": "2026-06-23T17:00:00Z",
+    "summary_preview": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "How Omio is building the future of conversational travel",
+    "url": "https://openai.com/index/omio",
+    "published_at": "2026-06-23T00:00:00Z",
+    "summary_preview": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "published_at": "2026-06-22T10:00:00Z",
+    "summary_preview": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "url": "https://openai.com/index/patch-the-planet",
+    "published_at": "2026-06-22T10:00:00Z",
+    "summary_preview": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Codex-maxxing for long-running work",
+    "url": "https://openai.com/index/codex-maxxing-long-running-work",
+    "published_at": "2026-06-22T00:00:00Z",
+    "summary_preview": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "OpenAI Blog",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "published_at": "2026-06-21T23:00:00Z",
+    "summary_preview": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "datasette 1.0a35",
+    "url": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
+    "published_at": "2026-06-23T21:34:37Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a35\">datasette 1.0a35</a></p>\n        <p>I'll write more about this one tomorrow, but it's a big release. Three highlights from the release notes:</p>\n<blockquote>\n<ul>\n<li>New \"Create table\" interface in the database actions menu, backed by the <code>/&lt;database&gt;/-/create</code> <a href=\"https://docs.datasette.io/en/latest/json_api.html#tablecreateview\">JSON API</a>. It can define columns, primary keys, custom column types, <code>NOT NULL</code> constraints, literal defaults, expression defaults and single-column foreign keys. (<a href=\"https://github.com/simonw/datasette/issues/2787\">#2787</a>)</li>\n<li>New \"Alter table\" table action and <code>/&lt;database&gt;/&lt;table&gt;/-/alter</code> <a href=\"https://docs.datasette.io/en/latest/json_api.html#tablealterview\">JSON API</a> for changing existing tables: add, rename, reorder and drop columns; change column types, defaults, <code>NOT NULL</",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "OPFS + Pyodide test harness",
+    "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything",
+    "published_at": "2026-06-23T18:58:54Z",
+    "summary_preview": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/opfs-pyodide\">OPFS + Pyodide test harness</a></p>\n        <p>I've been pondering if <a href=\"https://lite.datasette.io/\">Datasette Lite</a> - the Python Datasette application run entirely in the browser using Pyodide and WebAssembly - might be able to edit persistent SQLite files stored on the user's computer.</p>\n<p>That's what <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/File_System_API/Origin_private_file_system\">OFPS</a> (Origin Private File System) is for, so I had Claude Code for web build me this playground UI to try it out in different browsers.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/browsers\">browsers</a>, <a href=\"https://simonwillison.net/tags/pyodide\">pyodide</a>, <a href=\"https://simonwillison.net/tags/datasette-lite\">datasette-lite</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Prompt Injection as Role Confusion",
+    "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+    "published_at": "2026-06-22T23:59:53Z",
+    "summary_preview": "<p><strong><a href=\"https://role-confusion.github.io\">Prompt Injection as Role Confusion</a></strong></p>\nFirst, I absolutely love this:</p>\n<blockquote>\n<p>This is a blog-style writeup of the paper.</p>\n</blockquote>\n<p>I wish <em>every paper</em> would come with one of these. Academic writing is pretty dry - the impact of a paper can be so much higher if you publish a readable version to accompany the formal one.</p>\n<p>Charles Ye, Jasmine Cui, and Dylan Hadfield-Menell present some fascinating research into the challenge of having models distinguish their own privileged text (here wrapped in role tags like <code>&lt;system&gt;</code>, <code>&lt;think&gt;</code>, and <code>&lt;assistant&gt;</code>) from untrusted user input wrapped in <code>&lt;user&gt;</code>.</p>\n<p>The bad news: they confirm that not only is this not possible, but it looks like models take the <em>style</em> of the text  more seriously than the actual text!</p>\n<p>This leads to some very concerning jailbreaks. Tak",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
+    "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+    "published_at": "2026-06-22T23:43:51Z",
+    "summary_preview": "<p>This morning <a href=\"https://news.ycombinator.com/item?id=48630171\">on Hacker News</a> I saw <a href=\"https://hustvl.github.io/Moebius/\">Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance</a>, describing a small but effective inpainting model - a model where you can mark regions of an image to remove and the model imagines what should fill the space. The released model <a href=\"https://github.com/hustvl/Moebius/blob/9310b76e368f5f7a8ecdf06493231af279c9973b/requirements.txt#L1\">required PyTorch and NVIDIA CUDA</a>, but since it described itself as 0.2B I decided to try and get it running using WebGPU in a browser. TL;DR: I got it working, and you can try the demo at <a href=\"https://simonw.github.io/moebius-web/\">simonw.github.io/moebius-web/</a>. Read on for the details.</p>\n<h4 id=\"the-finished-tool\">The finished tool</h4>\n<p>Here's a video demo of the finished tool:</p>\n\n<video controls=\"controls\" height=\"1070\" poster=\"https://static.simonwillison.net",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
+    "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
+    "published_at": "2026-06-21T23:35:47Z",
+    "summary_preview": "<p><a href=\"https://sqlite-utils.datasette.io/en/latest/\">sqlite-utils</a> is my combined Python library and CLI tool for working with SQLite databases. It provides an extensive set of higher-level operations on top of Python's default <a href=\"https://docs.python.org/3/library/sqlite3.html\">sqlite3 package</a>, including support for <a href=\"https://sqlite-utils.datasette.io/en/latest/cli.html#transforming-tables\">complex table transformations</a>, automatic table creation <a href=\"https://sqlite-utils.datasette.io/en/latest/cli.html#inserting-json-data\">from JSON data</a> and a whole lot more.</p>\n<p>I released <a href=\"https://sqlite-utils.datasette.io/en/latest/changelog.html#rc1-2026-06-21\">sqlite-utils 4.0rc1</a>, the first release candidate for sqlite-utils v4. The major version bump indicates some (minor) backwards incompatible changes, so I'm interested in having people try this out before I commit to a stable release.</p>\n<h4 id=\"new-feature-migrations\">New feature: migration",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "sqlite-utils 4.0rc1",
+    "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything",
+    "published_at": "2026-06-21T23:30:04Z",
+    "summary_preview": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/sqlite-utils/releases/tag/4.0rc1\">sqlite-utils 4.0rc1</a></p>\n        <p>See <a href=\"https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/\">sqlite-utils 4.0rc1 adds migrations and nested transactions</a>.</p>\n    \n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/sqlite-utils\">sqlite-utils</a></p>",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Simon Willison",
+    "title": "Temporary Cloudflare Accounts for AI agents",
+    "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+    "published_at": "2026-06-21T22:01:04Z",
+    "summary_preview": "<p><strong><a href=\"https://blog.cloudflare.com/temporary-accounts/\">Temporary Cloudflare Accounts for AI agents</a></strong></p>\nThe announcement says this is \"for AI agents\" but (as is pretty common these days) the AI hook isn't really necessary, this is an interesting feature for everyone else as well.</p>\n<p>Short version: you can now create a Cloudflare Workers project and run this, without even creating a Cloudflare account:</p>\n<pre><code>npx wrangler deploy --temporary\n</code></pre>\n<p>Cloudflare will deploy the application to a new, ephemeral project which will stay live for 60 minutes.</p>\n<p>I <a href=\"https://gist.github.com/simonw/264bd6b8a39fc34c91c9c867454c64b9\">had GPT-5.5 xhigh</a> in Codex Desktop <a href=\"https://github.com/simonw/cloudflare-redirect-resolver\">build this test application</a> providing a tool for following HTTP redirects and returning the final destination. The temporary deployment worked as advertised.</p>\n<p>Running the deployment spits out the URL ",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
+    "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
+    "published_at": "2026-06-24T07:14:26Z",
+    "summary_preview": "Claude finally gets a Slackbot upgrade",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[AINews] SpaceX is already a $28B/yr Neocloud",
+    "url": "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
+    "published_at": "2026-06-23T06:19:49Z",
+    "summary_preview": "a quiet day lets us reflect on some numbers from Jamin Ball.",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "Red-Teaming after Mythos — Zico Kolter & Matt Fredrikson, Gray Swan",
+    "url": "https://www.latent.space/p/gray-swan",
+    "published_at": "2026-06-22T21:06:55Z",
+    "summary_preview": "OpenAI boardmember Zico Kolter and Gray Swan CEO Matt Fredrikson join swyx to explain why AI security is not just &#8220;cybersecurity with AI&#8221;",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Latent Space",
+    "title": "[Exclusive] $250 off AI Engineer tix til Monday",
+    "url": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
+    "published_at": "2026-06-21T15:01:23Z",
+    "summary_preview": "special offer for subscribers - $250 off AI Engineer tix til Monday",
+    "author": "Latent.Space"
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "published_at": "2026-06-23T12:51:55Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "published_at": "2026-06-23T00:00:00Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "url": "https://huggingface.co/blog/cross-origin-storage",
+    "published_at": "2026-06-23T00:00:00Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "published_at": "2026-06-22T13:18:56Z",
+    "summary_preview": "",
+    "author": ""
+  },
+  {
+    "source": "blog",
+    "blog": "Hugging Face Blog",
+    "title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "url": "https://huggingface.co/blog/local-models-pr-triage",
+    "published_at": "2026-06-22T00:00:00Z",
+    "summary_preview": "",
+    "author": ""
+  }
+]

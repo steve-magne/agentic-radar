@@ -1,0 +1,112 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48647799,
+    "title": "F3",
+    "url": "https://github.com/future-file-format/f3",
+    "hn_url": "https://news.ycombinator.com/item?id=48647799",
+    "score": 627,
+    "descendants": 129,
+    "by": "tosh",
+    "time": "2026-06-23T16:53:32Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48643426,
+    "title": "Unlimited OCR: One-shot long-horizon parsing",
+    "url": "https://github.com/baidu/Unlimited-OCR",
+    "hn_url": "https://news.ycombinator.com/item?id=48643426",
+    "score": 466,
+    "descendants": 106,
+    "by": "ingve",
+    "time": "2026-06-23T11:35:05Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48639240,
+    "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+    "url": "https://arxiv.org/abs/2606.16140",
+    "hn_url": "https://news.ycombinator.com/item?id=48639240",
+    "score": 382,
+    "descendants": 198,
+    "by": "timhigins",
+    "time": "2026-06-23T02:01:25Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48648039,
+    "title": "Claude Tag",
+    "url": "https://www.anthropic.com/news/introducing-claude-tag",
+    "hn_url": "https://news.ycombinator.com/item?id=48648039",
+    "score": 247,
+    "descendants": 167,
+    "by": "adocomplete",
+    "time": "2026-06-23T17:09:18Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48639063,
+    "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+    "url": "https://openai.com/index/daybreak-securing-the-world/",
+    "hn_url": "https://news.ycombinator.com/item?id=48639063",
+    "score": 208,
+    "descendants": 167,
+    "by": "AaronO",
+    "time": "2026-06-23T01:36:08Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48654351,
+    "title": "Qwen-AgentWorld: Language World Models for General Agents",
+    "url": "https://arxiv.org/abs/2606.24597",
+    "hn_url": "https://news.ycombinator.com/item?id=48654351",
+    "score": 67,
+    "descendants": 10,
+    "by": "ilreb",
+    "time": "2026-06-24T02:21:47Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48622433,
+    "title": "F* file system – file search that reads SSD directly bypassing OS kernel",
+    "url": "https://github.com/dmtrKovalenko/ffs",
+    "hn_url": "https://news.ycombinator.com/item?id=48622433",
+    "score": 58,
+    "descendants": 38,
+    "by": "neogoose",
+    "time": "2026-06-21T20:44:33Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48642686,
+    "title": "Show HN: Shumai – open-source Frame.io alternative for creative work",
+    "url": "https://github.com/shumaiOne/shumai",
+    "hn_url": "https://news.ycombinator.com/item?id=48642686",
+    "score": 57,
+    "descendants": 4,
+    "by": "Yiling-J",
+    "time": "2026-06-23T10:02:54Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48645390,
+    "title": "Show HN: Bun-sqlgen – Type-safe raw SQL for Bun, no ORM",
+    "url": "https://github.com/ilbertt/bun-sqlgen",
+    "hn_url": "https://news.ycombinator.com/item?id=48645390",
+    "score": 54,
+    "descendants": 30,
+    "by": "ilbert",
+    "time": "2026-06-23T14:20:24Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48654465,
+    "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+    "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
+    "hn_url": "https://news.ycombinator.com/item?id=48654465",
+    "score": 53,
+    "descendants": 18,
+    "by": "retroplasma",
+    "time": "2026-06-24T02:38:47Z"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=VKFKyrrK-Iw",
+    "video_id": "VKFKyrrK-Iw",
+    "title": "The Agent for Your Agent.",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-23T21:18:55Z",
+    "description_preview": "Learn more about building agents in our LangChain Academy courses. Enroll for free ➡️ https://academy.langchain.com/...\n\nMost teams building today have traces, what they don't have is a system for continuously improving their agents.\n\nThe teams that do use an agent development lifecycle: build, test, deploy, and monitor. The problem with this lifecycle? It scales at the speed of their engineers.\n\nIntroducing LangSmith Engine, an agent built to improve your agent.\n\nEngine identifies issues from t"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=i_Tf956Yh0U",
+    "video_id": "i_Tf956Yh0U",
+    "title": "Turn Any LangGraph Agent Into a Voice Agent in Minutes",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-23T19:01:49Z",
+    "description_preview": "Caroline di Vittorio, software engineer at LangChain, walks through how to take an existing LangGraph multi-agent system and wire it into a fully functional voice agent using Pipecat — without rebuilding your graph from scratch. She covers the key architectural change required (dropping the checkpointer and making the graph stateless), how Pipecat handles speech-to-text, text-to-speech, voice activity detection, and interruptions out of the box, and how to get complete LangSmith traces that incl"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=6mRRTeveq-Y",
+    "video_id": "6mRRTeveq-Y",
+    "title": "Benchling's Multi-Model Trick That Catches Errors Before Humans Do | Max Agency",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-22T12:15:23Z",
+    "description_preview": "One of the first AI systems Benchling ever built wasn't a chatbot or a search tool — it was a data entry agent that runs the same problem through multiple model families simultaneously and cross-compares the results. The insight behind it: when two models disagree, there's almost always an error. When they agree, the output is usually trustworthy enough to ship.\n\nNicholas Larus-Stone, Head of AI at Benchling, breaks down how this pattern started as a data quality mechanism and expanded into hard"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=qU5-komJ-GE",
+    "video_id": "qU5-komJ-GE",
+    "title": "How Omio is building the future of conversational travel",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-23T11:30:20Z",
+    "description_preview": "What happens when one of the world's leading travel platforms combines real-time transportation data with AI?\n\nIn this customer story, Omio shares how it's using ChatGPT, Codex, and the OpenAI API to reimagine how travelers discover and book journeys, while transforming how teams build and operate across the business.\n\nHear from Tomas Vocetka, CTO at Omio, as he discusses the shift from search-based experiences to conversational travel, the company's journey to becoming AI-native, and how AI is "
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=2lmBj_XQq0I",
+    "video_id": "2lmBj_XQq0I",
+    "title": "You NEED to try these 12 open-source AI projects RIGHT NOW",
+    "channel": "Matthew Berman",
+    "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+    "published_at": "2026-06-24T00:01:49Z",
+    "description_preview": "Try Merlin AI for only $5/month with discount code MATT5: https://www.getmerlin.in/pricing\n\nLoop Library: https://signals.forwardfuture.ai/loop-library/\nLoop Skill: https://github.com/Forward-Future/loop-library\n\nShout out to here.now for hosting the Loop Library. \nFree, instant web hosting for agents: https://here.now/r/signals\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 "
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=DzbqeO_diOQ",
+    "video_id": "DzbqeO_diOQ",
+    "title": "PLANS For Fable 5: Rebuilding My /Plan Skill for Mythos Class Models",
+    "channel": "Indy Dev Dan",
+    "channel_id": "UC_x36zCEGilGpB1m-V4gmjg",
+    "published_at": "2026-06-22T13:00:21Z",
+    "description_preview": "Engineers... the future is built by those who PLAN it, not those who vibe code it. 🔥 The recently banned Fable 5 and Mythos class models just unlocked a whole new level of planning, and great planning IS great engineering. Most engineers hand their /plan off to the model and pray. That's the mass deprecation of raw engineering talent in real time.\n\n🎥 VIDEO REFERENCES\n\n- GET THE /PLANF3 SKILL: https://github.com/disler/planf3\n\n- Tactical Agentic Coding: https://agenticengineer.com/tactical-agenti"
+  }
+]
