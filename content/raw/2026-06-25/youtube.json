@@ -1,0 +1,72 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=y6WUw2_Hhrs",
+    "video_id": "y6WUw2_Hhrs",
+    "title": "How LangSmith Engine Turns Agent Traces Into Durable Memory",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-24T16:01:37Z",
+    "description_preview": "Most agents don't learn from their mistakes, they just leave traces. \n\nJake Broekhuizen walks through how to close that loop using LangSmith Engine and Context Hub, turning production traces into durable memory updates that continuously improve your agent's behavior. \n\nYou'll see a full end-to-end build with NOVA, a financial assistant Deep Agent, going from local memory to versioned context in Context Hub to automated issue detection and fixes via Engine.\n\nHow LangSmith Engine Turns Agent Trace"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=LmQtSORYPfw",
+    "video_id": "LmQtSORYPfw",
+    "title": "How Clay runs 350 million GTM agents a month | Interrupt 26",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-24T12:39:07Z",
+    "description_preview": "Jeff Barg, Head of AI at Clay, breaks down what it actually takes to run go-to-market agents at production scale — not just one agent, but 350 million a month across an entire addressable market. He covers the four hard problems Clay solved: infrastructure reliability, throughput under spiky workloads, cost (including a 70% reduction via caching), and agent quality. He also introduces Audiences, Clay's new product for giving agents the context they need to recommend plays autonomously.\n\nChapters"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=ECCi6VZcSxE",
+    "video_id": "ECCi6VZcSxE",
+    "title": "One model hallucinates during silence. So Sierra runs two. #Shorts",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-24T12:15:27Z",
+    "description_preview": "Zack Reneau-Wedeen, Head of Product at Sierra, explains how Sierra handles transcription for accents and edge cases — by running two models simultaneously and trusting each one where it's strongest. The same multi-provider philosophy extends across Claude, Gemini, and GPT-class models, as well as transcription, synthesis, and speech-to-speech.\n\nThis clip is from Max Agency, a podcast about how the best AI agents are actually being built. Hosted by Harrison Chase, CEO of LangChain, each episode g"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=VKFKyrrK-Iw",
+    "video_id": "VKFKyrrK-Iw",
+    "title": "The Agent for Your Agent.",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-23T21:18:55Z",
+    "description_preview": "Learn more about building agents in our LangChain Academy courses. Enroll for free ➡️ https://academy.langchain.com/...\n\nMost teams building today have traces, what they don't have is a system for continuously improving their agents.\n\nThe teams that do use an agent development lifecycle: build, test, deploy, and monitor. The problem with this lifecycle? It scales at the speed of their engineers.\n\nIntroducing LangSmith Engine, an agent built to improve your agent.\n\nEngine identifies issues from t"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=i_Tf956Yh0U",
+    "video_id": "i_Tf956Yh0U",
+    "title": "Turn Any LangGraph Agent Into a Voice Agent in Minutes",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-23T19:01:49Z",
+    "description_preview": "Caroline di Vittorio, software engineer at LangChain, walks through how to take an existing LangGraph multi-agent system and wire it into a fully functional voice agent using Pipecat — without rebuilding your graph from scratch. She covers the key architectural change required (dropping the checkpointer and making the graph stateless), how Pipecat handles speech-to-text, text-to-speech, voice activity detection, and interruptions out of the box, and how to get complete LangSmith traces that incl"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=qU5-komJ-GE",
+    "video_id": "qU5-komJ-GE",
+    "title": "How Omio is building the future of conversational travel",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-23T11:30:20Z",
+    "description_preview": "What happens when one of the world's leading travel platforms combines real-time transportation data with AI?\n\nIn this customer story, Omio shares how it's using ChatGPT, Codex, and the OpenAI API to reimagine how travelers discover and book journeys, while transforming how teams build and operate across the business.\n\nHear from Tomas Vocetka, CTO at Omio, as he discusses the shift from search-based experiences to conversational travel, the company's journey to becoming AI-native, and how AI is "
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=2lmBj_XQq0I",
+    "video_id": "2lmBj_XQq0I",
+    "title": "You NEED to try these 12 open-source AI projects RIGHT NOW",
+    "channel": "Matthew Berman",
+    "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+    "published_at": "2026-06-24T00:01:49Z",
+    "description_preview": "Try Merlin AI for only $5/month with discount code MATT5: https://www.getmerlin.in/pricing\n\nLoop Library: https://signals.forwardfuture.ai/loop-library/\nLoop Skill: https://github.com/Forward-Future/loop-library\n\nShout out to here.now for hosting the Loop Library. \nFree, instant web hosting for agents: https://here.now/r/signals\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 "
+  }
+]

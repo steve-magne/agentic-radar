@@ -1,0 +1,178 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48663324,
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "hn_url": "https://news.ycombinator.com/item?id=48663324",
+    "score": 660,
+    "descendants": 371,
+    "by": "jamdesk",
+    "time": "2026-06-24T17:47:00Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48660711,
+    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "url": "https://rubyllm.com/",
+    "hn_url": "https://news.ycombinator.com/item?id=48660711",
+    "score": 377,
+    "descendants": 61,
+    "by": "doener",
+    "time": "2026-06-24T14:41:41Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48664814,
+    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+    "hn_url": "https://news.ycombinator.com/item?id=48664814",
+    "score": 323,
+    "descendants": 555,
+    "by": "htrp",
+    "time": "2026-06-24T19:48:01Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48658300,
+    "title": "NSA lost access to Mythos amid Anthropic dispute",
+    "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+    "hn_url": "https://news.ycombinator.com/item?id=48658300",
+    "score": 244,
+    "descendants": 258,
+    "by": "thm",
+    "time": "2026-06-24T11:45:47Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48660267,
+    "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+    "url": "https://github.com/nubjs/nub",
+    "hn_url": "https://news.ycombinator.com/item?id=48660267",
+    "score": 230,
+    "descendants": 66,
+    "by": "colinmcd",
+    "time": "2026-06-24T14:14:18Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48654465,
+    "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+    "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
+    "hn_url": "https://news.ycombinator.com/item?id=48654465",
+    "score": 216,
+    "descendants": 94,
+    "by": "retroplasma",
+    "time": "2026-06-24T02:38:47Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48662999,
+    "title": "Computer use in Gemini 3.5 Flash",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+    "hn_url": "https://news.ycombinator.com/item?id=48662999",
+    "score": 207,
+    "descendants": 129,
+    "by": "swolpers",
+    "time": "2026-06-24T17:21:34Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48639840,
+    "title": "GLM-5.2 is a step change for open agents",
+    "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "hn_url": "https://news.ycombinator.com/item?id=48639840",
+    "score": 204,
+    "descendants": 111,
+    "by": "vantareed",
+    "time": "2026-06-23T03:23:28Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48654351,
+    "title": "Qwen-AgentWorld: Language World Models for General Agents",
+    "url": "https://arxiv.org/abs/2606.24597",
+    "hn_url": "https://news.ycombinator.com/item?id=48654351",
+    "score": 196,
+    "descendants": 54,
+    "by": "ilreb",
+    "time": "2026-06-24T02:21:47Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48667336,
+    "title": "LuaJIT 3.0 proposed syntax extensions",
+    "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+    "hn_url": "https://news.ycombinator.com/item?id=48667336",
+    "score": 132,
+    "descendants": 77,
+    "by": "phreddypharkus",
+    "time": "2026-06-25T00:41:43Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48622433,
+    "title": "F* file system – file search that reads SSD directly bypassing OS kernel",
+    "url": "https://github.com/dmtrKovalenko/ffs",
+    "hn_url": "https://news.ycombinator.com/item?id=48622433",
+    "score": 107,
+    "descendants": 49,
+    "by": "neogoose",
+    "time": "2026-06-21T20:44:33Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48666433,
+    "title": "PostgreSQL is enough (2024)",
+    "url": "https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb",
+    "hn_url": "https://news.ycombinator.com/item?id=48666433",
+    "score": 104,
+    "descendants": 76,
+    "by": "Imustaskforhelp",
+    "time": "2026-06-24T22:39:37Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48667807,
+    "title": "Bible as RAG Database",
+    "url": "https://www.crosscanon.com/",
+    "hn_url": "https://news.ycombinator.com/item?id=48667807",
+    "score": 86,
+    "descendants": 48,
+    "by": "jacksonastone",
+    "time": "2026-06-25T01:42:55Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48658095,
+    "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+    "url": "https://haystack.deepset.ai/",
+    "hn_url": "https://news.ycombinator.com/item?id=48658095",
+    "score": 86,
+    "descendants": 21,
+    "by": "doener",
+    "time": "2026-06-24T11:21:32Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48635075,
+    "title": "Self-Harness: Harnesses That Improve Themselves",
+    "url": "https://arxiv.org/abs/2606.09498",
+    "hn_url": "https://news.ycombinator.com/item?id=48635075",
+    "score": 75,
+    "descendants": 4,
+    "by": "jonnonz",
+    "time": "2026-06-22T19:45:05Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48646165,
+    "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
+    "url": "https://github.com/NotASithLord/peerd",
+    "hn_url": "https://news.ycombinator.com/item?id=48646165",
+    "score": 59,
+    "descendants": 21,
+    "by": "NotASithLord",
+    "time": "2026-06-23T15:05:00Z"
+  }
+]
