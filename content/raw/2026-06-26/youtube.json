@@ -1,0 +1,42 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=Rnjad4p62bE",
+    "video_id": "Rnjad4p62bE",
+    "title": "What is an agent harness?",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-25T10:45:30Z",
+    "description_preview": "Sydney Runkle, Software Engineer at LangChain, breaks down what \"harness\" actually means in the context of Deep Agents. It's the surrounding support layered onto the core model and tool-calling loop — all the complex engineering that needs to be present at every stage, available out of the box.\n\n#aiagents"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=y6WUw2_Hhrs",
+    "video_id": "y6WUw2_Hhrs",
+    "title": "How LangSmith Engine Turns Agent Traces Into Durable Memory",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-24T16:01:37Z",
+    "description_preview": "Most agents don't learn from their mistakes, they just leave traces. \n\nJake Broekhuizen walks through how to close that loop using LangSmith Engine and Context Hub, turning production traces into durable memory updates that continuously improve your agent's behavior. \n\nYou'll see a full end-to-end build with NOVA, a financial assistant Deep Agent, going from local memory to versioned context in Context Hub to automated issue detection and fixes via Engine.\n\nHow LangSmith Engine Turns Agent Trace"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=LmQtSORYPfw",
+    "video_id": "LmQtSORYPfw",
+    "title": "How Clay runs 350 million GTM agents a month | Interrupt 26",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-24T12:39:07Z",
+    "description_preview": "Jeff Barg, Head of AI at Clay, breaks down what it actually takes to run go-to-market agents at production scale — not just one agent, but 350 million a month across an entire addressable market. He covers the four hard problems Clay solved: infrastructure reliability, throughput under spiky workloads, cost (including a 70% reduction via caching), and agent quality. He also introduces Audiences, Clay's new product for giving agents the context they need to recommend plays autonomously.\n\nChapters"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=ECCi6VZcSxE",
+    "video_id": "ECCi6VZcSxE",
+    "title": "One model hallucinates during silence. So Sierra runs two. #Shorts",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-24T12:15:27Z",
+    "description_preview": "Zack Reneau-Wedeen, Head of Product at Sierra, explains how Sierra handles transcription for accents and edge cases — by running two models simultaneously and trusting each one where it's strongest. The same multi-provider philosophy extends across Claude, Gemini, and GPT-class models, as well as transcription, synthesis, and speech-to-speech.\n\nThis clip is from Max Agency, a podcast about how the best AI agents are actually being built. Hosted by Harrison Chase, CEO of LangChain, each episode g"
+  }
+]

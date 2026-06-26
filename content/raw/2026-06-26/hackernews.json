@@ -1,0 +1,156 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48663324,
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "hn_url": "https://news.ycombinator.com/item?id=48663324",
+    "score": 809,
+    "descendants": 461,
+    "by": "jamdesk",
+    "time": "2026-06-24T17:47:00Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48664814,
+    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+    "hn_url": "https://news.ycombinator.com/item?id=48664814",
+    "score": 759,
+    "descendants": 1233,
+    "by": "htrp",
+    "time": "2026-06-24T19:48:01Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48660711,
+    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "url": "https://rubyllm.com/",
+    "hn_url": "https://news.ycombinator.com/item?id=48660711",
+    "score": 442,
+    "descendants": 79,
+    "by": "doener",
+    "time": "2026-06-24T14:41:41Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48639840,
+    "title": "GLM-5.2 is a step change for open agents",
+    "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "hn_url": "https://news.ycombinator.com/item?id=48639840",
+    "score": 355,
+    "descendants": 210,
+    "by": "vantareed",
+    "time": "2026-06-23T03:23:28Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48675435,
+    "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+    "url": "https://github.com/inkeep/open-knowledge",
+    "hn_url": "https://news.ycombinator.com/item?id=48675435",
+    "score": 258,
+    "descendants": 126,
+    "by": "engomez",
+    "time": "2026-06-25T16:04:46Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48667336,
+    "title": "LuaJIT 3.0 proposed syntax extensions",
+    "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+    "hn_url": "https://news.ycombinator.com/item?id=48667336",
+    "score": 228,
+    "descendants": 151,
+    "by": "phreddypharkus",
+    "time": "2026-06-25T00:41:43Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48654465,
+    "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+    "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
+    "hn_url": "https://news.ycombinator.com/item?id=48654465",
+    "score": 228,
+    "descendants": 103,
+    "by": "retroplasma",
+    "time": "2026-06-24T02:38:47Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48636753,
+    "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
+    "url": "https://github.com/BohemiaInteractive/CWR",
+    "hn_url": "https://news.ycombinator.com/item?id=48636753",
+    "score": 193,
+    "descendants": 45,
+    "by": "dewey",
+    "time": "2026-06-22T21:52:54Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48642474,
+    "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+    "url": "https://github.com/plbrault/youre-the-os",
+    "hn_url": "https://news.ycombinator.com/item?id=48642474",
+    "score": 177,
+    "descendants": 30,
+    "by": "exploraz",
+    "time": "2026-06-23T09:35:26Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48667807,
+    "title": "Show HN: Bible as RAG Database",
+    "url": "https://www.crosscanon.com/",
+    "hn_url": "https://news.ycombinator.com/item?id=48667807",
+    "score": 139,
+    "descendants": 86,
+    "by": "jacksonastone",
+    "time": "2026-06-25T01:42:55Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48652997,
+    "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
+    "url": "https://github.com/decrazyo/anes",
+    "hn_url": "https://news.ycombinator.com/item?id=48652997",
+    "score": 114,
+    "descendants": 34,
+    "by": "zdw",
+    "time": "2026-06-23T23:21:35Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48678873,
+    "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
+    "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+    "hn_url": "https://news.ycombinator.com/item?id=48678873",
+    "score": 112,
+    "descendants": 94,
+    "by": "mfiguiere",
+    "time": "2026-06-25T20:36:05Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48656692,
+    "title": "GloriousEggroll's Proton has been rebased on Proton 11",
+    "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton11-1",
+    "hn_url": "https://news.ycombinator.com/item?id=48656692",
+    "score": 81,
+    "descendants": 30,
+    "by": "d3Xt3r",
+    "time": "2026-06-24T08:04:23Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48667560,
+    "title": "Mixing Visual and Textual Code",
+    "url": "https://arxiv.org/abs/2603.15855",
+    "hn_url": "https://news.ycombinator.com/item?id=48667560",
+    "score": 77,
+    "descendants": 43,
+    "by": "doppioandante",
+    "time": "2026-06-25T01:11:10Z"
+  }
+]
