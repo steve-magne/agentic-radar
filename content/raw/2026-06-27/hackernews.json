@@ -1,0 +1,200 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48690101,
+    "title": "U.S. government will decide who gets to use GPT-5.6",
+    "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+    "hn_url": "https://news.ycombinator.com/item?id=48690101",
+    "score": 967,
+    "descendants": 1031,
+    "by": "alain94040",
+    "time": "2026-06-26T18:23:14Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48689028,
+    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "hn_url": "https://news.ycombinator.com/item?id=48689028",
+    "score": 953,
+    "descendants": 588,
+    "by": "minimaxir",
+    "time": "2026-06-26T17:06:55Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48663324,
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "hn_url": "https://news.ycombinator.com/item?id=48663324",
+    "score": 818,
+    "descendants": 463,
+    "by": "jamdesk",
+    "time": "2026-06-24T17:47:00Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48664814,
+    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+    "hn_url": "https://news.ycombinator.com/item?id=48664814",
+    "score": 795,
+    "descendants": 1293,
+    "by": "htrp",
+    "time": "2026-06-24T19:48:01Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48692995,
+    "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+    "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+    "hn_url": "https://news.ycombinator.com/item?id=48692995",
+    "score": 367,
+    "descendants": 367,
+    "by": "bobrenjc93",
+    "time": "2026-06-26T22:48:28Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48642474,
+    "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+    "url": "https://github.com/plbrault/youre-the-os",
+    "hn_url": "https://news.ycombinator.com/item?id=48642474",
+    "score": 359,
+    "descendants": 79,
+    "by": "exploraz",
+    "time": "2026-06-23T09:35:26Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48692058,
+    "title": "The gap between open weights LLMs and closed source LLMs",
+    "url": "https://blog.doubleword.ai/frontier-os-llm",
+    "hn_url": "https://news.ycombinator.com/item?id=48692058",
+    "score": 181,
+    "descendants": 154,
+    "by": "kkm",
+    "time": "2026-06-26T21:14:47Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48688700,
+    "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+    "url": "https://github.com/workweave/router",
+    "hn_url": "https://news.ycombinator.com/item?id=48688700",
+    "score": 163,
+    "descendants": 95,
+    "by": "adchurch",
+    "time": "2026-06-26T16:40:11Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48678873,
+    "title": "OpenAI leans toward waiting until next year for IPO",
+    "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+    "hn_url": "https://news.ycombinator.com/item?id=48678873",
+    "score": 162,
+    "descendants": 138,
+    "by": "mfiguiere",
+    "time": "2026-06-25T20:36:05Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48652997,
+    "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
+    "url": "https://github.com/decrazyo/anes",
+    "hn_url": "https://news.ycombinator.com/item?id=48652997",
+    "score": 127,
+    "descendants": 34,
+    "by": "zdw",
+    "time": "2026-06-23T23:21:35Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48653338,
+    "title": "FEXPRs vs. vtable: how LispE interpreter works",
+    "url": "https://github.com/naver/lispe/wiki/2.7-FEXPR-vs.-vtable",
+    "hn_url": "https://news.ycombinator.com/item?id=48653338",
+    "score": 101,
+    "descendants": 6,
+    "by": "birdculture",
+    "time": "2026-06-23T23:57:41Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48656692,
+    "title": "GloriousEggroll's Proton has been rebased on Proton 11",
+    "url": "https://github.com/GloriousEggroll/proton-ge-custom/releases/tag/GE-Proton11-1",
+    "hn_url": "https://news.ycombinator.com/item?id=48656692",
+    "score": 95,
+    "descendants": 47,
+    "by": "d3Xt3r",
+    "time": "2026-06-24T08:04:23Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48656986,
+    "title": "Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter",
+    "url": "https://github.com/DDecoene/WebBaseIII",
+    "hn_url": "https://news.ycombinator.com/item?id=48656986",
+    "score": 89,
+    "descendants": 27,
+    "by": "ddecoene",
+    "time": "2026-06-24T08:46:16Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48692090,
+    "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+    "url": "https://github.com/Tessil/hopscotch-map",
+    "hn_url": "https://news.ycombinator.com/item?id=48692090",
+    "score": 88,
+    "descendants": 14,
+    "by": "gjvc",
+    "time": "2026-06-26T21:18:28Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48667560,
+    "title": "Mixing Visual and Textual Code",
+    "url": "https://arxiv.org/abs/2603.15855",
+    "hn_url": "https://news.ycombinator.com/item?id=48667560",
+    "score": 84,
+    "descendants": 43,
+    "by": "doppioandante",
+    "time": "2026-06-25T01:11:10Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48690200,
+    "title": "Slisp: Simple Lisp compiler (Linux/amd64)",
+    "url": "https://github.com/skx/slisp",
+    "hn_url": "https://news.ycombinator.com/item?id=48690200",
+    "score": 62,
+    "descendants": 3,
+    "by": "stevekemp",
+    "time": "2026-06-26T18:30:11Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48662988,
+    "title": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
+    "url": "https://github.com/dbos-inc/dbosify-py",
+    "hn_url": "https://news.ycombinator.com/item?id=48662988",
+    "score": 50,
+    "descendants": 8,
+    "by": "KraftyOne",
+    "time": "2026-06-24T17:20:48Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48694802,
+    "title": "Ask HN: MacBook vs. Dedicated GPU for LLM",
+    "url": "https://news.ycombinator.com/item?id=48694802",
+    "hn_url": "https://news.ycombinator.com/item?id=48694802",
+    "score": 24,
+    "descendants": 48,
+    "by": "mzubairtahir",
+    "time": "2026-06-27T03:17:43Z"
+  }
+]

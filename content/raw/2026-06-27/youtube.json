@@ -1,0 +1,42 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=c2fLLS7np3Y",
+    "video_id": "c2fLLS7np3Y",
+    "title": "How Monday.com Built Sidekick on Deep Agents | Interrupt 2026",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-26T12:53:17Z",
+    "description_preview": "Omri Bruchim, engineering manager at monday.com, walks through the full journey of building Sidekick — monday.com's intelligent personal assistant — from a simple LangChain React loop all the way to a production-grade agentic system powered by Deep Agents. He covers the real scaling failures that forced a rebuild, and the four engineering principles that got them to a 94% error recovery rate in production.\n\nChapters:\n0:00 Introduction and what we're covering today\n0:31 About Omri and the monday."
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=Rnjad4p62bE",
+    "video_id": "Rnjad4p62bE",
+    "title": "What is an agent harness?",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-25T10:45:30Z",
+    "description_preview": "Sydney Runkle, Software Engineer at LangChain, breaks down what \"harness\" actually means in the context of Deep Agents. It's the surrounding support layered onto the core model and tool-calling loop — all the complex engineering that needs to be present at every stage, available out of the box.\n\n#aiagents"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=SPC_yCe1cUw",
+    "video_id": "SPC_yCe1cUw",
+    "title": "Builders Unscripted: Ep. 4 - Pietro Schirano",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-26T19:40:00Z",
+    "description_preview": "Pietro Schirano, Founder & CEO of MagicPath sits down with Romain Huet to talk about pushing the creative edges of GPT-5.5 and using Codex to turn ideas into software.\n\n03:45 Images into sound\n07:57 Multi-agent Codex workflows\n14:34 Reviving hardware with Codex\n25:27 From doing to directing"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=mFwWax5pLTs",
+    "video_id": "mFwWax5pLTs",
+    "title": "Verso, l'entreprise qui ne dort jamais",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-26T11:00:22Z",
+    "description_preview": "Découvrez comment Verso développe une entreprise véritablement AI-native. Lors de cette session enregistrée lors de l'événement OpenAI France en juin 2026, Lydia Bellahouel, cofondatrice et CEO de Verso, partage la manière dont son équipe s'appuie sur les modèles OpenAI, Codex et des systèmes multi-agents pour automatiser ses opérations, accélérer la recherche consommateur et faire évoluer l'entreprise avec une structure particulièrement légère.\n\nLydia explique comment fonctionne le « Verso Brai"
+  }
+]
