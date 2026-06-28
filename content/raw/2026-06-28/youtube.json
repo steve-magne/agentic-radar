@@ -1,0 +1,42 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=Ql0E0XH5PsY",
+    "video_id": "Ql0E0XH5PsY",
+    "title": "CLI vs MCP: Which Should You Use for Building AI Agents? #LearnOnShorts",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-27T12:15:21Z",
+    "description_preview": "Brace Sproul and Jake Broekhuizen break down when to use MCP servers vs CLIs when building AI agents. MCPs give you enterprise-grade auth, human-in-the-loop permissioning, and richer tool access — but at a steep token cost. CLIs are leaner and work best when the model already knows the interface.\n\n#Shorts #AIAgents #MCP #CLI"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=c2fLLS7np3Y",
+    "video_id": "c2fLLS7np3Y",
+    "title": "How Monday.com Built Sidekick on Deep Agents | Interrupt 2026",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-26T12:53:17Z",
+    "description_preview": "Omri Bruchim, engineering manager at monday.com, walks through the full journey of building Sidekick — monday.com's intelligent personal assistant — from a simple LangChain React loop all the way to a production-grade agentic system powered by Deep Agents. He covers the real scaling failures that forced a rebuild, and the four engineering principles that got them to a 94% error recovery rate in production.\n\nChapters:\n0:00 Introduction and what we're covering today\n0:31 About Omri and the monday."
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=SPC_yCe1cUw",
+    "video_id": "SPC_yCe1cUw",
+    "title": "Builders Unscripted: Ep. 4 - Pietro Schirano",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-26T19:40:00Z",
+    "description_preview": "Pietro Schirano, Founder & CEO of MagicPath sits down with Romain Huet to talk about pushing the creative edges of GPT-5.5 and using Codex to turn ideas into software.\n\n03:45 Images into sound\n07:57 Multi-agent Codex workflows\n14:34 Reviving hardware with Codex\n25:27 From doing to directing"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=mFwWax5pLTs",
+    "video_id": "mFwWax5pLTs",
+    "title": "Verso, l'entreprise qui ne dort jamais",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-26T11:00:22Z",
+    "description_preview": "Découvrez comment Verso développe une entreprise véritablement AI-native. Lors de cette session enregistrée lors de l'événement OpenAI France en juin 2026, Lydia Bellahouel, cofondatrice et CEO de Verso, partage la manière dont son équipe s'appuie sur les modèles OpenAI, Codex et des systèmes multi-agents pour automatiser ses opérations, accélérer la recherche consommateur et faire évoluer l'entreprise avec une structure particulièrement légère.\n\nLydia explique comment fonctionne le « Verso Brai"
+  }
+]

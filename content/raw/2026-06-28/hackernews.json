@@ -1,0 +1,101 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48689028,
+    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "hn_url": "https://news.ycombinator.com/item?id=48689028",
+    "score": 1111,
+    "descendants": 722,
+    "by": "minimaxir",
+    "time": "2026-06-26T17:06:55Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48698617,
+    "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+    "url": "https://github.com/bikini/exploitarium",
+    "hn_url": "https://news.ycombinator.com/item?id=48698617",
+    "score": 777,
+    "descendants": 302,
+    "by": "binyu",
+    "time": "2026-06-27T14:31:00Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48696585,
+    "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+    "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "hn_url": "https://news.ycombinator.com/item?id=48696585",
+    "score": 751,
+    "descendants": 315,
+    "by": "aurenvale",
+    "time": "2026-06-27T09:18:52Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48678873,
+    "title": "OpenAI leans toward waiting until next year for IPO",
+    "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+    "hn_url": "https://news.ycombinator.com/item?id=48678873",
+    "score": 176,
+    "descendants": 150,
+    "by": "mfiguiere",
+    "time": "2026-06-25T20:36:05Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48703258,
+    "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+    "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+    "hn_url": "https://news.ycombinator.com/item?id=48703258",
+    "score": 109,
+    "descendants": 23,
+    "by": "jakogut",
+    "time": "2026-06-28T00:46:52Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48701512,
+    "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+    "url": "https://github.com/kageroumado/adrafinil",
+    "hn_url": "https://news.ycombinator.com/item?id=48701512",
+    "score": 108,
+    "descendants": 71,
+    "by": "kageroumado",
+    "time": "2026-06-27T20:34:53Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48692090,
+    "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+    "url": "https://github.com/Tessil/hopscotch-map",
+    "hn_url": "https://news.ycombinator.com/item?id=48692090",
+    "score": 106,
+    "descendants": 22,
+    "by": "gjvc",
+    "time": "2026-06-26T21:18:28Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48662988,
+    "title": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
+    "url": "https://github.com/dbos-inc/dbosify-py",
+    "hn_url": "https://news.ycombinator.com/item?id=48662988",
+    "score": 85,
+    "descendants": 19,
+    "by": "KraftyOne",
+    "time": "2026-06-24T17:20:48Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48695363,
+    "title": "IBM MCGA Gate Array Reverse Engineering",
+    "url": "https://github.com/schlae/IBM_MCGA",
+    "hn_url": "https://news.ycombinator.com/item?id=48695363",
+    "score": 53,
+    "descendants": 8,
+    "by": "userbinator",
+    "time": "2026-06-27T05:17:08Z"
+  }
+]
