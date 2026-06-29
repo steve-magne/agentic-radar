@@ -1,0 +1,12 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=Ql0E0XH5PsY",
+    "video_id": "Ql0E0XH5PsY",
+    "title": "CLI vs MCP: Which Should You Use for Building AI Agents? #LearnOnShorts",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-27T12:15:21Z",
+    "description_preview": "Brace Sproul and Jake Broekhuizen break down when to use MCP servers vs CLIs when building AI agents. MCPs give you enterprise-grade auth, human-in-the-loop permissioning, and richer tool access — but at a steep token cost. CLIs are leaner and work best when the model already knows the interface.\n\n#Shorts #AIAgents #MCP #CLI"
+  }
+]
