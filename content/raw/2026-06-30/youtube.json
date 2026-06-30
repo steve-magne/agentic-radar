@@ -1,0 +1,42 @@
+[
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=5AkdMangfNk",
+    "video_id": "5AkdMangfNk",
+    "title": "Dynamic Subagents: How to Run Parallel Agents Reliably in Deep Agents",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-29T15:41:13Z",
+    "description_preview": "Colin Francis, a software engineer at LangChain, walks through dynamic subagents — a new feature in Deep Agents that lets your agent spawn and coordinate subagents programmatically by writing code. Instead of relying on the agent to orchestrate dozens of tool calls in sequence (and inevitably losing the plot), the orchestration logic moves into code, giving you reliable coverage at scale and real control flow. The video covers all six patterns — from Classify and Act to Loop Until Done — with li"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=agSRMrhNTf4",
+    "video_id": "agSRMrhNTf4",
+    "title": "Why Enterprise AI Adoption Is Slower Than You Think — Aaron Levie (Box) + Harrison Chase",
+    "channel": "LangChain",
+    "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "published_at": "2026-06-29T12:32:25Z",
+    "description_preview": "Aaron Levie, CEO of Box, sits down with Harrison Chase, co-founder and CEO of LangChain, to dig into why AI agents are thriving in software development but still struggling to break through in the rest of the enterprise. Aaron breaks down the structural reasons the knowledge work gap exists, how Box is building its agent harness, and why being headless might actually drive more usage than it kills.\n\nChapters:\n0:00 Why Aaron tweets so much (and never uses AI to do it)\n1:58 Box's core mission: bri"
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=f-HiB82Tl94",
+    "video_id": "f-HiB82Tl94",
+    "title": "Advent Accelerates Deals with ChatGPT + Codex",
+    "channel": "OpenAI",
+    "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "published_at": "2026-06-29T14:30:09Z",
+    "description_preview": "ChatGPT + Codex are a one-two punch for investment firms. \n\n\"Having the ability to connect your deal folder with all of the context, and then be able to ask ChatGPT and Codex real time questions has been really impactful to our workflows,\" - Jasmine Azizi (Advent). \n\nFinancial firms hold a tremendous amount of context. ChatGPT acts like a brain layer so teams can spend more time focusing on the next big bet."
+  },
+  {
+    "source": "youtube",
+    "url": "https://www.youtube.com/watch?v=cFYdiynrxpQ",
+    "video_id": "cFYdiynrxpQ",
+    "title": "GLM-5.2 vs MiniMax-M3: Opus Has REAL COMPETITION (Model Stacking)",
+    "channel": "Indy Dev Dan",
+    "channel_id": "UC_x36zCEGilGpB1m-V4gmjg",
+    "published_at": "2026-06-29T13:00:34Z",
+    "description_preview": "Engineers, it's official: Opus has REAL competition. And it's NOT another closed model from a big lab. 🔥\n\nI used to ignore open source LLMs. That ends today.\n\nThe dirty secret of 2026? GLM-5.2 just became the leading open weight model on the Artificial Analysis Intelligence Index, MiniMax-M3 is right behind it, and they're doing it at roughly 1/5 the price of Opus 4.8. \n\n🎥 VIDEO REFERENCES\n\n• AA Article — GLM-5.2 is the new leading open-weights model on the Intelligence Index: https://artificial"
+  }
+]

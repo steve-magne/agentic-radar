@@ -1,0 +1,123 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48709670,
+    "title": "GLM 5.2 beats Claude in our benchmarks",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "hn_url": "https://news.ycombinator.com/item?id=48709670",
+    "score": 1076,
+    "descendants": 499,
+    "by": "jms703",
+    "time": "2026-06-28T17:50:47Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48708941,
+    "title": "I used Claude Code to get a second opinion on my MRI",
+    "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+    "hn_url": "https://news.ycombinator.com/item?id=48708941",
+    "score": 552,
+    "descendants": 685,
+    "by": "engmarketer",
+    "time": "2026-06-28T16:35:19Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48710232,
+    "title": "Librepods: AirPods liberated",
+    "url": "https://github.com/librepods-org/librepods",
+    "hn_url": "https://news.ycombinator.com/item?id=48710232",
+    "score": 486,
+    "descendants": 176,
+    "by": "rbanffy",
+    "time": "2026-06-28T18:48:53Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48722052,
+    "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+    "url": "https://github.com/deepreinforce-ai/Ornith-1",
+    "hn_url": "https://news.ycombinator.com/item?id=48722052",
+    "score": 196,
+    "descendants": 39,
+    "by": "danboarder",
+    "time": "2026-06-29T17:16:17Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48702825,
+    "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+    "url": "https://arxiv.org/abs/2606.22283",
+    "hn_url": "https://news.ycombinator.com/item?id=48702825",
+    "score": 154,
+    "descendants": 22,
+    "by": "Jimmc414",
+    "time": "2026-06-27T23:30:14Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48714802,
+    "title": "Herdr: Agent multiplexer that lives in your terminal",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "hn_url": "https://news.ycombinator.com/item?id=48714802",
+    "score": 148,
+    "descendants": 96,
+    "by": "mzehrer",
+    "time": "2026-06-29T04:27:46Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48720186,
+    "title": "Linux for the Sega MegaDrive",
+    "url": "https://github.com/LinuxMD/linuxmd",
+    "hn_url": "https://news.ycombinator.com/item?id=48720186",
+    "score": 81,
+    "descendants": 10,
+    "by": "HardwareLust",
+    "time": "2026-06-29T15:01:39Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48709744,
+    "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
+    "url": "https://deep-reinforce.com/ornith_1_0.html",
+    "hn_url": "https://news.ycombinator.com/item?id=48709744",
+    "score": 70,
+    "descendants": 7,
+    "by": "kordlessagain",
+    "time": "2026-06-28T17:58:04Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48722802,
+    "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+    "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+    "hn_url": "https://news.ycombinator.com/item?id=48722802",
+    "score": 68,
+    "descendants": 20,
+    "by": "matt_d",
+    "time": "2026-06-29T18:03:26Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48697599,
+    "title": "Kb – Prolog Knowledge Base",
+    "url": "https://github.com/mat-mgm/kb-prolog",
+    "hn_url": "https://news.ycombinator.com/item?id=48697599",
+    "score": 66,
+    "descendants": 7,
+    "by": "triska",
+    "time": "2026-06-27T12:16:27Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48723677,
+    "title": "JumpServer: Open-Source Privileged Access Management",
+    "url": "https://github.com/jumpserver/jumpserver",
+    "hn_url": "https://news.ycombinator.com/item?id=48723677",
+    "score": 66,
+    "descendants": 30,
+    "by": "neitsab",
+    "time": "2026-06-29T19:06:17Z"
+  }
+]
