@@ -1,0 +1,90 @@
+[
+  {
+    "source": "hackernews",
+    "hn_id": 48734373,
+    "title": "Claude Code is steganographically marking requests",
+    "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+    "hn_url": "https://news.ycombinator.com/item?id=48734373",
+    "score": 1819,
+    "descendants": 517,
+    "by": "kirushik",
+    "time": "2026-06-30T15:44:24Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48736605,
+    "title": "Claude Sonnet 5",
+    "url": "https://www.anthropic.com/news/claude-sonnet-5",
+    "hn_url": "https://news.ycombinator.com/item?id=48736605",
+    "score": 1074,
+    "descendants": 620,
+    "by": "marinesebastian",
+    "time": "2026-06-30T17:59:52Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48740771,
+    "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+    "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+    "hn_url": "https://news.ycombinator.com/item?id=48740771",
+    "score": 608,
+    "descendants": 328,
+    "by": "Pragmata",
+    "time": "2026-06-30T23:55:12Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48735770,
+    "title": "Claude Science",
+    "url": "https://claude.com/product/claude-science",
+    "hn_url": "https://news.ycombinator.com/item?id=48735770",
+    "score": 462,
+    "descendants": 140,
+    "by": "lebovic",
+    "time": "2026-06-30T17:07:41Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48735444,
+    "title": "Nano Banana 2 Lite",
+    "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+    "hn_url": "https://news.ycombinator.com/item?id=48735444",
+    "score": 358,
+    "descendants": 143,
+    "by": "minimaxir",
+    "time": "2026-06-30T16:48:37Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48720186,
+    "title": "Linux for the Sega MegaDrive",
+    "url": "https://github.com/LinuxMD/linuxmd",
+    "hn_url": "https://news.ycombinator.com/item?id=48720186",
+    "score": 201,
+    "descendants": 65,
+    "by": "HardwareLust",
+    "time": "2026-06-29T15:01:39Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48740698,
+    "title": "Google copybara: moving code between repositories",
+    "url": "https://github.com/google/copybara",
+    "hn_url": "https://news.ycombinator.com/item?id=48740698",
+    "score": 182,
+    "descendants": 25,
+    "by": "reconnecting",
+    "time": "2026-06-30T23:45:39Z"
+  },
+  {
+    "source": "hackernews",
+    "hn_id": 48741748,
+    "title": "ArXiv's Next Chapter",
+    "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+    "hn_url": "https://news.ycombinator.com/item?id=48741748",
+    "score": 71,
+    "descendants": 9,
+    "by": "subset",
+    "time": "2026-07-01T02:51:36Z"
+  }
+]
